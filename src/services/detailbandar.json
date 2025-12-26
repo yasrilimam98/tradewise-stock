@@ -1,0 +1,424 @@
+{
+  "message": "Successfully retrieved broker activity detail",
+    "data": {
+    "bandar_detector": {
+      "average": 1024.9727,
+        "avg": {
+        "accdist": "Big Dist",
+          "amount": -10308458000,
+            "percent": -238.60736,
+              "vol": -100573
+      },
+      "avg5": {
+        "accdist": "Big Dist",
+          "amount": -10307228000,
+            "percent": -238.57889,
+              "vol": -100561
+      },
+      "broker_accdist": "Dist",
+        "number_broker_buysell": 3,
+          "top1": {
+        "accdist": "Big Dist",
+          "amount": -9344369000,
+            "percent": -216.29181,
+              "vol": -91167
+      },
+      "top3": {
+        "accdist": "Big Dist",
+          "amount": -10859586000,
+            "percent": -251.36418,
+              "vol": -105950
+      },
+      "top5": {
+        "accdist": "Big Dist",
+          "amount": -9758560000,
+            "percent": -225.879,
+              "vol": -95208
+      },
+      "top10": {
+        "accdist": "Big Dist",
+          "amount": -8480111600,
+            "percent": -196.28706,
+              "vol": -82735
+      },
+      "total_buyer": 18,
+        "total_seller": 15,
+          "value": 4320260000,
+            "volume": 42150
+    },
+    "broker_summary": {
+      "brokers_buy": [
+        {
+          "blot": "10000",
+          "blotv": "",
+          "bval": "2.22e+09",
+          "bvalv": "",
+          "netbs_broker_code": "AF",
+          "netbs_buy_avg_price": "2220",
+          "netbs_date": "20251224",
+          "netbs_stock_code": "CUAN",
+          "type": "Lokal"
+        },
+        {
+          "blot": "2345",
+          "blotv": "",
+          "bval": "7.6002e+08",
+          "bvalv": "",
+          "netbs_broker_code": "AF",
+          "netbs_buy_avg_price": "3241.0234541577825",
+          "netbs_date": "20251224",
+          "netbs_stock_code": "BRPT",
+          "type": "Lokal"
+        },
+        {
+          "blot": "700",
+          "blotv": "",
+          "bval": "2.629e+08",
+          "bvalv": "",
+          "netbs_broker_code": "AF",
+          "netbs_buy_avg_price": "3755.714285714286",
+          "netbs_date": "20251224",
+          "netbs_stock_code": "BBRI",
+          "type": "Lokal"
+        },
+        {
+          "blot": "2250",
+          "blotv": "",
+          "bval": "2.4525e+08",
+          "bvalv": "",
+          "netbs_broker_code": "AF",
+          "netbs_buy_avg_price": "1090",
+          "netbs_date": "20251224",
+          "netbs_stock_code": "PGEO",
+          "type": "Lokal"
+        },
+        {
+          "blot": "10000",
+          "blotv": "",
+          "bval": "2.3e+08",
+          "bvalv": "",
+          "netbs_broker_code": "AF",
+          "netbs_buy_avg_price": "230",
+          "netbs_date": "20251224",
+          "netbs_stock_code": "LIVE",
+          "type": "Lokal"
+        },
+        {
+          "blot": "550",
+          "blotv": "",
+          "bval": "1.805e+08",
+          "bvalv": "",
+          "netbs_broker_code": "AF",
+          "netbs_buy_avg_price": "3281.818181818182",
+          "netbs_date": "20251224",
+          "netbs_stock_code": "WIFI",
+          "type": "Lokal"
+        },
+        {
+          "blot": "1400",
+          "blotv": "",
+          "bval": "1.519e+08",
+          "bvalv": "",
+          "netbs_broker_code": "AF",
+          "netbs_buy_avg_price": "1070",
+          "netbs_date": "20251224",
+          "netbs_stock_code": "HRUM",
+          "type": "Lokal"
+        },
+        {
+          "blot": "1900",
+          "blotv": "",
+          "bval": "6.965e+07",
+          "bvalv": "",
+          "netbs_broker_code": "AF",
+          "netbs_buy_avg_price": "366.57894736842104",
+          "netbs_date": "20251224",
+          "netbs_stock_code": "BUMI",
+          "type": "Lokal"
+        },
+        {
+          "blot": "2600",
+          "blotv": "",
+          "bval": "5.772e+07",
+          "bvalv": "",
+          "netbs_broker_code": "AF",
+          "netbs_buy_avg_price": "222",
+          "netbs_date": "20251224",
+          "netbs_stock_code": "CSMI",
+          "type": "Lokal"
+        },
+        {
+          "blot": "6575",
+          "blotv": "",
+          "bval": "4.734e+07",
+          "bvalv": "",
+          "netbs_broker_code": "AF",
+          "netbs_buy_avg_price": "72",
+          "netbs_date": "20251224",
+          "netbs_stock_code": "HOKI",
+          "type": "Lokal"
+        },
+        {
+          "blot": "2000",
+          "blotv": "",
+          "bval": "2.635e+07",
+          "bvalv": "",
+          "netbs_broker_code": "AF",
+          "netbs_buy_avg_price": "132.66666666666666",
+          "netbs_date": "20251224",
+          "netbs_stock_code": "WEHA",
+          "type": "Lokal"
+        },
+        {
+          "blot": "600.0000000000001",
+          "blotv": "",
+          "bval": "2.28e+07",
+          "bvalv": "",
+          "netbs_broker_code": "AF",
+          "netbs_buy_avg_price": "379.99999999999994",
+          "netbs_date": "20251224",
+          "netbs_stock_code": "BULL",
+          "type": "Lokal"
+        },
+        {
+          "blot": "360",
+          "blotv": "",
+          "bval": "2.016e+07",
+          "bvalv": "",
+          "netbs_broker_code": "AF",
+          "netbs_buy_avg_price": "560",
+          "netbs_date": "20251224",
+          "netbs_stock_code": "DEWA",
+          "type": "Lokal"
+        },
+        {
+          "blot": "300",
+          "blotv": "",
+          "bval": "1.02e+07",
+          "bvalv": "",
+          "netbs_broker_code": "AF",
+          "netbs_buy_avg_price": "340",
+          "netbs_date": "20251224",
+          "netbs_stock_code": "MINA",
+          "type": "Lokal"
+        },
+        {
+          "blot": "50",
+          "blotv": "",
+          "bval": "5.6e+06",
+          "bvalv": "",
+          "netbs_broker_code": "AF",
+          "netbs_buy_avg_price": "1245.909090909091",
+          "netbs_date": "20251224",
+          "netbs_stock_code": "BUVA",
+          "type": "Lokal"
+        },
+        {
+          "blot": "300",
+          "blotv": "",
+          "bval": "3.34e+06",
+          "bvalv": "",
+          "netbs_broker_code": "AF",
+          "netbs_buy_avg_price": "111.33333333333333",
+          "netbs_date": "20251224",
+          "netbs_stock_code": "PADI",
+          "type": "Lokal"
+        },
+        {
+          "blot": "20",
+          "blotv": "",
+          "bval": "3.31e+06",
+          "bvalv": "",
+          "netbs_broker_code": "AF",
+          "netbs_buy_avg_price": "1655",
+          "netbs_date": "20251224",
+          "netbs_stock_code": "DVLA",
+          "type": "Lokal"
+        },
+        {
+          "blot": "200",
+          "blotv": "",
+          "bval": "3.22e+06",
+          "bvalv": "",
+          "netbs_broker_code": "AF",
+          "netbs_buy_avg_price": "161",
+          "netbs_date": "20251224",
+          "netbs_stock_code": "LABA",
+          "type": "Lokal"
+        }
+      ],
+        "brokers_sell": [
+          {
+            "netbs_broker_code": "AF",
+            "netbs_date": "20251224",
+            "netbs_sell_avg_price": "3254.2807364413165",
+            "netbs_stock_code": "ANTM",
+            "slot": "-101167",
+            "slotv": "",
+            "sval": "-3.292701e+10",
+            "svalv": "",
+            "type": "Lokal"
+          },
+          {
+            "netbs_broker_code": "AF",
+            "netbs_date": "20251224",
+            "netbs_sell_avg_price": "1138.280247207036",
+            "netbs_stock_code": "NCKL",
+            "slot": "-16828",
+            "slotv": "",
+            "sval": "-1.915498e+09",
+            "svalv": "",
+            "type": "Lokal"
+          },
+          {
+            "netbs_broker_code": "AF",
+            "netbs_date": "20251224",
+            "netbs_sell_avg_price": "1915",
+            "netbs_stock_code": "PGAS",
+            "slot": "-1000",
+            "slotv": "",
+            "sval": "-1.915e+08",
+            "svalv": "",
+            "type": "Lokal"
+          },
+          {
+            "netbs_broker_code": "AF",
+            "netbs_date": "20251224",
+            "netbs_sell_avg_price": "1460",
+            "netbs_stock_code": "RLCO",
+            "slot": "-1130",
+            "slotv": "",
+            "sval": "-1.6498e+08",
+            "svalv": "",
+            "type": "Lokal"
+          },
+          {
+            "netbs_broker_code": "AF",
+            "netbs_date": "20251224",
+            "netbs_sell_avg_price": "4345.58201058201",
+            "netbs_stock_code": "CITA",
+            "slot": "-378",
+            "slotv": "",
+            "sval": "-1.64263e+08",
+            "svalv": "",
+            "type": "Lokal"
+          },
+          {
+            "netbs_broker_code": "AF",
+            "netbs_date": "20251224",
+            "netbs_sell_avg_price": "6200",
+            "netbs_stock_code": "AMMN",
+            "slot": "-200",
+            "slotv": "",
+            "sval": "-1.24e+08",
+            "svalv": "",
+            "type": "Lokal"
+          },
+          {
+            "netbs_broker_code": "AF",
+            "netbs_date": "20251224",
+            "netbs_sell_avg_price": "1660",
+            "netbs_stock_code": "CDIA",
+            "slot": "-150",
+            "slotv": "",
+            "sval": "-2.485e+07",
+            "svalv": "",
+            "type": "Lokal"
+          },
+          {
+            "netbs_broker_code": "AF",
+            "netbs_date": "20251224",
+            "netbs_sell_avg_price": "7250",
+            "netbs_stock_code": "TKIM",
+            "slot": "-20",
+            "slotv": "",
+            "sval": "-1.45e+07",
+            "svalv": "",
+            "type": "Lokal"
+          },
+          {
+            "netbs_broker_code": "AF",
+            "netbs_date": "20251224",
+            "netbs_sell_avg_price": "931.060606060606",
+            "netbs_stock_code": "SUPA",
+            "slot": "-132",
+            "slotv": "",
+            "sval": "-1.229e+07",
+            "svalv": "",
+            "type": "Lokal"
+          },
+          {
+            "netbs_broker_code": "AF",
+            "netbs_date": "20251224",
+            "netbs_sell_avg_price": "2020",
+            "netbs_stock_code": "HRTA",
+            "slot": "-50",
+            "slotv": "",
+            "sval": "-1.01e+07",
+            "svalv": "",
+            "type": "Lokal"
+          },
+          {
+            "netbs_broker_code": "AF",
+            "netbs_date": "20251224",
+            "netbs_sell_avg_price": "8000",
+            "netbs_stock_code": "BBCA",
+            "slot": "-10",
+            "slotv": "",
+            "sval": "-8e+06",
+            "svalv": "",
+            "type": "Lokal"
+          },
+          {
+            "netbs_broker_code": "AF",
+            "netbs_date": "20251224",
+            "netbs_sell_avg_price": "374",
+            "netbs_stock_code": "SMIL",
+            "slot": "0",
+            "slotv": "",
+            "sval": "-4.2e+06",
+            "svalv": "",
+            "type": "Lokal"
+          },
+          {
+            "netbs_broker_code": "AF",
+            "netbs_date": "20251224",
+            "netbs_sell_avg_price": "2400",
+            "netbs_stock_code": "TEBE",
+            "slot": "-15",
+            "slotv": "",
+            "sval": "-3.6e+06",
+            "svalv": "",
+            "type": "Lokal"
+          },
+          {
+            "netbs_broker_code": "AF",
+            "netbs_date": "20251224",
+            "netbs_sell_avg_price": "1100",
+            "netbs_stock_code": "NICL",
+            "slot": "-25",
+            "slotv": "",
+            "sval": "-2.75e+06",
+            "svalv": "",
+            "type": "Lokal"
+          },
+          {
+            "netbs_broker_code": "AF",
+            "netbs_date": "20251224",
+            "netbs_sell_avg_price": "202.00000000000003",
+            "netbs_stock_code": "BBRM",
+            "slot": "-99.99999999999999",
+            "slotv": "",
+            "sval": "-2.02e+06",
+            "svalv": "",
+            "type": "Lokal"
+          }
+        ],
+          "symbol": ""
+    },
+    "from": "2025-12-24",
+      "to": "2025-12-24",
+        "broker_code": "AF",
+          "broker_name": "Harita Kencana Sekuritas"
+  }
+}

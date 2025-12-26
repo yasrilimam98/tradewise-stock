@@ -1,0 +1,829 @@
+{
+	"message": "Successfully retrieved broker list",
+	"data": [
+		{
+			"id": 110,
+			"code": "AD",
+			"name": "OSO Sekuritas Indonesia",
+			"permission": "Penjamin Emisi Efek, Perantara Pedagang Efek",
+			"group": "Lokal",
+			"color": ""
+		},
+		{
+			"id": 33,
+			"code": "AF",
+			"name": "Harita Kencana Sekuritas",
+			"permission": "Perantara Pedagang Efek",
+			"group": "Lokal",
+			"color": ""
+		},
+		{
+			"id": 46,
+			"code": "AG",
+			"name": "Kiwoom Sekuritas Indonesia",
+			"permission": "Perantara Pedagang Efek",
+			"group": "Asing",
+			"color": ""
+		},
+		{
+			"id": 90,
+			"code": "AH",
+			"name": "Shinhan Sekuritas Indonesia",
+			"permission": "Penjamin Emisi Efek, Perantara Pedagang Efek",
+			"group": "Asing",
+			"color": ""
+		},
+		{
+			"id": 98,
+			"code": "AI",
+			"name": "UOB Kay Hian Sekuritas",
+			"permission": "Penjamin Emisi Efek, Perantara Pedagang Efek",
+			"group": "Asing",
+			"color": ""
+		},
+		{
+			"id": 96,
+			"code": "AK",
+			"name": "UBS Sekuritas Indonesia",
+			"permission": "Penjamin Emisi Efek, Perantara Pedagang Efek",
+			"group": "Asing",
+			"color": ""
+		},
+		{
+			"id": 102,
+			"code": "AN",
+			"name": "Wanteg Sekuritas",
+			"permission": "Penjamin Emisi Efek, Perantara Pedagang Efek",
+			"group": "Lokal",
+			"color": ""
+		},
+		{
+			"id": 29,
+			"code": "AO",
+			"name": "Erdikha Elit Sekuritas",
+			"permission": "Penjamin Emisi Efek, Perantara Pedagang Efek",
+			"group": "Lokal",
+			"color": ""
+		},
+		{
+			"id": 74,
+			"code": "AP",
+			"name": "Pacific Sekuritas Indonesia",
+			"permission": "Penjamin Emisi Efek",
+			"group": "Lokal",
+			"color": ""
+		},
+		{
+			"id": 8,
+			"code": "AR",
+			"name": "Binaartha Sekuritas",
+			"permission": "Penjamin Emisi Efek, Perantara Pedagang Efek",
+			"group": "Lokal",
+			"color": ""
+		},
+		{
+			"id": 79,
+			"code": "AT",
+			"name": "Phintraco Sekuritas",
+			"permission": "Perantara Pedagang Efek",
+			"group": "Lokal",
+			"color": ""
+		},
+		{
+			"id": 92,
+			"code": "AZ",
+			"name": "Sucor Sekuritas",
+			"permission": "Penjamin Emisi Efek, Perantara Pedagang Efek",
+			"group": "Lokal",
+			"color": ""
+		},
+		{
+			"id": 107,
+			"code": "BB",
+			"name": "Verdhana Sekuritas Indonesia",
+			"permission": "PERANTARA PEDAGANG EFEK",
+			"group": "Lokal",
+			"color": ""
+		},
+		{
+			"id": 40,
+			"code": "BF",
+			"name": "Inti Fikasa Sekuritas",
+			"permission": "Penjamin Emisi Efek, Perantara Pedagang Efek",
+			"group": "Lokal",
+			"color": ""
+		},
+		{
+			"id": 43,
+			"code": "BK",
+			"name": "J.P. Morgan Sekuritas Indonesia",
+			"permission": "Penjamin Emisi Efek, Perantara Pedagang Efek",
+			"group": "Asing",
+			"color": ""
+		},
+		{
+			"id": 47,
+			"code": "BQ",
+			"name": "Korea Investment and Sekuritas Indonesia",
+			"permission": "Penjamin Emisi Efek, Perantara Pedagang Efek",
+			"group": "Asing",
+			"color": ""
+		},
+		{
+			"id": 95,
+			"code": "BR",
+			"name": "Trust Sekuritas",
+			"permission": "Perantara Pedagang Efek",
+			"group": "Lokal",
+			"color": ""
+		},
+		{
+			"id": 28,
+			"code": "BS",
+			"name": "Equity Sekuritas Indonesia",
+			"permission": "Manajer Investasi, Penjamin Emisi Efek, Perantara Pedagang Efek",
+			"group": "Lokal",
+			"color": ""
+		},
+		{
+			"id": 6,
+			"code": "BZ",
+			"name": "BATAVIA PROSPERINDO SEKURITAS",
+			"permission": "Penjamin Emisi Efek",
+			"group": "Lokal",
+			"color": ""
+		},
+		{
+			"id": 56,
+			"code": "CC",
+			"name": "Mandiri Sekuritas",
+			"permission": "Penjamin Emisi Efek, Perantara Pedagang Efek",
+			"group": "Pemerintah",
+			"color": ""
+		},
+		{
+			"id": 59,
+			"code": "CD",
+			"name": "Mega Capital Sekuritas",
+			"permission": "Penjamin Emisi Efek, Perantara Pedagang Efek",
+			"group": "Lokal",
+			"color": ""
+		},
+		{
+			"id": 16,
+			"code": "CG",
+			"name": "CITIGROUP SEKURITAS INDONESIA",
+			"permission": "Penjamin Emisi Efek",
+			"group": "Asing",
+			"color": ""
+		},
+		{
+			"id": 99,
+			"code": "CP",
+			"name": "KB Valbury Sekuritas",
+			"permission": "Penjamin Emisi Efek, Perantara Pedagang Efek",
+			"group": "Asing",
+			"color": ""
+		},
+		{
+			"id": 18,
+			"code": "CS",
+			"name": "Credit Suisse Sekuritas Indonesia",
+			"permission": "Penjamin Emisi Efek",
+			"group": "Asing",
+			"color": ""
+		},
+		{
+			"id": 55,
+			"code": "DD",
+			"name": "Makindo Sekuritas",
+			"permission": "Penjamin Emisi Efek",
+			"group": "Lokal",
+			"color": ""
+		},
+		{
+			"id": 91,
+			"code": "DH",
+			"name": "Sinarmas Sekuritas",
+			"permission": "Penjamin Emisi Efek, Perantara Pedagang Efek",
+			"group": "Lokal",
+			"color": ""
+		},
+		{
+			"id": 57,
+			"code": "DM",
+			"name": "Masindo Artha Sekuritas",
+			"permission": "Penjamin Emisi Efek, Perantara Pedagang Efek",
+			"group": "Lokal",
+			"color": ""
+		},
+		{
+			"id": 22,
+			"code": "DP",
+			"name": "DBS Vickers Sekuritas Indonesia",
+			"permission": "Penjamin Emisi Efek, Perantara Pedagang Efek",
+			"group": "Asing",
+			"color": ""
+		},
+		{
+			"id": 86,
+			"code": "DR",
+			"name": "RHB Sekuritas Indonesia",
+			"permission": "Penjamin Emisi Efek, Perantara Pedagang Efek",
+			"group": "Asing",
+			"color": ""
+		},
+		{
+			"id": 100,
+			"code": "DU",
+			"name": "KAF Sekuritas Indonesia",
+			"permission": "Perantara Pedagang Efek",
+			"group": "Asing",
+			"color": ""
+		},
+		{
+			"id": 5,
+			"code": "DX",
+			"name": "Bahana Sekuritas",
+			"permission": "Penjamin Emisi Efek, Perantara Pedagang Efek",
+			"group": "Pemerintah",
+			"color": ""
+		},
+		{
+			"id": 30,
+			"code": "EL",
+			"name": "Evergreen Sekuritas Indonesia",
+			"permission": "Penjamin Emisi Efek, Perantara Pedagang Efek",
+			"group": "Lokal",
+			"color": ""
+		},
+		{
+			"id": 63,
+			"code": "EP",
+			"name": "MNC Sekuritas",
+			"permission": "Penjamin Emisi Efek",
+			"group": "Lokal",
+			"color": ""
+		},
+		{
+			"id": 26,
+			"code": "ES",
+			"name": "Ekokapital Sekuritas",
+			"permission": "Perantara Pedagang Efek",
+			"group": "Lokal",
+			"color": ""
+		},
+		{
+			"id": 32,
+			"code": "FO",
+			"name": "Forte Global Sekuritas",
+			"permission": "Perantara Pedagang Efek",
+			"group": "Lokal",
+			"color": ""
+		},
+		{
+			"id": 104,
+			"code": "FS",
+			"name": "Yuanta Sekuritas Indonesia",
+			"permission": "Penjamin Emisi Efek, Perantara Pedagang Efek",
+			"group": "Asing",
+			"color": ""
+		},
+		{
+			"id": 103,
+			"code": "FZ",
+			"name": "Waterfront Sekuritas Indonesia",
+			"permission": "Penjamin Emisi Efek, Perantara Pedagang Efek",
+			"group": "Lokal",
+			"color": ""
+		},
+		{
+			"id": 9,
+			"code": "GA",
+			"name": "BNC Sekuritas Indonesia",
+			"permission": "Perantara Pedagang Efek",
+			"group": "Lokal",
+			"color": ""
+		},
+		{
+			"id": 54,
+			"code": "GI",
+			"name": "Webull Sekuritas Indonesia",
+			"permission": "Perantara Pedagang Efek",
+			"group": "Asing",
+			"color": ""
+		},
+		{
+			"id": 76,
+			"code": "GR",
+			"name": "Panin Sekuritas Tbk.",
+			"permission": "Penjamin Emisi Efek, Perantara Pedagang Efek",
+			"group": "Lokal",
+			"color": ""
+		},
+		{
+			"id": 35,
+			"code": "GW",
+			"name": "HSBC Sekuritas Indonesia",
+			"permission": "Penjamin Emisi Efek, Perantara Pedagang Efek",
+			"group": "Asing",
+			"color": ""
+		},
+		{
+			"id": 45,
+			"code": "HD",
+			"name": "KGI Sekuritas Indonesia",
+			"permission": "Penjamin Emisi Efek, Perantara Pedagang Efek",
+			"group": "Asing",
+			"color": ""
+		},
+		{
+			"id": 34,
+			"code": "HP",
+			"name": "Henan Putihrai Sekuritas",
+			"permission": "Penjamin Emisi Efek, Perantara Pedagang Efek",
+			"group": "Lokal",
+			"color": ""
+		},
+		{
+			"id": 112,
+			"code": "IC",
+			"name": "Integrity Capital Sekuritas",
+			"permission": "Penjamin Emisi Efek, Perantara Pedagang Efek",
+			"group": "Lokal",
+			"color": ""
+		},
+		{
+			"id": 3,
+			"code": "ID",
+			"name": "Anugerah Sekuritas Indonesia",
+			"permission": "Perantara Pedagang Efek",
+			"group": "Lokal",
+			"color": ""
+		},
+		{
+			"id": 88,
+			"code": "IF",
+			"name": "Samuel Sekuritas Indonesia",
+			"permission": "Penjamin Emisi Efek, Perantara Pedagang Efek",
+			"group": "Lokal",
+			"color": ""
+		},
+		{
+			"id": 73,
+			"code": "IH",
+			"name": "Indo Harvest Sekuritas",
+			"permission": "Perantara Pedagang Efek",
+			"group": "Lokal",
+			"color": ""
+		},
+		{
+			"id": 21,
+			"code": "II",
+			"name": "Danatama Makmur Sekuritas",
+			"permission": "Manajer Investasi, Penjamin Emisi Efek, Perantara Pedagang Efek",
+			"group": "Lokal",
+			"color": ""
+		},
+		{
+			"id": 42,
+			"code": "IN",
+			"name": "Investindo Nusantara Sekuritas",
+			"permission": "Penjamin Emisi Efek, Perantara Pedagang Efek",
+			"group": "Lokal",
+			"color": ""
+		},
+		{
+			"id": 39,
+			"code": "IP",
+			"name": "Yugen Bertumbuh Sekuritas",
+			"permission": "Manajer Investasi, Penjamin Emisi Efek, Perantara Pedagang Efek",
+			"group": "Lokal",
+			"color": ""
+		},
+		{
+			"id": 41,
+			"code": "IT",
+			"name": "Inti Teladan Sekuritas",
+			"permission": "Perantara Pedagang Efek",
+			"group": "Lokal",
+			"color": ""
+		},
+		{
+			"id": 37,
+			"code": "IU",
+			"name": "Indo Capital Sekuritas",
+			"permission": "Perantara Pedagang Efek",
+			"group": "Lokal",
+			"color": ""
+		},
+		{
+			"id": 108,
+			"code": "JB",
+			"name": "Bjb Sekuritas",
+			"permission": "Penjamin Emisi Efek, Perantara Pedagang Efek",
+			"group": "Lokal",
+			"color": ""
+		},
+		{
+			"id": 15,
+			"code": "KI",
+			"name": "Ciptadana Sekuritas Asia",
+			"permission": "Penjamin Emisi Efek",
+			"group": "Lokal",
+			"color": ""
+		},
+		{
+			"id": 78,
+			"code": "KK",
+			"name": "Phillip Sekuritas Indonesia",
+			"permission": "Penjamin Emisi Efek, Perantara Pedagang Efek",
+			"group": "Asing",
+			"color": ""
+		},
+		{
+			"id": 48,
+			"code": "KS",
+			"name": "Kresna Sekuritas",
+			"permission": "Penjamin Emisi Efek, Perantara Pedagang Efek",
+			"group": "Lokal",
+			"color": ""
+		},
+		{
+			"id": 17,
+			"code": "KZ",
+			"name": "CLSA Sekuritas Indonesia",
+			"permission": "Penjamin Emisi Efek, Perantara Pedagang Efek",
+			"group": "Asing",
+			"color": ""
+		},
+		{
+			"id": 94,
+			"code": "LG",
+			"name": "Trimegah Sekuritas Indonesia Tbk.",
+			"permission": "Penjamin Emisi Efek, Perantara Pedagang Efek",
+			"group": "Lokal",
+			"color": ""
+		},
+		{
+			"id": 87,
+			"code": "LH",
+			"name": "Royal Investium Sekuritas",
+			"permission": "Penjamin Emisi Efek, Perantara Pedagang Efek",
+			"group": "Asing",
+			"color": ""
+		},
+		{
+			"id": 85,
+			"code": "LS",
+			"name": "Reliance Sekuritas Indonesia Tbk.",
+			"permission": "Penjamin Emisi Efek",
+			"group": "Asing",
+			"color": ""
+		},
+		{
+			"id": 89,
+			"code": "MG",
+			"name": "Semesta Indovest Sekuritas",
+			"permission": "Penjamin Emisi Efek, Perantara Pedagang Efek",
+			"group": "Lokal",
+			"color": ""
+		},
+		{
+			"id": 101,
+			"code": "MI",
+			"name": "Victoria Sekuritas Indonesia",
+			"permission": "Penjamin Emisi Efek, Perantara Pedagang Efek",
+			"group": "Lokal",
+			"color": ""
+		},
+		{
+			"id": 27,
+			"code": "MK",
+			"name": "Ekuator Swarna Sekuritas",
+			"permission": "Penjamin Emisi Efek",
+			"group": "Lokal",
+			"color": ""
+		},
+		{
+			"id": 64,
+			"code": "MS",
+			"name": "MORGAN STANLEY SEKURITAS INDONESIA",
+			"permission": "Penjamin Emisi Efek, Perantara Pedagang Efek",
+			"group": "Asing",
+			"color": ""
+		},
+		{
+			"id": 61,
+			"code": "MU",
+			"name": "Minna Padi Investama Sekuritas",
+			"permission": "Penjamin Emisi Efek, Perantara Pedagang Efek",
+			"group": "Lokal",
+			"color": ""
+		},
+		{
+			"id": 10,
+			"code": "NI",
+			"name": "BNI Sekuritas",
+			"permission": "Penjamin Emisi Efek, Perantara Pedagang Efek",
+			"group": "Pemerintah",
+			"color": ""
+		},
+		{
+			"id": 19,
+			"code": "OD",
+			"name": "BRI Danareksa Sekuritas",
+			"permission": "Penjamin Emisi Efek, Perantara Pedagang Efek",
+			"group": "Pemerintah",
+			"color": ""
+		},
+		{
+			"id": 65,
+			"code": "OK",
+			"name": "Net Sekuritas",
+			"permission": "Perantara Pedagang Efek",
+			"group": "Lokal",
+			"color": ""
+		},
+		{
+			"id": 31,
+			"code": "PC",
+			"name": "FAC Sekuritas Indonesia",
+			"permission": "Perantara Pedagang Efek",
+			"group": "Lokal",
+			"color": ""
+		},
+		{
+			"id": 38,
+			"code": "PD",
+			"name": "Indo Premier Sekuritas",
+			"permission": "Manajer Investasi, Penjamin Emisi Efek",
+			"group": "Lokal",
+			"color": ""
+		},
+		{
+			"id": 20,
+			"code": "PF",
+			"name": "Danasakti Sekuritas Indonesia",
+			"permission": "Penjamin Emisi Efek, Perantara Pedagang Efek",
+			"group": "Lokal",
+			"color": ""
+		},
+		{
+			"id": 75,
+			"code": "PG",
+			"name": "Panca Global Sekuritas",
+			"permission": "Penjamin Emisi Efek",
+			"group": "Lokal",
+			"color": ""
+		},
+		{
+			"id": 109,
+			"code": "PI",
+			"name": "Magenta Kapital Sekuritas Indonesia",
+			"permission": "Penjamin Emisi Efek, Perantara Pedagang Efek Lokal",
+			"group": "Lokal",
+			"color": ""
+		},
+		{
+			"id": 80,
+			"code": "PO",
+			"name": "Pilarmas Investindo Sekuritas",
+			"permission": "Perantara Pedagang Efek",
+			"group": "Lokal",
+			"color": ""
+		},
+		{
+			"id": 1,
+			"code": "PP",
+			"name": "Aldiracita Sekuritas Indonesia",
+			"permission": "Penjamin Emisi Efek, Perantara Pedagang Efek",
+			"group": "Lokal",
+			"color": ""
+		},
+		{
+			"id": 77,
+			"code": "PS",
+			"name": "Paramitra Alfa Sekuritas",
+			"permission": "Manajer Investasi, Perantara Pedagang Efek",
+			"group": "Lokal",
+			"color": ""
+		},
+		{
+			"id": 111,
+			"code": "QA",
+			"name": "Tuntun Sekuritas Indonesia",
+			"permission": "Perantara Pedagang Efek",
+			"group": "Lokal",
+			"color": ""
+		},
+		{
+			"id": 67,
+			"code": "RB",
+			"name": "Ina Sekuritas Indonesia",
+			"permission": "Manajer Investasi, Penjamin Emisi Efek, Perantara Pedagang Efek",
+			"group": "Asing",
+			"color": ""
+		},
+		{
+			"id": 12,
+			"code": "RF",
+			"name": "Buana Capital Sekuritas",
+			"permission": "Penjamin Emisi Efek, Perantara Pedagang Efek",
+			"group": "Lokal",
+			"color": ""
+		},
+		{
+			"id": 84,
+			"code": "RG",
+			"name": "Profindo Sekuritas Indonesia",
+			"permission": "Penjamin Emisi Efek, Perantara Pedagang Efek",
+			"group": "Lokal",
+			"color": ""
+		},
+		{
+			"id": 68,
+			"code": "RO",
+			"name": "Pluang Maju Sekuritas",
+			"permission": "Penjamin Emisi Efek, Perantara Pedagang Efek",
+			"group": "Lokal",
+			"color": ""
+		},
+		{
+			"id": 105,
+			"code": "RS",
+			"name": "Yulie Sekuritas Indonesia Tbk.",
+			"permission": "Penjamin Emisi Efek, Perantara Pedagang Efek",
+			"group": "Lokal",
+			"color": ""
+		},
+		{
+			"id": 50,
+			"code": "RX",
+			"name": "Macquarie Sekuritas Indonesia",
+			"permission": "Penjamin Emisi Efek, Perantara Pedagang Efek",
+			"group": "Asing",
+			"color": ""
+		},
+		{
+			"id": 11,
+			"code": "SA",
+			"name": "Elit Sukses Sekuritas",
+			"permission": "Penjamin Emisi Efek, Perantara Pedagang Efek",
+			"group": "Lokal",
+			"color": ""
+		},
+		{
+			"id": 36,
+			"code": "SC",
+			"name": "IMG Sekuritas",
+			"permission": "Perantara Pedagang Efek",
+			"group": "Lokal",
+			"color": ""
+		},
+		{
+			"id": 106,
+			"code": "SF",
+			"name": "Surya Fajar Sekuritas",
+			"permission": "Penjamin Emisi Efek",
+			"group": "Lokal",
+			"color": ""
+		},
+		{
+			"id": 4,
+			"code": "SH",
+			"name": "Artha Sekuritas Indonesia",
+			"permission": "Penjamin Emisi Efek, Perantara Pedagang Efek",
+			"group": "Lokal",
+			"color": ""
+		},
+		{
+			"id": 7,
+			"code": "SQ",
+			"name": "BCA Sekuritas",
+			"permission": "Penjamin Emisi Efek, Perantara Pedagang Efek",
+			"group": "Lokal",
+			"color": ""
+		},
+		{
+			"id": 93,
+			"code": "SS",
+			"name": "Supra Sekuritas Indonesia",
+			"permission": "Perantara Pedagang Efek",
+			"group": "Lokal",
+			"color": ""
+		},
+		{
+			"id": 97,
+			"code": "TF",
+			"name": "Universal Broker Indonesia Sekuritas",
+			"permission": "Penjamin Emisi Efek, Perantara Pedagang Efek",
+			"group": "Lokal",
+			"color": ""
+		},
+		{
+			"id": 70,
+			"code": "TP",
+			"name": "OCBC Sekuritas Indonesia",
+			"permission": "Penjamin Emisi Efek, Perantara Pedagang Efek",
+			"group": "Asing",
+			"color": ""
+		},
+		{
+			"id": 25,
+			"code": "TS",
+			"name": "Dwidana Sakti Sekuritas",
+			"permission": "Perantara Pedagang Efek",
+			"group": "Lokal",
+			"color": ""
+		},
+		{
+			"id": 24,
+			"code": "TX",
+			"name": "DHANAWIBAWA SEKURITAS INDONESIA",
+			"permission": "Manajer Investasi, Penjamin Emisi Efek, Perantara Pedagang Efek",
+			"group": "Lokal",
+			"color": ""
+		},
+		{
+			"id": 66,
+			"code": "XA",
+			"name": "NH Korindo Sekuritas Indonesia",
+			"permission": "Penjamin Emisi Efek, Perantara Pedagang Efek",
+			"group": "Asing",
+			"color": ""
+		},
+		{
+			"id": 83,
+			"code": "XC",
+			"name": "Ajaib Sekuritas Asia",
+			"permission": "Perantara Pedagang Efek",
+			"group": "Lokal",
+			"color": ""
+		},
+		{
+			"id": 53,
+			"code": "XL",
+			"name": "Stockbit Sekuritas Digital",
+			"permission": "Perantara Pedagang Efek",
+			"group": "Lokal",
+			"color": ""
+		},
+		{
+			"id": 44,
+			"code": "YB",
+			"name": "Yakin Bertumbuh Sekuritas",
+			"permission": "Penjamin Emisi Efek, Perantara Pedagang Efek",
+			"group": "Lokal",
+			"color": ""
+		},
+		{
+			"id": 49,
+			"code": "YJ",
+			"name": "Lotus Andalan Sekuritas",
+			"permission": "Penjamin Emisi Efek, Perantara Pedagang Efek",
+			"group": "Lokal",
+			"color": ""
+		},
+		{
+			"id": 2,
+			"code": "YO",
+			"name": "Amantara Sekuritas Indonesia",
+			"permission": "Penjamin Emisi Efek, Perantara Pedagang Efek",
+			"group": "Lokal",
+			"color": ""
+		},
+		{
+			"id": 62,
+			"code": "YP",
+			"name": "Mirae Asset Sekuritas Indonesia",
+			"permission": "Penjamin Emisi Efek, Perantara Pedagang Efek",
+			"group": "Asing",
+			"color": ""
+		},
+		{
+			"id": 14,
+			"code": "YU",
+			"name": "CGS International Sekuritas Indonesia",
+			"permission": "Penjamin Emisi Efek, Perantara Pedagang Efek",
+			"group": "Asing",
+			"color": ""
+		},
+		{
+			"id": 58,
+			"code": "ZP",
+			"name": "Maybank Sekuritas Indonesia",
+			"permission": "Penjamin Emisi Efek, Perantara Pedagang Efek",
+			"group": "Asing",
+			"color": ""
+		},
+		{
+			"id": 13,
+			"code": "ZR",
+			"name": "Bumiputera Sekuritas",
+			"permission": "Penjamin Emisi Efek, Perantara Pedagang Efek",
+			"group": "Lokal",
+			"color": ""
+		}
+	]
+}

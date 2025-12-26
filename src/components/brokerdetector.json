@@ -1,0 +1,609 @@
+{
+	"message": "Successfully retrieved market detector data",
+	"data": {
+		"bandar_detector": {
+			"average": 415.80853,
+			"avg": {
+				"accdist": "Neutral",
+				"amount": 4948130000,
+				"percent": 5.8400736,
+				"vol": 119000.2
+			},
+			"avg5": {
+				"accdist": "Neutral",
+				"amount": 4741947400,
+				"percent": 5.5967245,
+				"vol": 114041.6
+			},
+			"broker_accdist": "Acc",
+			"number_broker_buysell": -20,
+			"top1": {
+				"accdist": "Small Acc",
+				"amount": 5148915700,
+				"percent": 6.0770526,
+				"vol": 123829
+			},
+			"top3": {
+				"accdist": "Neutral",
+				"amount": 4016211700,
+				"percent": 4.7401686,
+				"vol": 96588
+			},
+			"top5": {
+				"accdist": "Small Acc",
+				"amount": 6086231000,
+				"percent": 7.1833277,
+				"vol": 146371
+			},
+			"top10": {
+				"accdist": "Small Acc",
+				"amount": 9833582000,
+				"percent": 11.60617,
+				"vol": 236493
+			},
+			"total_buyer": 26,
+			"total_seller": 46,
+			"value": 84727185000,
+			"volume": 2037649
+		},
+		"broker_summary": {
+			"brokers_buy": [
+				{
+					"blot": "649663",
+					"blotv": "8.65822e+07",
+					"bval": "2.76499288e+10",
+					"bvalv": "3.66040514e+10",
+					"netbs_broker_code": "NI",
+					"netbs_buy_avg_price": "422.7664739403711",
+					"netbs_date": "20251201",
+					"netbs_stock_code": "ERAA",
+					"type": "Pemerintah"
+				},
+				{
+					"blot": "327805",
+					"blotv": "1.158946e+08",
+					"bval": "1.35273706e+10",
+					"bvalv": "4.80954808e+10",
+					"netbs_broker_code": "AK",
+					"netbs_buy_avg_price": "414.99328527817516",
+					"netbs_date": "20251201",
+					"netbs_stock_code": "ERAA",
+					"type": "Asing"
+				},
+				{
+					"blot": "259261",
+					"blotv": "3.41855e+07",
+					"bval": "1.06067862e+10",
+					"bvalv": "1.41110458e+10",
+					"netbs_broker_code": "MG",
+					"netbs_buy_avg_price": "412.7786868701643",
+					"netbs_date": "20251201",
+					"netbs_stock_code": "ERAA",
+					"type": "Lokal"
+				},
+				{
+					"blot": "212398",
+					"blotv": "9.5783e+07",
+					"bval": "8.7427758e+09",
+					"bvalv": "3.97317976e+10",
+					"netbs_broker_code": "CC",
+					"netbs_buy_avg_price": "414.81053631646535",
+					"netbs_date": "20251201",
+					"netbs_stock_code": "ERAA",
+					"type": "Pemerintah"
+				},
+				{
+					"blot": "137539",
+					"blotv": "1.65886e+07",
+					"bval": "5.784346e+09",
+					"bvalv": "6.9333042e+09",
+					"netbs_broker_code": "BB",
+					"netbs_buy_avg_price": "417.95595770589443",
+					"netbs_date": "20251201",
+					"netbs_stock_code": "ERAA",
+					"type": "Lokal"
+				},
+				{
+					"blot": "115112",
+					"blotv": "3.53631e+07",
+					"bval": "4.8322334e+09",
+					"bvalv": "1.4749914e+10",
+					"netbs_broker_code": "XC",
+					"netbs_buy_avg_price": "417.0990099849843",
+					"netbs_date": "20251201",
+					"netbs_stock_code": "ERAA",
+					"type": "Lokal"
+				},
+				{
+					"blot": "113583",
+					"blotv": "4.82952e+07",
+					"bval": "4.666231e+09",
+					"bvalv": "2.0037536e+10",
+					"netbs_broker_code": "PD",
+					"netbs_buy_avg_price": "414.8970498103331",
+					"netbs_date": "20251201",
+					"netbs_stock_code": "ERAA",
+					"type": "Lokal"
+				},
+				{
+					"blot": "52984",
+					"blotv": "5.3167e+06",
+					"bval": "2.1780226e+09",
+					"bvalv": "2.1855896e+09",
+					"netbs_broker_code": "QA",
+					"netbs_buy_avg_price": "411.08010608083964",
+					"netbs_date": "20251201",
+					"netbs_stock_code": "ERAA",
+					"type": "Lokal"
+				},
+				{
+					"blot": "47700",
+					"blotv": "5.8333e+06",
+					"bval": "1.9956358e+09",
+					"bvalv": "2.4338308e+09",
+					"netbs_broker_code": "IF",
+					"netbs_buy_avg_price": "417.2305213172647",
+					"netbs_date": "20251201",
+					"netbs_stock_code": "ERAA",
+					"type": "Lokal"
+				},
+				{
+					"blot": "22200",
+					"blotv": "3.54e+06",
+					"bval": "9.1107e+08",
+					"bvalv": "1.46673e+09",
+					"netbs_broker_code": "SS",
+					"netbs_buy_avg_price": "414.3305084745763",
+					"netbs_date": "20251201",
+					"netbs_stock_code": "ERAA",
+					"type": "Lokal"
+				},
+				{
+					"blot": "23945",
+					"blotv": "1.42992e+07",
+					"bval": "8.79064e+08",
+					"bvalv": "5.9104346e+09",
+					"netbs_broker_code": "OD",
+					"netbs_buy_avg_price": "413.3402288239902",
+					"netbs_date": "20251201",
+					"netbs_stock_code": "ERAA",
+					"type": "Pemerintah"
+				},
+				{
+					"blot": "14213",
+					"blotv": "6.538e+06",
+					"bval": "5.947252e+08",
+					"bvalv": "2.715468e+09",
+					"netbs_broker_code": "TP",
+					"netbs_buy_avg_price": "415.3361884368308",
+					"netbs_date": "20251201",
+					"netbs_stock_code": "ERAA",
+					"type": "Asing"
+				},
+				{
+					"blot": "12000",
+					"blotv": "1.2e+06",
+					"bval": "5.022e+08",
+					"bvalv": "5.022e+08",
+					"netbs_broker_code": "PG",
+					"netbs_buy_avg_price": "418.5",
+					"netbs_date": "20251201",
+					"netbs_stock_code": "ERAA",
+					"type": "Lokal"
+				},
+				{
+					"blot": "12180",
+					"blotv": "1.478e+06",
+					"bval": "5.0018e+08",
+					"bvalv": "6.0596e+08",
+					"netbs_broker_code": "RS",
+					"netbs_buy_avg_price": "409.9864682002706",
+					"netbs_date": "20251201",
+					"netbs_stock_code": "ERAA",
+					"type": "Lokal"
+				},
+				{
+					"blot": "11102",
+					"blotv": "9.9495e+06",
+					"bval": "3.683126e+08",
+					"bvalv": "4.1151682e+09",
+					"netbs_broker_code": "GR",
+					"netbs_buy_avg_price": "413.6055279159757",
+					"netbs_date": "20251201",
+					"netbs_stock_code": "ERAA",
+					"type": "Lokal"
+				},
+				{
+					"blot": "7494",
+					"blotv": "2.6389e+06",
+					"bval": "2.931826e+08",
+					"bvalv": "1.0863264e+09",
+					"netbs_broker_code": "AT",
+					"netbs_buy_avg_price": "411.6587972261169",
+					"netbs_date": "20251201",
+					"netbs_stock_code": "ERAA",
+					"type": "Lokal"
+				},
+				{
+					"blot": "4242",
+					"blotv": "4.2744e+06",
+					"bval": "1.85629e+08",
+					"bvalv": "1.7681886e+09",
+					"netbs_broker_code": "AI",
+					"netbs_buy_avg_price": "413.6694272880404",
+					"netbs_date": "20251201",
+					"netbs_stock_code": "ERAA",
+					"type": "Asing"
+				},
+				{
+					"blot": "2718",
+					"blotv": "2.5343e+06",
+					"bval": "1.207002e+08",
+					"bvalv": "1.0608852e+09",
+					"netbs_broker_code": "YJ",
+					"netbs_buy_avg_price": "418.6107406384406",
+					"netbs_date": "20251201",
+					"netbs_stock_code": "ERAA",
+					"type": "Lokal"
+				},
+				{
+					"blot": "4309",
+					"blotv": "1.50436e+07",
+					"bval": "1.169248e+08",
+					"bvalv": "6.2303738e+09",
+					"netbs_broker_code": "DR",
+					"netbs_buy_avg_price": "414.1544444149007",
+					"netbs_date": "20251201",
+					"netbs_stock_code": "ERAA",
+					"type": "Asing"
+				},
+				{
+					"blot": "2293",
+					"blotv": "1.1414e+06",
+					"bval": "8.74646e+07",
+					"bvalv": "4.699276e+08",
+					"netbs_broker_code": "CD",
+					"netbs_buy_avg_price": "411.7115822673909",
+					"netbs_date": "20251201",
+					"netbs_stock_code": "ERAA",
+					"type": "Lokal"
+				},
+				{
+					"blot": "2010",
+					"blotv": "301000",
+					"bval": "8.7404e+07",
+					"bvalv": "1.30604e+08",
+					"netbs_broker_code": "PO",
+					"netbs_buy_avg_price": "433.90033222591364",
+					"netbs_date": "20251201",
+					"netbs_stock_code": "ERAA",
+					"type": "Lokal"
+				},
+				{
+					"blot": "995",
+					"blotv": "3.0732e+06",
+					"bval": "3.7421e+07",
+					"bvalv": "1.2901818e+09",
+					"netbs_broker_code": "HD",
+					"netbs_buy_avg_price": "419.8170636470129",
+					"netbs_date": "20251201",
+					"netbs_stock_code": "ERAA",
+					"type": "Asing"
+				},
+				{
+					"blot": "1000",
+					"blotv": "300000",
+					"bval": "3.64e+07",
+					"bvalv": "1.224e+08",
+					"netbs_broker_code": "TS",
+					"netbs_buy_avg_price": "408",
+					"netbs_date": "20251201",
+					"netbs_stock_code": "ERAA",
+					"type": "Lokal"
+				},
+				{
+					"blot": "797",
+					"blotv": "1.15869e+07",
+					"bval": "1.88698e+07",
+					"bvalv": "4.8987566e+09",
+					"netbs_broker_code": "BQ",
+					"netbs_buy_avg_price": "422.7840578584436",
+					"netbs_date": "20251201",
+					"netbs_stock_code": "ERAA",
+					"type": "Asing"
+				},
+				{
+					"blot": "100",
+					"blotv": "10000",
+					"bval": "4.06e+06",
+					"bvalv": "4.06e+06",
+					"netbs_broker_code": "IT",
+					"netbs_buy_avg_price": "406",
+					"netbs_date": "20251201",
+					"netbs_stock_code": "ERAA",
+					"type": "Lokal"
+				}
+			],
+			"brokers_sell": [
+				{
+					"netbs_broker_code": "AZ",
+					"netbs_date": "20251201",
+					"netbs_sell_avg_price": "415.6170303183977",
+					"netbs_stock_code": "ERAA",
+					"slot": "-525834",
+					"slotv": "7.05941e+07",
+					"sval": "-2.17761e+10",
+					"svalv": "2.93401102e+10",
+					"type": "Lokal"
+				},
+				{
+					"netbs_broker_code": "YP",
+					"netbs_date": "20251201",
+					"netbs_sell_avg_price": "416.9028139880632",
+					"netbs_stock_code": "ERAA",
+					"slot": "-410314",
+					"slotv": "9.2822e+07",
+					"sval": "-1.73452232e+10",
+					"svalv": "3.8697753e+10",
+					"type": "Asing"
+				},
+				{
+					"netbs_broker_code": "KZ",
+					"netbs_date": "20251201",
+					"netbs_sell_avg_price": "411.01563288936387",
+					"netbs_stock_code": "ERAA",
+					"slot": "-203993",
+					"slotv": "2.03993e+07",
+					"sval": "-8.3844312e+09",
+					"svalv": "8.3844312e+09",
+					"type": "Asing"
+				},
+				{
+					"netbs_broker_code": "XL",
+					"netbs_date": "20251201",
+					"netbs_sell_avg_price": "419.36265357219105",
+					"netbs_stock_code": "ERAA",
+					"slot": "-146886",
+					"slotv": "7.21322e+07",
+					"sval": "-6.4366702e+09",
+					"svalv": "3.02495508e+10",
+					"type": "Lokal"
+				},
+				{
+					"netbs_broker_code": "KI",
+					"netbs_date": "20251201",
+					"netbs_sell_avg_price": "413.9955657084087",
+					"netbs_stock_code": "ERAA",
+					"slot": "-153268",
+					"slotv": "5.05605e+07",
+					"sval": "-6.3455646e+09",
+					"svalv": "2.09318228e+10",
+					"type": "Lokal"
+				},
+				{
+					"netbs_broker_code": "RX",
+					"netbs_date": "20251201",
+					"netbs_sell_avg_price": "405.95635027337096",
+					"netbs_stock_code": "ERAA",
+					"slot": "-66942",
+					"slotv": "6.6942e+06",
+					"sval": "-2.717553e+09",
+					"svalv": "2.717553e+09",
+					"type": "Asing"
+				},
+				{
+					"netbs_broker_code": "BS",
+					"netbs_date": "20251201",
+					"netbs_sell_avg_price": "424.200444167592",
+					"netbs_stock_code": "ERAA",
+					"slot": "-53396",
+					"slotv": "7.3846e+06",
+					"sval": "-2.2938906e+09",
+					"svalv": "3.1325506e+09",
+					"type": "Lokal"
+				},
+				{
+					"netbs_broker_code": "RF",
+					"netbs_date": "20251201",
+					"netbs_sell_avg_price": "411.9032",
+					"netbs_stock_code": "ERAA",
+					"slot": "-56902",
+					"slotv": "1.6e+07",
+					"sval": "-2.2457336e+09",
+					"svalv": "6.5904512e+09",
+					"type": "Lokal"
+				},
+				{
+					"netbs_broker_code": "SQ",
+					"netbs_date": "20251201",
+					"netbs_sell_avg_price": "417.10332751669773",
+					"netbs_stock_code": "ERAA",
+					"slot": "-42553",
+					"slotv": "1.6619e+07",
+					"sval": "-1.8333698e+09",
+					"svalv": "6.9318402e+09",
+					"type": "Lokal"
+				},
+				{
+					"netbs_broker_code": "KK",
+					"netbs_date": "20251201",
+					"netbs_sell_avg_price": "418.49668821702477",
+					"netbs_stock_code": "ERAA",
+					"slot": "-41664",
+					"slotv": "1.26216e+07",
+					"sval": "-1.773859e+09",
+					"svalv": "5.2820978e+09",
+					"type": "Asing"
+				},
+				{
+					"netbs_broker_code": "DX",
+					"netbs_date": "20251201",
+					"netbs_sell_avg_price": "419.82951583155597",
+					"netbs_stock_code": "ERAA",
+					"slot": "-42263",
+					"slotv": "9.7053e+06",
+					"sval": "-1.763355e+09",
+					"svalv": "4.0745714e+09",
+					"type": "Pemerintah"
+				},
+				{
+					"netbs_broker_code": "DP",
+					"netbs_date": "20251201",
+					"netbs_sell_avg_price": "416.2319818632362",
+					"netbs_stock_code": "ERAA",
+					"slot": "-37934",
+					"slotv": "3.7934e+06",
+					"sval": "-1.5789344e+09",
+					"svalv": "1.5789344e+09",
+					"type": "Asing"
+				},
+				{
+					"netbs_broker_code": "EP",
+					"netbs_date": "20251201",
+					"netbs_sell_avg_price": "422.41190799165685",
+					"netbs_stock_code": "ERAA",
+					"slot": "-35272",
+					"slotv": "6.8559e+06",
+					"sval": "-1.515593e+09",
+					"svalv": "2.8960138e+09",
+					"type": "Lokal"
+				},
+				{
+					"netbs_broker_code": "LG",
+					"netbs_date": "20251201",
+					"netbs_sell_avg_price": "416.49773729165815",
+					"netbs_stock_code": "ERAA",
+					"slot": "-29206",
+					"slotv": "1.70813e+07",
+					"sval": "-1.2550816e+09",
+					"svalv": "7.1143228e+09",
+					"type": "Lokal"
+				},
+				{
+					"netbs_broker_code": "PC",
+					"netbs_date": "20251201",
+					"netbs_sell_avg_price": "409.9102402022756",
+					"netbs_stock_code": "ERAA",
+					"slot": "-29633",
+					"slotv": "3.0058e+06",
+					"sval": "-1.2146322e+09",
+					"svalv": "1.2321082e+09",
+					"type": "Lokal"
+				},
+				{
+					"netbs_broker_code": "DH",
+					"netbs_date": "20251201",
+					"netbs_sell_avg_price": "417.71646985705405",
+					"netbs_stock_code": "ERAA",
+					"slot": "-28530",
+					"slotv": "6.436e+06",
+					"sval": "-1.2110284e+09",
+					"svalv": "2.6884232e+09",
+					"type": "Lokal"
+				},
+				{
+					"netbs_broker_code": "ZP",
+					"netbs_date": "20251201",
+					"netbs_sell_avg_price": "413.0801342887514",
+					"netbs_stock_code": "ERAA",
+					"slot": "-42095",
+					"slotv": "6.53815e+07",
+					"sval": "-1.2067748e+09",
+					"svalv": "2.70077988e+10",
+					"type": "Asing"
+				},
+				{
+					"netbs_broker_code": "FS",
+					"netbs_date": "20251201",
+					"netbs_sell_avg_price": "412.064247471743",
+					"netbs_stock_code": "ERAA",
+					"slot": "-28660",
+					"slotv": "5.043e+06",
+					"sval": "-1.174146e+09",
+					"svalv": "2.07804e+09",
+					"type": "Asing"
+				},
+				{
+					"netbs_broker_code": "YB",
+					"netbs_date": "20251201",
+					"netbs_sell_avg_price": "416.52276241475283",
+					"netbs_stock_code": "ERAA",
+					"slot": "-13415",
+					"slotv": "6.1439e+06",
+					"sval": "-5.592716e+08",
+					"svalv": "2.5590742e+09",
+					"type": "Lokal"
+				},
+				{
+					"netbs_broker_code": "YU",
+					"netbs_date": "20251201",
+					"netbs_sell_avg_price": "416.54589707284117",
+					"netbs_stock_code": "ERAA",
+					"slot": "-10728",
+					"slotv": "1.08057e+07",
+					"sval": "-4.53122e+08",
+					"svalv": "4.50107e+09",
+					"type": "Asing"
+				},
+				{
+					"netbs_broker_code": "MU",
+					"netbs_date": "20251201",
+					"netbs_sell_avg_price": "426.13396238127757",
+					"netbs_stock_code": "ERAA",
+					"slot": "-10052",
+					"slotv": "1.6109e+06",
+					"sval": "-4.35634e+08",
+					"svalv": "6.864592e+08",
+					"type": "Lokal"
+				},
+				{
+					"netbs_broker_code": "CP",
+					"netbs_date": "20251201",
+					"netbs_sell_avg_price": "418.2670969791486",
+					"netbs_stock_code": "ERAA",
+					"slot": "-5321",
+					"slotv": "1.38504e+07",
+					"sval": "-2.425314e+08",
+					"svalv": "5.7931666e+09",
+					"type": "Asing"
+				},
+				{
+					"netbs_broker_code": "AG",
+					"netbs_date": "20251201",
+					"netbs_sell_avg_price": "417.09519391352757",
+					"netbs_stock_code": "ERAA",
+					"slot": "-4031",
+					"slotv": "9.7002e+06",
+					"sval": "-1.952042e+08",
+					"svalv": "4.0459068e+09",
+					"type": "Asing"
+				},
+				{
+					"netbs_broker_code": "LS",
+					"netbs_date": "20251201",
+					"netbs_sell_avg_price": "424.4456205894562",
+					"netbs_stock_code": "ERAA",
+					"slot": "-2785",
+					"slotv": "963600",
+					"sval": "-1.16322e+08",
+					"svalv": "4.089958e+08",
+					"type": "Asing"
+				},
+				{
+					"netbs_broker_code": "MI",
+					"netbs_date": "20251201",
+					"netbs_sell_avg_price": "408.0086637787404",
+					"netbs_stock_code": "ERAA",
+					"slot": "-2712",
+					"slotv": "300100",
+					"sval": "-1.104806e+08",
+					"svalv": "1.224434e+08",
+					"type": "Lokal"
+				}
+			],
+			"symbol": "ERAA"
+		},
+		"from": "2025-12-01",
+		"to": "2025-12-23"
+	}
+}

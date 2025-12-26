@@ -1,0 +1,5962 @@
+{
+  "message": "Successfully loaded Broker Distribution data",
+  "data": {
+    "date_info": "2025-12-23",
+    "by_value": {
+      "top_broker_buy": [
+        {
+          "detail": {
+            "code": "XL",
+            "type": "Lokal",
+            "amount": 2446935000
+          },
+          "distribute_to": [
+            {
+              "code": "XL",
+              "type": "Lokal",
+              "amount": 415055000
+            },
+            {
+              "code": "GR",
+              "type": "Lokal",
+              "amount": 293188500
+            },
+            {
+              "code": "XC",
+              "type": "Lokal",
+              "amount": 269525000
+            },
+            {
+              "code": "CC",
+              "type": "Pemerintah",
+              "amount": 254782000
+            },
+            {
+              "code": "YP",
+              "type": "Asing",
+              "amount": 241391000
+            },
+            {
+              "code": "SQ",
+              "type": "Lokal",
+              "amount": 234303500
+            },
+            {
+              "code": "NI",
+              "type": "Pemerintah",
+              "amount": 188954000
+            },
+            {
+              "code": "PD",
+              "type": "Lokal",
+              "amount": 152110500
+            },
+            {
+              "code": "OD",
+              "type": "Pemerintah",
+              "amount": 146351000
+            },
+            {
+              "code": "YU",
+              "type": "Asing",
+              "amount": 54489000
+            },
+            {
+              "code": "LG",
+              "type": "Lokal",
+              "amount": 38335000
+            },
+            {
+              "code": "AZ",
+              "type": "Lokal",
+              "amount": 29410000
+            },
+            {
+              "code": "HD",
+              "type": "Asing",
+              "amount": 28911500
+            },
+            {
+              "code": "DR",
+              "type": "Asing",
+              "amount": 22674000
+            },
+            {
+              "code": "AK",
+              "type": "Asing",
+              "amount": 17615500
+            },
+            {
+              "code": "EP",
+              "type": "Lokal",
+              "amount": 10928000
+            },
+            {
+              "code": "MG",
+              "type": "Lokal",
+              "amount": 10050000
+            },
+            {
+              "code": "KK",
+              "type": "Asing",
+              "amount": 8335000
+            },
+            {
+              "code": "CP",
+              "type": "Asing",
+              "amount": 7282000
+            },
+            {
+              "code": "ZP",
+              "type": "Asing",
+              "amount": 5274500
+            },
+            {
+              "code": "DX",
+              "type": "Pemerintah",
+              "amount": 4687500
+            },
+            {
+              "code": "HP",
+              "type": "Lokal",
+              "amount": 4644500
+            },
+            {
+              "code": "BK",
+              "type": "Asing",
+              "amount": 4337500
+            },
+            {
+              "code": "KI",
+              "type": "Lokal",
+              "amount": 1655000
+            },
+            {
+              "code": "YB",
+              "type": "Lokal",
+              "amount": 1324500
+            },
+            {
+              "code": "AT",
+              "type": "Lokal",
+              "amount": 990000
+            },
+            {
+              "code": "BQ",
+              "type": "Asing",
+              "amount": 331000
+            }
+          ]
+        },
+        {
+          "detail": {
+            "code": "PD",
+            "type": "Lokal",
+            "amount": 1848090500
+          },
+          "distribute_to": [
+            {
+              "code": "XL",
+              "type": "Lokal",
+              "amount": 491077500
+            },
+            {
+              "code": "SQ",
+              "type": "Lokal",
+              "amount": 385921500
+            },
+            {
+              "code": "XC",
+              "type": "Lokal",
+              "amount": 241421500
+            },
+            {
+              "code": "GR",
+              "type": "Lokal",
+              "amount": 183883000
+            },
+            {
+              "code": "YP",
+              "type": "Asing",
+              "amount": 140682500
+            },
+            {
+              "code": "OD",
+              "type": "Pemerintah",
+              "amount": 74525500
+            },
+            {
+              "code": "PD",
+              "type": "Lokal",
+              "amount": 74146500
+            },
+            {
+              "code": "YU",
+              "type": "Asing",
+              "amount": 46745500
+            },
+            {
+              "code": "DD",
+              "type": "Lokal",
+              "amount": 41375000
+            },
+            {
+              "code": "CP",
+              "type": "Asing",
+              "amount": 37737000
+            },
+            {
+              "code": "DR",
+              "type": "Asing",
+              "amount": 37422000
+            },
+            {
+              "code": "CC",
+              "type": "Pemerintah",
+              "amount": 34869500
+            },
+            {
+              "code": "NI",
+              "type": "Pemerintah",
+              "amount": 33030000
+            },
+            {
+              "code": "LG",
+              "type": "Lokal",
+              "amount": 15800000
+            },
+            {
+              "code": "AK",
+              "type": "Asing",
+              "amount": 4648000
+            },
+            {
+              "code": "YB",
+              "type": "Lokal",
+              "amount": 2317000
+            },
+            {
+              "code": "HD",
+              "type": "Asing",
+              "amount": 666000
+            },
+            {
+              "code": "AZ",
+              "type": "Lokal",
+              "amount": 662000
+            },
+            {
+              "code": "ZP",
+              "type": "Asing",
+              "amount": 660000
+            },
+            {
+              "code": "KK",
+              "type": "Asing",
+              "amount": 335000
+            },
+            {
+              "code": "EP",
+              "type": "Lokal",
+              "amount": 165500
+            }
+          ]
+        },
+        {
+          "detail": {
+            "code": "XC",
+            "type": "Lokal",
+            "amount": 1136897000
+          },
+          "distribute_to": [
+            {
+              "code": "XL",
+              "type": "Lokal",
+              "amount": 195728500
+            },
+            {
+              "code": "SQ",
+              "type": "Lokal",
+              "amount": 183118000
+            },
+            {
+              "code": "AK",
+              "type": "Asing",
+              "amount": 142317500
+            },
+            {
+              "code": "YP",
+              "type": "Asing",
+              "amount": 121103000
+            },
+            {
+              "code": "XC",
+              "type": "Lokal",
+              "amount": 93966000
+            },
+            {
+              "code": "CC",
+              "type": "Pemerintah",
+              "amount": 75253500
+            },
+            {
+              "code": "NI",
+              "type": "Pemerintah",
+              "amount": 68020000
+            },
+            {
+              "code": "PD",
+              "type": "Lokal",
+              "amount": 63821500
+            },
+            {
+              "code": "OD",
+              "type": "Pemerintah",
+              "amount": 49039500
+            },
+            {
+              "code": "GR",
+              "type": "Lokal",
+              "amount": 43855500
+            },
+            {
+              "code": "YU",
+              "type": "Asing",
+              "amount": 26622500
+            },
+            {
+              "code": "HP",
+              "type": "Lokal",
+              "amount": 19961500
+            },
+            {
+              "code": "DR",
+              "type": "Asing",
+              "amount": 11586000
+            },
+            {
+              "code": "LG",
+              "type": "Lokal",
+              "amount": 11021500
+            },
+            {
+              "code": "HD",
+              "type": "Asing",
+              "amount": 5644000
+            },
+            {
+              "code": "AT",
+              "type": "Lokal",
+              "amount": 5115000
+            },
+            {
+              "code": "EP",
+              "type": "Lokal",
+              "amount": 4651000
+            },
+            {
+              "code": "AZ",
+              "type": "Lokal",
+              "amount": 3630500
+            },
+            {
+              "code": "CP",
+              "type": "Asing",
+              "amount": 2823500
+            },
+            {
+              "code": "ZP",
+              "type": "Asing",
+              "amount": 2804000
+            },
+            {
+              "code": "BK",
+              "type": "Asing",
+              "amount": 2493500
+            },
+            {
+              "code": "KK",
+              "type": "Asing",
+              "amount": 1821500
+            },
+            {
+              "code": "MG",
+              "type": "Lokal",
+              "amount": 1172500
+            },
+            {
+              "code": "KI",
+              "type": "Lokal",
+              "amount": 827500
+            },
+            {
+              "code": "XA",
+              "type": "Asing",
+              "amount": 499500
+            }
+          ]
+        },
+        {
+          "detail": {
+            "code": "EP",
+            "type": "Lokal",
+            "amount": 1108078000
+          },
+          "distribute_to": [
+            {
+              "code": "NI",
+              "type": "Pemerintah",
+              "amount": 949970000
+            },
+            {
+              "code": "XL",
+              "type": "Lokal",
+              "amount": 36183000
+            },
+            {
+              "code": "CC",
+              "type": "Pemerintah",
+              "amount": 34981500
+            },
+            {
+              "code": "YP",
+              "type": "Asing",
+              "amount": 20837000
+            },
+            {
+              "code": "YB",
+              "type": "Lokal",
+              "amount": 18867000
+            },
+            {
+              "code": "SQ",
+              "type": "Lokal",
+              "amount": 16995000
+            },
+            {
+              "code": "PD",
+              "type": "Lokal",
+              "amount": 9915000
+            },
+            {
+              "code": "YU",
+              "type": "Asing",
+              "amount": 5940000
+            },
+            {
+              "code": "EP",
+              "type": "Lokal",
+              "amount": 4648000
+            },
+            {
+              "code": "KK",
+              "type": "Asing",
+              "amount": 3135500
+            },
+            {
+              "code": "LG",
+              "type": "Lokal",
+              "amount": 3125500
+            },
+            {
+              "code": "HD",
+              "type": "Asing",
+              "amount": 1660000
+            },
+            {
+              "code": "XC",
+              "type": "Lokal",
+              "amount": 1324500
+            },
+            {
+              "code": "BK",
+              "type": "Asing",
+              "amount": 165500
+            },
+            {
+              "code": "DR",
+              "type": "Asing",
+              "amount": 165500
+            },
+            {
+              "code": "AZ",
+              "type": "Lokal",
+              "amount": 165000
+            }
+          ]
+        },
+        {
+          "detail": {
+            "code": "YU",
+            "type": "Asing",
+            "amount": 972917000
+          },
+          "distribute_to": [
+            {
+              "code": "NI",
+              "type": "Pemerintah",
+              "amount": 398495000
+            },
+            {
+              "code": "YP",
+              "type": "Asing",
+              "amount": 171257500
+            },
+            {
+              "code": "XL",
+              "type": "Lokal",
+              "amount": 120341000
+            },
+            {
+              "code": "GR",
+              "type": "Lokal",
+              "amount": 97214000
+            },
+            {
+              "code": "OD",
+              "type": "Pemerintah",
+              "amount": 74325000
+            },
+            {
+              "code": "XC",
+              "type": "Lokal",
+              "amount": 63340000
+            },
+            {
+              "code": "LG",
+              "type": "Lokal",
+              "amount": 15956500
+            },
+            {
+              "code": "EP",
+              "type": "Lokal",
+              "amount": 13443000
+            },
+            {
+              "code": "CC",
+              "type": "Pemerintah",
+              "amount": 11952000
+            },
+            {
+              "code": "DH",
+              "type": "Lokal",
+              "amount": 3135000
+            },
+            {
+              "code": "PD",
+              "type": "Lokal",
+              "amount": 1645000
+            },
+            {
+              "code": "BK",
+              "type": "Asing",
+              "amount": 1480500
+            },
+            {
+              "code": "DR",
+              "type": "Asing",
+              "amount": 167000
+            },
+            {
+              "code": "SQ",
+              "type": "Lokal",
+              "amount": 165500
+            }
+          ]
+        },
+        {
+          "detail": {
+            "code": "YP",
+            "type": "Asing",
+            "amount": 927481000
+          },
+          "distribute_to": [
+            {
+              "code": "XL",
+              "type": "Lokal",
+              "amount": 166445500
+            },
+            {
+              "code": "XC",
+              "type": "Lokal",
+              "amount": 102302000
+            },
+            {
+              "code": "PD",
+              "type": "Lokal",
+              "amount": 96430000
+            },
+            {
+              "code": "GR",
+              "type": "Lokal",
+              "amount": 94700000
+            },
+            {
+              "code": "OD",
+              "type": "Pemerintah",
+              "amount": 80906500
+            },
+            {
+              "code": "YP",
+              "type": "Asing",
+              "amount": 68599000
+            },
+            {
+              "code": "SQ",
+              "type": "Lokal",
+              "amount": 54951500
+            },
+            {
+              "code": "NI",
+              "type": "Pemerintah",
+              "amount": 46531500
+            },
+            {
+              "code": "CC",
+              "type": "Pemerintah",
+              "amount": 42143000
+            },
+            {
+              "code": "LG",
+              "type": "Lokal",
+              "amount": 39832500
+            },
+            {
+              "code": "YU",
+              "type": "Asing",
+              "amount": 30404500
+            },
+            {
+              "code": "AK",
+              "type": "Asing",
+              "amount": 25324000
+            },
+            {
+              "code": "ZP",
+              "type": "Asing",
+              "amount": 22536500
+            },
+            {
+              "code": "AZ",
+              "type": "Lokal",
+              "amount": 20955000
+            },
+            {
+              "code": "YB",
+              "type": "Lokal",
+              "amount": 15060000
+            },
+            {
+              "code": "KK",
+              "type": "Asing",
+              "amount": 6600000
+            },
+            {
+              "code": "CP",
+              "type": "Asing",
+              "amount": 6115500
+            },
+            {
+              "code": "DR",
+              "type": "Asing",
+              "amount": 2342500
+            },
+            {
+              "code": "EP",
+              "type": "Lokal",
+              "amount": 2155500
+            },
+            {
+              "code": "BK",
+              "type": "Asing",
+              "amount": 1815000
+            },
+            {
+              "code": "MG",
+              "type": "Lokal",
+              "amount": 502500
+            },
+            {
+              "code": "HP",
+              "type": "Lokal",
+              "amount": 496500
+            },
+            {
+              "code": "HD",
+              "type": "Asing",
+              "amount": 332000
+            }
+          ]
+        },
+        {
+          "detail": {
+            "code": "ZP",
+            "type": "Asing",
+            "amount": 831223000
+          },
+          "distribute_to": [
+            {
+              "code": "XL",
+              "type": "Lokal",
+              "amount": 186943500
+            },
+            {
+              "code": "LG",
+              "type": "Lokal",
+              "amount": 137686500
+            },
+            {
+              "code": "PD",
+              "type": "Lokal",
+              "amount": 118058000
+            },
+            {
+              "code": "GR",
+              "type": "Lokal",
+              "amount": 100458500
+            },
+            {
+              "code": "OD",
+              "type": "Pemerintah",
+              "amount": 82500000
+            },
+            {
+              "code": "XC",
+              "type": "Lokal",
+              "amount": 71422000
+            },
+            {
+              "code": "SQ",
+              "type": "Lokal",
+              "amount": 38369500
+            },
+            {
+              "code": "NI",
+              "type": "Pemerintah",
+              "amount": 35395000
+            },
+            {
+              "code": "DR",
+              "type": "Asing",
+              "amount": 31756000
+            },
+            {
+              "code": "CC",
+              "type": "Pemerintah",
+              "amount": 16450000
+            },
+            {
+              "code": "ZP",
+              "type": "Asing",
+              "amount": 5593000
+            },
+            {
+              "code": "YP",
+              "type": "Asing",
+              "amount": 4112500
+            },
+            {
+              "code": "BK",
+              "type": "Asing",
+              "amount": 1158500
+            },
+            {
+              "code": "YU",
+              "type": "Asing",
+              "amount": 662000
+            },
+            {
+              "code": "AZ",
+              "type": "Lokal",
+              "amount": 658000
+            }
+          ]
+        },
+        {
+          "detail": {
+            "code": "CC",
+            "type": "Pemerintah",
+            "amount": 799380500
+          },
+          "distribute_to": [
+            {
+              "code": "SQ",
+              "type": "Lokal",
+              "amount": 126559000
+            },
+            {
+              "code": "XL",
+              "type": "Lokal",
+              "amount": 115471500
+            },
+            {
+              "code": "NI",
+              "type": "Pemerintah",
+              "amount": 111611000
+            },
+            {
+              "code": "LG",
+              "type": "Lokal",
+              "amount": 102483500
+            },
+            {
+              "code": "ZP",
+              "type": "Asing",
+              "amount": 82750000
+            },
+            {
+              "code": "XC",
+              "type": "Lokal",
+              "amount": 40532000
+            },
+            {
+              "code": "OD",
+              "type": "Pemerintah",
+              "amount": 39813500
+            },
+            {
+              "code": "PD",
+              "type": "Lokal",
+              "amount": 33957000
+            },
+            {
+              "code": "YP",
+              "type": "Asing",
+              "amount": 29204500
+            },
+            {
+              "code": "DR",
+              "type": "Asing",
+              "amount": 22043000
+            },
+            {
+              "code": "YU",
+              "type": "Asing",
+              "amount": 19437000
+            },
+            {
+              "code": "MG",
+              "type": "Lokal",
+              "amount": 17085000
+            },
+            {
+              "code": "GR",
+              "type": "Lokal",
+              "amount": 13918500
+            },
+            {
+              "code": "AZ",
+              "type": "Lokal",
+              "amount": 11891000
+            },
+            {
+              "code": "HD",
+              "type": "Asing",
+              "amount": 9136000
+            },
+            {
+              "code": "EP",
+              "type": "Lokal",
+              "amount": 7188500
+            },
+            {
+              "code": "CC",
+              "type": "Pemerintah",
+              "amount": 6789500
+            },
+            {
+              "code": "DX",
+              "type": "Pemerintah",
+              "amount": 4522500
+            },
+            {
+              "code": "AK",
+              "type": "Asing",
+              "amount": 2995000
+            },
+            {
+              "code": "BK",
+              "type": "Asing",
+              "amount": 667500
+            },
+            {
+              "code": "CP",
+              "type": "Asing",
+              "amount": 496500
+            },
+            {
+              "code": "YB",
+              "type": "Lokal",
+              "amount": 496500
+            },
+            {
+              "code": "HP",
+              "type": "Lokal",
+              "amount": 332000
+            }
+          ]
+        },
+        {
+          "detail": {
+            "code": "SQ",
+            "type": "Lokal",
+            "amount": 766823000
+          },
+          "distribute_to": [
+            {
+              "code": "XL",
+              "type": "Lokal",
+              "amount": 187436000
+            },
+            {
+              "code": "PD",
+              "type": "Lokal",
+              "amount": 156930000
+            },
+            {
+              "code": "NI",
+              "type": "Pemerintah",
+              "amount": 118864500
+            },
+            {
+              "code": "XC",
+              "type": "Lokal",
+              "amount": 52242500
+            },
+            {
+              "code": "KK",
+              "type": "Asing",
+              "amount": 50991500
+            },
+            {
+              "code": "YU",
+              "type": "Asing",
+              "amount": 48433500
+            },
+            {
+              "code": "CC",
+              "type": "Pemerintah",
+              "amount": 33350000
+            },
+            {
+              "code": "OD",
+              "type": "Pemerintah",
+              "amount": 28727500
+            },
+            {
+              "code": "YP",
+              "type": "Asing",
+              "amount": 23249000
+            },
+            {
+              "code": "SQ",
+              "type": "Lokal",
+              "amount": 20829500
+            },
+            {
+              "code": "AK",
+              "type": "Asing",
+              "amount": 9490000
+            },
+            {
+              "code": "AO",
+              "type": "Lokal",
+              "amount": 8250000
+            },
+            {
+              "code": "CP",
+              "type": "Asing",
+              "amount": 7282000
+            },
+            {
+              "code": "GR",
+              "type": "Lokal",
+              "amount": 6794000
+            },
+            {
+              "code": "DR",
+              "type": "Asing",
+              "amount": 3517500
+            },
+            {
+              "code": "AT",
+              "type": "Lokal",
+              "amount": 2979000
+            },
+            {
+              "code": "AZ",
+              "type": "Lokal",
+              "amount": 2320000
+            },
+            {
+              "code": "BK",
+              "type": "Asing",
+              "amount": 1825500
+            },
+            {
+              "code": "ZP",
+              "type": "Asing",
+              "amount": 1151500
+            },
+            {
+              "code": "HD",
+              "type": "Asing",
+              "amount": 1002000
+            },
+            {
+              "code": "LG",
+              "type": "Lokal",
+              "amount": 825000
+            },
+            {
+              "code": "MG",
+              "type": "Lokal",
+              "amount": 167500
+            },
+            {
+              "code": "DH",
+              "type": "Lokal",
+              "amount": 165000
+            }
+          ]
+        },
+        {
+          "detail": {
+            "code": "DX",
+            "type": "Pemerintah",
+            "amount": 756806500
+          },
+          "distribute_to": [
+            {
+              "code": "XL",
+              "type": "Lokal",
+              "amount": 136074500
+            },
+            {
+              "code": "XC",
+              "type": "Lokal",
+              "amount": 119245500
+            },
+            {
+              "code": "SQ",
+              "type": "Lokal",
+              "amount": 100811000
+            },
+            {
+              "code": "NI",
+              "type": "Pemerintah",
+              "amount": 62209000
+            },
+            {
+              "code": "AK",
+              "type": "Asing",
+              "amount": 53440000
+            },
+            {
+              "code": "LG",
+              "type": "Lokal",
+              "amount": 49514500
+            },
+            {
+              "code": "PD",
+              "type": "Lokal",
+              "amount": 48675000
+            },
+            {
+              "code": "OD",
+              "type": "Pemerintah",
+              "amount": 45045000
+            },
+            {
+              "code": "AZ",
+              "type": "Lokal",
+              "amount": 33000000
+            },
+            {
+              "code": "YU",
+              "type": "Asing",
+              "amount": 33000000
+            },
+            {
+              "code": "CC",
+              "type": "Pemerintah",
+              "amount": 29361000
+            },
+            {
+              "code": "YP",
+              "type": "Asing",
+              "amount": 26136000
+            },
+            {
+              "code": "GR",
+              "type": "Lokal",
+              "amount": 16500000
+            },
+            {
+              "code": "HP",
+              "type": "Lokal",
+              "amount": 3300000
+            },
+            {
+              "code": "BQ",
+              "type": "Asing",
+              "amount": 330000
+            },
+            {
+              "code": "KK",
+              "type": "Asing",
+              "amount": 165000
+            }
+          ]
+        },
+        {
+          "detail": {
+            "code": "BK",
+            "type": "Asing",
+            "amount": 674517500
+          },
+          "distribute_to": [
+            {
+              "code": "FS",
+              "type": "Asing",
+              "amount": 165000000
+            },
+            {
+              "code": "PD",
+              "type": "Lokal",
+              "amount": 76910500
+            },
+            {
+              "code": "CC",
+              "type": "Pemerintah",
+              "amount": 70092000
+            },
+            {
+              "code": "GR",
+              "type": "Lokal",
+              "amount": 60368500
+            },
+            {
+              "code": "XC",
+              "type": "Lokal",
+              "amount": 45333000
+            },
+            {
+              "code": "XL",
+              "type": "Lokal",
+              "amount": 45056500
+            },
+            {
+              "code": "DD",
+              "type": "Lokal",
+              "amount": 41375000
+            },
+            {
+              "code": "NI",
+              "type": "Pemerintah",
+              "amount": 36139000
+            },
+            {
+              "code": "DR",
+              "type": "Asing",
+              "amount": 30131000
+            },
+            {
+              "code": "SQ",
+              "type": "Lokal",
+              "amount": 24085000
+            },
+            {
+              "code": "KK",
+              "type": "Asing",
+              "amount": 20136500
+            },
+            {
+              "code": "ZP",
+              "type": "Asing",
+              "amount": 19194500
+            },
+            {
+              "code": "YP",
+              "type": "Asing",
+              "amount": 8587000
+            },
+            {
+              "code": "EP",
+              "type": "Lokal",
+              "amount": 6936000
+            },
+            {
+              "code": "YU",
+              "type": "Asing",
+              "amount": 5838500
+            },
+            {
+              "code": "OD",
+              "type": "Pemerintah",
+              "amount": 4960000
+            },
+            {
+              "code": "AZ",
+              "type": "Lokal",
+              "amount": 3795000
+            },
+            {
+              "code": "BK",
+              "type": "Asing",
+              "amount": 3639000
+            },
+            {
+              "code": "CP",
+              "type": "Asing",
+              "amount": 3475500
+            },
+            {
+              "code": "AT",
+              "type": "Lokal",
+              "amount": 2640000
+            },
+            {
+              "code": "AK",
+              "type": "Asing",
+              "amount": 825000
+            }
+          ]
+        },
+        {
+          "detail": {
+            "code": "BB",
+            "type": "Lokal",
+            "amount": 650000000
+          },
+          "distribute_to": [
+            {
+              "code": "XL",
+              "type": "Lokal",
+              "amount": 121161000
+            },
+            {
+              "code": "PD",
+              "type": "Lokal",
+              "amount": 116490000
+            },
+            {
+              "code": "SQ",
+              "type": "Lokal",
+              "amount": 83490000
+            },
+            {
+              "code": "YP",
+              "type": "Asing",
+              "amount": 71115000
+            },
+            {
+              "code": "CC",
+              "type": "Pemerintah",
+              "amount": 52800000
+            },
+            {
+              "code": "LG",
+              "type": "Lokal",
+              "amount": 49844000
+            },
+            {
+              "code": "OD",
+              "type": "Pemerintah",
+              "amount": 41745000
+            },
+            {
+              "code": "XC",
+              "type": "Lokal",
+              "amount": 38115000
+            },
+            {
+              "code": "ZP",
+              "type": "Asing",
+              "amount": 21945000
+            },
+            {
+              "code": "AZ",
+              "type": "Lokal",
+              "amount": 18315000
+            },
+            {
+              "code": "HD",
+              "type": "Asing",
+              "amount": 13695000
+            },
+            {
+              "code": "YU",
+              "type": "Asing",
+              "amount": 11550000
+            },
+            {
+              "code": "NI",
+              "type": "Pemerintah",
+              "amount": 4290000
+            },
+            {
+              "code": "CP",
+              "type": "Asing",
+              "amount": 2310000
+            },
+            {
+              "code": "AT",
+              "type": "Lokal",
+              "amount": 2145000
+            },
+            {
+              "code": "XA",
+              "type": "Asing",
+              "amount": 660000
+            },
+            {
+              "code": "KK",
+              "type": "Asing",
+              "amount": 330000
+            }
+          ]
+        }
+      ],
+      "top_broker_sell": [
+        {
+          "detail": {
+            "code": "XL",
+            "type": "Lokal",
+            "amount": 2591077000
+          },
+          "distribute_to": [
+            {
+              "code": "PD",
+              "type": "Lokal",
+              "amount": 491077500
+            },
+            {
+              "code": "XL",
+              "type": "Lokal",
+              "amount": 415055000
+            },
+            {
+              "code": "XC",
+              "type": "Lokal",
+              "amount": 195728500
+            },
+            {
+              "code": "SQ",
+              "type": "Lokal",
+              "amount": 187436000
+            },
+            {
+              "code": "ZP",
+              "type": "Asing",
+              "amount": 186943500
+            },
+            {
+              "code": "YP",
+              "type": "Asing",
+              "amount": 166445500
+            },
+            {
+              "code": "DX",
+              "type": "Pemerintah",
+              "amount": 136074500
+            },
+            {
+              "code": "BB",
+              "type": "Lokal",
+              "amount": 121161000
+            },
+            {
+              "code": "YU",
+              "type": "Asing",
+              "amount": 120341000
+            },
+            {
+              "code": "CC",
+              "type": "Pemerintah",
+              "amount": 115471500
+            },
+            {
+              "code": "KK",
+              "type": "Asing",
+              "amount": 67311500
+            },
+            {
+              "code": "NI",
+              "type": "Pemerintah",
+              "amount": 63762500
+            },
+            {
+              "code": "BK",
+              "type": "Asing",
+              "amount": 45056500
+            },
+            {
+              "code": "KI",
+              "type": "Lokal",
+              "amount": 43850000
+            },
+            {
+              "code": "EP",
+              "type": "Lokal",
+              "amount": 36183000
+            },
+            {
+              "code": "HD",
+              "type": "Asing",
+              "amount": 31666000
+            },
+            {
+              "code": "AK",
+              "type": "Asing",
+              "amount": 28603000
+            },
+            {
+              "code": "MU",
+              "type": "Lokal",
+              "amount": 22545000
+            },
+            {
+              "code": "HP",
+              "type": "Lokal",
+              "amount": 20161000
+            },
+            {
+              "code": "GR",
+              "type": "Lokal",
+              "amount": 19308000
+            },
+            {
+              "code": "OD",
+              "type": "Pemerintah",
+              "amount": 16713000
+            },
+            {
+              "code": "LG",
+              "type": "Lokal",
+              "amount": 15164000
+            },
+            {
+              "code": "DH",
+              "type": "Lokal",
+              "amount": 12410000
+            },
+            {
+              "code": "AZ",
+              "type": "Lokal",
+              "amount": 10743500
+            },
+            {
+              "code": "YJ",
+              "type": "Lokal",
+              "amount": 8275000
+            },
+            {
+              "code": "DR",
+              "type": "Asing",
+              "amount": 6780500
+            },
+            {
+              "code": "YB",
+              "type": "Lokal",
+              "amount": 3338000
+            },
+            {
+              "code": "AT",
+              "type": "Lokal",
+              "amount": 829000
+            },
+            {
+              "code": "IF",
+              "type": "Lokal",
+              "amount": 823500
+            },
+            {
+              "code": "SA",
+              "type": "Lokal",
+              "amount": 660000
+            },
+            {
+              "code": "XA",
+              "type": "Asing",
+              "amount": 496500
+            },
+            {
+              "code": "AI",
+              "type": "Asing",
+              "amount": 331000
+            },
+            {
+              "code": "BQ",
+              "type": "Asing",
+              "amount": 167000
+            },
+            {
+              "code": "CP",
+              "type": "Asing",
+              "amount": 165500
+            }
+          ]
+        },
+        {
+          "detail": {
+            "code": "NI",
+            "type": "Pemerintah",
+            "amount": 2151704000
+          },
+          "distribute_to": [
+            {
+              "code": "EP",
+              "type": "Lokal",
+              "amount": 949970000
+            },
+            {
+              "code": "YU",
+              "type": "Asing",
+              "amount": 398495000
+            },
+            {
+              "code": "XL",
+              "type": "Lokal",
+              "amount": 188954000
+            },
+            {
+              "code": "SQ",
+              "type": "Lokal",
+              "amount": 118864500
+            },
+            {
+              "code": "CC",
+              "type": "Pemerintah",
+              "amount": 111611000
+            },
+            {
+              "code": "XC",
+              "type": "Lokal",
+              "amount": 68020000
+            },
+            {
+              "code": "DX",
+              "type": "Pemerintah",
+              "amount": 62209000
+            },
+            {
+              "code": "YP",
+              "type": "Asing",
+              "amount": 46531500
+            },
+            {
+              "code": "NI",
+              "type": "Pemerintah",
+              "amount": 37991000
+            },
+            {
+              "code": "BK",
+              "type": "Asing",
+              "amount": 36139000
+            },
+            {
+              "code": "ZP",
+              "type": "Asing",
+              "amount": 35395000
+            },
+            {
+              "code": "PD",
+              "type": "Lokal",
+              "amount": 33030000
+            },
+            {
+              "code": "OD",
+              "type": "Pemerintah",
+              "amount": 20189500
+            },
+            {
+              "code": "KK",
+              "type": "Asing",
+              "amount": 12052000
+            },
+            {
+              "code": "DR",
+              "type": "Asing",
+              "amount": 11418000
+            },
+            {
+              "code": "AZ",
+              "type": "Lokal",
+              "amount": 6121000
+            },
+            {
+              "code": "BB",
+              "type": "Lokal",
+              "amount": 4290000
+            },
+            {
+              "code": "YB",
+              "type": "Lokal",
+              "amount": 4135000
+            },
+            {
+              "code": "DH",
+              "type": "Lokal",
+              "amount": 3310000
+            },
+            {
+              "code": "LG",
+              "type": "Lokal",
+              "amount": 2647500
+            },
+            {
+              "code": "IF",
+              "type": "Lokal",
+              "amount": 165500
+            },
+            {
+              "code": "KI",
+              "type": "Lokal",
+              "amount": 165500
+            }
+          ]
+        },
+        {
+          "detail": {
+            "code": "XC",
+            "type": "Lokal",
+            "amount": 1608869500
+          },
+          "distribute_to": [
+            {
+              "code": "XL",
+              "type": "Lokal",
+              "amount": 269525000
+            },
+            {
+              "code": "AK",
+              "type": "Asing",
+              "amount": 269287000
+            },
+            {
+              "code": "PD",
+              "type": "Lokal",
+              "amount": 241421500
+            },
+            {
+              "code": "DX",
+              "type": "Pemerintah",
+              "amount": 119245500
+            },
+            {
+              "code": "YP",
+              "type": "Asing",
+              "amount": 102302000
+            },
+            {
+              "code": "XC",
+              "type": "Lokal",
+              "amount": 93966000
+            },
+            {
+              "code": "LG",
+              "type": "Lokal",
+              "amount": 78836500
+            },
+            {
+              "code": "ZP",
+              "type": "Asing",
+              "amount": 71422000
+            },
+            {
+              "code": "YU",
+              "type": "Asing",
+              "amount": 63340000
+            },
+            {
+              "code": "SQ",
+              "type": "Lokal",
+              "amount": 52242500
+            },
+            {
+              "code": "BK",
+              "type": "Asing",
+              "amount": 45333000
+            },
+            {
+              "code": "CC",
+              "type": "Pemerintah",
+              "amount": 40532000
+            },
+            {
+              "code": "BB",
+              "type": "Lokal",
+              "amount": 38115000
+            },
+            {
+              "code": "GR",
+              "type": "Lokal",
+              "amount": 33233500
+            },
+            {
+              "code": "NI",
+              "type": "Pemerintah",
+              "amount": 27902500
+            },
+            {
+              "code": "BQ",
+              "type": "Asing",
+              "amount": 16500000
+            },
+            {
+              "code": "KK",
+              "type": "Asing",
+              "amount": 10441500
+            },
+            {
+              "code": "DR",
+              "type": "Asing",
+              "amount": 10419000
+            },
+            {
+              "code": "OD",
+              "type": "Pemerintah",
+              "amount": 6293500
+            },
+            {
+              "code": "HD",
+              "type": "Asing",
+              "amount": 4935000
+            },
+            {
+              "code": "DH",
+              "type": "Lokal",
+              "amount": 2482500
+            },
+            {
+              "code": "AT",
+              "type": "Lokal",
+              "amount": 1660000
+            },
+            {
+              "code": "HP",
+              "type": "Lokal",
+              "amount": 1655000
+            },
+            {
+              "code": "YB",
+              "type": "Lokal",
+              "amount": 1655000
+            },
+            {
+              "code": "EP",
+              "type": "Lokal",
+              "amount": 1324500
+            },
+            {
+              "code": "AZ",
+              "type": "Lokal",
+              "amount": 1158500
+            },
+            {
+              "code": "CP",
+              "type": "Asing",
+              "amount": 1158500
+            },
+            {
+              "code": "MU",
+              "type": "Lokal",
+              "amount": 835000
+            },
+            {
+              "code": "YJ",
+              "type": "Lokal",
+              "amount": 825000
+            },
+            {
+              "code": "XA",
+              "type": "Asing",
+              "amount": 822500
+            }
+          ]
+        },
+        {
+          "detail": {
+            "code": "SQ",
+            "type": "Lokal",
+            "amount": 1601640500
+          },
+          "distribute_to": [
+            {
+              "code": "PD",
+              "type": "Lokal",
+              "amount": 385921500
+            },
+            {
+              "code": "XL",
+              "type": "Lokal",
+              "amount": 234303500
+            },
+            {
+              "code": "XC",
+              "type": "Lokal",
+              "amount": 183118000
+            },
+            {
+              "code": "LG",
+              "type": "Lokal",
+              "amount": 131095000
+            },
+            {
+              "code": "CC",
+              "type": "Pemerintah",
+              "amount": 126559000
+            },
+            {
+              "code": "DX",
+              "type": "Pemerintah",
+              "amount": 100811000
+            },
+            {
+              "code": "BB",
+              "type": "Lokal",
+              "amount": 83490000
+            },
+            {
+              "code": "DR",
+              "type": "Asing",
+              "amount": 70122500
+            },
+            {
+              "code": "YP",
+              "type": "Asing",
+              "amount": 54951500
+            },
+            {
+              "code": "KK",
+              "type": "Asing",
+              "amount": 44551000
+            },
+            {
+              "code": "ZP",
+              "type": "Asing",
+              "amount": 38369500
+            },
+            {
+              "code": "BK",
+              "type": "Asing",
+              "amount": 24085000
+            },
+            {
+              "code": "SQ",
+              "type": "Lokal",
+              "amount": 20829500
+            },
+            {
+              "code": "YB",
+              "type": "Lokal",
+              "amount": 20130000
+            },
+            {
+              "code": "EP",
+              "type": "Lokal",
+              "amount": 16995000
+            },
+            {
+              "code": "NI",
+              "type": "Pemerintah",
+              "amount": 15514500
+            },
+            {
+              "code": "OD",
+              "type": "Pemerintah",
+              "amount": 11520000
+            },
+            {
+              "code": "GR",
+              "type": "Lokal",
+              "amount": 9900000
+            },
+            {
+              "code": "DH",
+              "type": "Lokal",
+              "amount": 9240000
+            },
+            {
+              "code": "HP",
+              "type": "Lokal",
+              "amount": 8744000
+            },
+            {
+              "code": "KI",
+              "type": "Lokal",
+              "amount": 5772500
+            },
+            {
+              "code": "AT",
+              "type": "Lokal",
+              "amount": 3465000
+            },
+            {
+              "code": "BQ",
+              "type": "Asing",
+              "amount": 990000
+            },
+            {
+              "code": "AK",
+              "type": "Asing",
+              "amount": 502500
+            },
+            {
+              "code": "CP",
+              "type": "Asing",
+              "amount": 494500
+            },
+            {
+              "code": "YU",
+              "type": "Asing",
+              "amount": 165500
+            }
+          ]
+        },
+        {
+          "detail": {
+            "code": "GR",
+            "type": "Lokal",
+            "amount": 1463144000
+          },
+          "distribute_to": [
+            {
+              "code": "XL",
+              "type": "Lokal",
+              "amount": 293188500
+            },
+            {
+              "code": "KK",
+              "type": "Asing",
+              "amount": 260083500
+            },
+            {
+              "code": "PD",
+              "type": "Lokal",
+              "amount": 183883000
+            },
+            {
+              "code": "ZP",
+              "type": "Asing",
+              "amount": 100458500
+            },
+            {
+              "code": "YU",
+              "type": "Asing",
+              "amount": 97214000
+            },
+            {
+              "code": "YP",
+              "type": "Asing",
+              "amount": 94700000
+            },
+            {
+              "code": "AN",
+              "type": "Lokal",
+              "amount": 82500000
+            },
+            {
+              "code": "BK",
+              "type": "Asing",
+              "amount": 60368500
+            },
+            {
+              "code": "CP",
+              "type": "Asing",
+              "amount": 58100000
+            },
+            {
+              "code": "XC",
+              "type": "Lokal",
+              "amount": 43855500
+            },
+            {
+              "code": "GR",
+              "type": "Lokal",
+              "amount": 41341500
+            },
+            {
+              "code": "MG",
+              "type": "Lokal",
+              "amount": 35406500
+            },
+            {
+              "code": "LG",
+              "type": "Lokal",
+              "amount": 20852500
+            },
+            {
+              "code": "HD",
+              "type": "Asing",
+              "amount": 17762000
+            },
+            {
+              "code": "NI",
+              "type": "Pemerintah",
+              "amount": 17034000
+            },
+            {
+              "code": "DX",
+              "type": "Pemerintah",
+              "amount": 16500000
+            },
+            {
+              "code": "CC",
+              "type": "Pemerintah",
+              "amount": 13918500
+            },
+            {
+              "code": "DR",
+              "type": "Asing",
+              "amount": 11418000
+            },
+            {
+              "code": "SQ",
+              "type": "Lokal",
+              "amount": 6794000
+            },
+            {
+              "code": "OD",
+              "type": "Pemerintah",
+              "amount": 2977500
+            },
+            {
+              "code": "SA",
+              "type": "Lokal",
+              "amount": 2475000
+            },
+            {
+              "code": "KI",
+              "type": "Lokal",
+              "amount": 827500
+            },
+            {
+              "code": "AZ",
+              "type": "Lokal",
+              "amount": 661000
+            },
+            {
+              "code": "AK",
+              "type": "Asing",
+              "amount": 493500
+            },
+            {
+              "code": "BQ",
+              "type": "Asing",
+              "amount": 165500
+            },
+            {
+              "code": "DH",
+              "type": "Lokal",
+              "amount": 165500
+            }
+          ]
+        },
+        {
+          "detail": {
+            "code": "PD",
+            "type": "Lokal",
+            "amount": 1300577000
+          },
+          "distribute_to": [
+            {
+              "code": "SQ",
+              "type": "Lokal",
+              "amount": 156930000
+            },
+            {
+              "code": "XL",
+              "type": "Lokal",
+              "amount": 152110500
+            },
+            {
+              "code": "ZP",
+              "type": "Asing",
+              "amount": 118058000
+            },
+            {
+              "code": "BB",
+              "type": "Lokal",
+              "amount": 116490000
+            },
+            {
+              "code": "YP",
+              "type": "Asing",
+              "amount": 96430000
+            },
+            {
+              "code": "CP",
+              "type": "Asing",
+              "amount": 84656500
+            },
+            {
+              "code": "BK",
+              "type": "Asing",
+              "amount": 76910500
+            },
+            {
+              "code": "PD",
+              "type": "Lokal",
+              "amount": 74146500
+            },
+            {
+              "code": "GR",
+              "type": "Lokal",
+              "amount": 65013500
+            },
+            {
+              "code": "XC",
+              "type": "Lokal",
+              "amount": 63821500
+            },
+            {
+              "code": "DX",
+              "type": "Pemerintah",
+              "amount": 48675000
+            },
+            {
+              "code": "NI",
+              "type": "Pemerintah",
+              "amount": 40009000
+            },
+            {
+              "code": "CC",
+              "type": "Pemerintah",
+              "amount": 33957000
+            },
+            {
+              "code": "MU",
+              "type": "Lokal",
+              "amount": 29392000
+            },
+            {
+              "code": "OD",
+              "type": "Pemerintah",
+              "amount": 25906000
+            },
+            {
+              "code": "YB",
+              "type": "Lokal",
+              "amount": 20627000
+            },
+            {
+              "code": "YJ",
+              "type": "Lokal",
+              "amount": 20130000
+            },
+            {
+              "code": "KK",
+              "type": "Asing",
+              "amount": 17001000
+            },
+            {
+              "code": "EP",
+              "type": "Lokal",
+              "amount": 9915000
+            },
+            {
+              "code": "DR",
+              "type": "Asing",
+              "amount": 9433500
+            },
+            {
+              "code": "AZ",
+              "type": "Lokal",
+              "amount": 8771500
+            },
+            {
+              "code": "HD",
+              "type": "Asing",
+              "amount": 8060500
+            },
+            {
+              "code": "AT",
+              "type": "Lokal",
+              "amount": 6909000
+            },
+            {
+              "code": "AK",
+              "type": "Asing",
+              "amount": 6475000
+            },
+            {
+              "code": "LG",
+              "type": "Lokal",
+              "amount": 3806500
+            },
+            {
+              "code": "KI",
+              "type": "Lokal",
+              "amount": 2971500
+            },
+            {
+              "code": "YU",
+              "type": "Asing",
+              "amount": 1645000
+            },
+            {
+              "code": "BQ",
+              "type": "Asing",
+              "amount": 668000
+            },
+            {
+              "code": "DH",
+              "type": "Lokal",
+              "amount": 499500
+            },
+            {
+              "code": "AI",
+              "type": "Asing",
+              "amount": 496500
+            },
+            {
+              "code": "TP",
+              "type": "Asing",
+              "amount": 331000
+            },
+            {
+              "code": "RG",
+              "type": "Lokal",
+              "amount": 165500
+            },
+            {
+              "code": "HP",
+              "type": "Lokal",
+              "amount": 165000
+            }
+          ]
+        },
+        {
+          "detail": {
+            "code": "YP",
+            "type": "Asing",
+            "amount": 1165415500
+          },
+          "distribute_to": [
+            {
+              "code": "XL",
+              "type": "Lokal",
+              "amount": 241391000
+            },
+            {
+              "code": "YU",
+              "type": "Asing",
+              "amount": 171257500
+            },
+            {
+              "code": "PD",
+              "type": "Lokal",
+              "amount": 140682500
+            },
+            {
+              "code": "XC",
+              "type": "Lokal",
+              "amount": 121103000
+            },
+            {
+              "code": "AK",
+              "type": "Asing",
+              "amount": 71154000
+            },
+            {
+              "code": "BB",
+              "type": "Lokal",
+              "amount": 71115000
+            },
+            {
+              "code": "YP",
+              "type": "Asing",
+              "amount": 68599000
+            },
+            {
+              "code": "NI",
+              "type": "Pemerintah",
+              "amount": 32336500
+            },
+            {
+              "code": "KK",
+              "type": "Asing",
+              "amount": 32127000
+            },
+            {
+              "code": "CC",
+              "type": "Pemerintah",
+              "amount": 29204500
+            },
+            {
+              "code": "DX",
+              "type": "Pemerintah",
+              "amount": 26136000
+            },
+            {
+              "code": "SQ",
+              "type": "Lokal",
+              "amount": 23249000
+            },
+            {
+              "code": "MU",
+              "type": "Lokal",
+              "amount": 22193000
+            },
+            {
+              "code": "EP",
+              "type": "Lokal",
+              "amount": 20837000
+            },
+            {
+              "code": "OD",
+              "type": "Pemerintah",
+              "amount": 18100000
+            },
+            {
+              "code": "HD",
+              "type": "Asing",
+              "amount": 17596000
+            },
+            {
+              "code": "LS",
+              "type": "Asing",
+              "amount": 16650000
+            },
+            {
+              "code": "YB",
+              "type": "Lokal",
+              "amount": 9162500
+            },
+            {
+              "code": "BK",
+              "type": "Asing",
+              "amount": 8587000
+            },
+            {
+              "code": "DR",
+              "type": "Asing",
+              "amount": 7430000
+            },
+            {
+              "code": "ZP",
+              "type": "Asing",
+              "amount": 4112500
+            },
+            {
+              "code": "AG",
+              "type": "Asing",
+              "amount": 2805000
+            },
+            {
+              "code": "GR",
+              "type": "Lokal",
+              "amount": 2145000
+            },
+            {
+              "code": "AZ",
+              "type": "Lokal",
+              "amount": 1983000
+            },
+            {
+              "code": "LG",
+              "type": "Lokal",
+              "amount": 1822500
+            },
+            {
+              "code": "DH",
+              "type": "Lokal",
+              "amount": 1482500
+            },
+            {
+              "code": "AI",
+              "type": "Asing",
+              "amount": 990000
+            },
+            {
+              "code": "IF",
+              "type": "Lokal",
+              "amount": 832500
+            },
+            {
+              "code": "BQ",
+              "type": "Asing",
+              "amount": 166000
+            },
+            {
+              "code": "TF",
+              "type": "Lokal",
+              "amount": 166000
+            }
+          ]
+        },
+        {
+          "detail": {
+            "code": "OD",
+            "type": "Pemerintah",
+            "amount": 1017624500
+          },
+          "distribute_to": [
+            {
+              "code": "XL",
+              "type": "Lokal",
+              "amount": 146351000
+            },
+            {
+              "code": "KK",
+              "type": "Asing",
+              "amount": 96445000
+            },
+            {
+              "code": "AN",
+              "type": "Lokal",
+              "amount": 82750000
+            },
+            {
+              "code": "ZP",
+              "type": "Asing",
+              "amount": 82500000
+            },
+            {
+              "code": "YP",
+              "type": "Asing",
+              "amount": 80906500
+            },
+            {
+              "code": "PD",
+              "type": "Lokal",
+              "amount": 74525500
+            },
+            {
+              "code": "YU",
+              "type": "Asing",
+              "amount": 74325000
+            },
+            {
+              "code": "NI",
+              "type": "Pemerintah",
+              "amount": 62712000
+            },
+            {
+              "code": "GR",
+              "type": "Lokal",
+              "amount": 50325000
+            },
+            {
+              "code": "XC",
+              "type": "Lokal",
+              "amount": 49039500
+            },
+            {
+              "code": "DX",
+              "type": "Pemerintah",
+              "amount": 45045000
+            },
+            {
+              "code": "BB",
+              "type": "Lokal",
+              "amount": 41745000
+            },
+            {
+              "code": "CC",
+              "type": "Pemerintah",
+              "amount": 39813500
+            },
+            {
+              "code": "AI",
+              "type": "Asing",
+              "amount": 33000000
+            },
+            {
+              "code": "SQ",
+              "type": "Lokal",
+              "amount": 28727500
+            },
+            {
+              "code": "AZ",
+              "type": "Lokal",
+              "amount": 11575000
+            },
+            {
+              "code": "YB",
+              "type": "Lokal",
+              "amount": 6600000
+            },
+            {
+              "code": "BK",
+              "type": "Asing",
+              "amount": 4960000
+            },
+            {
+              "code": "KI",
+              "type": "Lokal",
+              "amount": 2647500
+            },
+            {
+              "code": "DR",
+              "type": "Asing",
+              "amount": 1981000
+            },
+            {
+              "code": "DH",
+              "type": "Lokal",
+              "amount": 990000
+            },
+            {
+              "code": "YJ",
+              "type": "Lokal",
+              "amount": 330000
+            },
+            {
+              "code": "LG",
+              "type": "Lokal",
+              "amount": 165500
+            },
+            {
+              "code": "OD",
+              "type": "Pemerintah",
+              "amount": 165000
+            }
+          ]
+        },
+        {
+          "detail": {
+            "code": "CC",
+            "type": "Pemerintah",
+            "amount": 970380000
+          },
+          "distribute_to": [
+            {
+              "code": "XL",
+              "type": "Lokal",
+              "amount": 254782000
+            },
+            {
+              "code": "XC",
+              "type": "Lokal",
+              "amount": 75253500
+            },
+            {
+              "code": "BK",
+              "type": "Asing",
+              "amount": 70092000
+            },
+            {
+              "code": "AZ",
+              "type": "Lokal",
+              "amount": 60410000
+            },
+            {
+              "code": "BB",
+              "type": "Lokal",
+              "amount": 52800000
+            },
+            {
+              "code": "LS",
+              "type": "Asing",
+              "amount": 50100000
+            },
+            {
+              "code": "MG",
+              "type": "Lokal",
+              "amount": 49500000
+            },
+            {
+              "code": "YP",
+              "type": "Asing",
+              "amount": 42143000
+            },
+            {
+              "code": "AK",
+              "type": "Asing",
+              "amount": 35207000
+            },
+            {
+              "code": "EP",
+              "type": "Lokal",
+              "amount": 34981500
+            },
+            {
+              "code": "PD",
+              "type": "Lokal",
+              "amount": 34869500
+            },
+            {
+              "code": "SQ",
+              "type": "Lokal",
+              "amount": 33350000
+            },
+            {
+              "code": "DH",
+              "type": "Lokal",
+              "amount": 31545000
+            },
+            {
+              "code": "DX",
+              "type": "Pemerintah",
+              "amount": 29361000
+            },
+            {
+              "code": "NI",
+              "type": "Pemerintah",
+              "amount": 20470000
+            },
+            {
+              "code": "ZP",
+              "type": "Asing",
+              "amount": 16450000
+            },
+            {
+              "code": "LG",
+              "type": "Lokal",
+              "amount": 14240000
+            },
+            {
+              "code": "YU",
+              "type": "Asing",
+              "amount": 11952000
+            },
+            {
+              "code": "MU",
+              "type": "Lokal",
+              "amount": 10020000
+            },
+            {
+              "code": "MI",
+              "type": "Lokal",
+              "amount": 8300000
+            },
+            {
+              "code": "KK",
+              "type": "Asing",
+              "amount": 7507500
+            },
+            {
+              "code": "DR",
+              "type": "Asing",
+              "amount": 7118000
+            },
+            {
+              "code": "CC",
+              "type": "Pemerintah",
+              "amount": 6789500
+            },
+            {
+              "code": "YB",
+              "type": "Lokal",
+              "amount": 5812500
+            },
+            {
+              "code": "AT",
+              "type": "Lokal",
+              "amount": 4175000
+            },
+            {
+              "code": "OD",
+              "type": "Pemerintah",
+              "amount": 1165500
+            },
+            {
+              "code": "IF",
+              "type": "Lokal",
+              "amount": 830000
+            },
+            {
+              "code": "YJ",
+              "type": "Lokal",
+              "amount": 825000
+            },
+            {
+              "code": "CP",
+              "type": "Asing",
+              "amount": 166000
+            },
+            {
+              "code": "XA",
+              "type": "Asing",
+              "amount": 164500
+            }
+          ]
+        },
+        {
+          "detail": {
+            "code": "LG",
+            "type": "Lokal",
+            "amount": 525193000
+          },
+          "distribute_to": [
+            {
+              "code": "ZP",
+              "type": "Asing",
+              "amount": 137686500
+            },
+            {
+              "code": "CC",
+              "type": "Pemerintah",
+              "amount": 102483500
+            },
+            {
+              "code": "BB",
+              "type": "Lokal",
+              "amount": 49844000
+            },
+            {
+              "code": "DX",
+              "type": "Pemerintah",
+              "amount": 49514500
+            },
+            {
+              "code": "YP",
+              "type": "Asing",
+              "amount": 39832500
+            },
+            {
+              "code": "XL",
+              "type": "Lokal",
+              "amount": 38335000
+            },
+            {
+              "code": "NI",
+              "type": "Pemerintah",
+              "amount": 18965000
+            },
+            {
+              "code": "YU",
+              "type": "Asing",
+              "amount": 15956500
+            },
+            {
+              "code": "PD",
+              "type": "Lokal",
+              "amount": 15800000
+            },
+            {
+              "code": "XC",
+              "type": "Lokal",
+              "amount": 11021500
+            },
+            {
+              "code": "OD",
+              "type": "Pemerintah",
+              "amount": 9377000
+            },
+            {
+              "code": "RS",
+              "type": "Lokal",
+              "amount": 8225000
+            },
+            {
+              "code": "GR",
+              "type": "Lokal",
+              "amount": 5922000
+            },
+            {
+              "code": "AT",
+              "type": "Lokal",
+              "amount": 5099500
+            },
+            {
+              "code": "LG",
+              "type": "Lokal",
+              "amount": 3803500
+            },
+            {
+              "code": "IF",
+              "type": "Lokal",
+              "amount": 3290000
+            },
+            {
+              "code": "EP",
+              "type": "Lokal",
+              "amount": 3125500
+            },
+            {
+              "code": "DR",
+              "type": "Asing",
+              "amount": 2467500
+            },
+            {
+              "code": "KK",
+              "type": "Asing",
+              "amount": 1645000
+            },
+            {
+              "code": "XA",
+              "type": "Asing",
+              "amount": 1316000
+            },
+            {
+              "code": "SQ",
+              "type": "Lokal",
+              "amount": 825000
+            },
+            {
+              "code": "BQ",
+              "type": "Asing",
+              "amount": 493500
+            },
+            {
+              "code": "DH",
+              "type": "Lokal",
+              "amount": 164500
+            }
+          ]
+        },
+        {
+          "detail": {
+            "code": "YU",
+            "type": "Asing",
+            "amount": 503310500
+          },
+          "distribute_to": [
+            {
+              "code": "AK",
+              "type": "Asing",
+              "amount": 96480000
+            },
+            {
+              "code": "AI",
+              "type": "Asing",
+              "amount": 81510000
+            },
+            {
+              "code": "XL",
+              "type": "Lokal",
+              "amount": 54489000
+            },
+            {
+              "code": "SQ",
+              "type": "Lokal",
+              "amount": 48433500
+            },
+            {
+              "code": "PD",
+              "type": "Lokal",
+              "amount": 46745500
+            },
+            {
+              "code": "DX",
+              "type": "Pemerintah",
+              "amount": 33000000
+            },
+            {
+              "code": "GR",
+              "type": "Lokal",
+              "amount": 31395000
+            },
+            {
+              "code": "YP",
+              "type": "Asing",
+              "amount": 30404500
+            },
+            {
+              "code": "XC",
+              "type": "Lokal",
+              "amount": 26622500
+            },
+            {
+              "code": "CC",
+              "type": "Pemerintah",
+              "amount": 19437000
+            },
+            {
+              "code": "BB",
+              "type": "Lokal",
+              "amount": 11550000
+            },
+            {
+              "code": "NI",
+              "type": "Pemerintah",
+              "amount": 7673500
+            },
+            {
+              "code": "EP",
+              "type": "Lokal",
+              "amount": 5940000
+            },
+            {
+              "code": "BK",
+              "type": "Asing",
+              "amount": 5838500
+            },
+            {
+              "code": "DH",
+              "type": "Lokal",
+              "amount": 2467500
+            },
+            {
+              "code": "LG",
+              "type": "Lokal",
+              "amount": 662000
+            },
+            {
+              "code": "ZP",
+              "type": "Asing",
+              "amount": 662000
+            }
+          ]
+        },
+        {
+          "detail": {
+            "code": "AK",
+            "type": "Asing",
+            "amount": 272291000
+          },
+          "distribute_to": [
+            {
+              "code": "XC",
+              "type": "Lokal",
+              "amount": 142317500
+            },
+            {
+              "code": "DX",
+              "type": "Pemerintah",
+              "amount": 53440000
+            },
+            {
+              "code": "YP",
+              "type": "Asing",
+              "amount": 25324000
+            },
+            {
+              "code": "XL",
+              "type": "Lokal",
+              "amount": 17615500
+            },
+            {
+              "code": "SQ",
+              "type": "Lokal",
+              "amount": 9490000
+            },
+            {
+              "code": "YB",
+              "type": "Lokal",
+              "amount": 8300000
+            },
+            {
+              "code": "PD",
+              "type": "Lokal",
+              "amount": 4648000
+            },
+            {
+              "code": "CC",
+              "type": "Pemerintah",
+              "amount": 2995000
+            },
+            {
+              "code": "KK",
+              "type": "Asing",
+              "amount": 2686000
+            },
+            {
+              "code": "GR",
+              "type": "Lokal",
+              "amount": 1831500
+            },
+            {
+              "code": "LG",
+              "type": "Lokal",
+              "amount": 1660000
+            },
+            {
+              "code": "DH",
+              "type": "Lokal",
+              "amount": 827500
+            },
+            {
+              "code": "BK",
+              "type": "Asing",
+              "amount": 825000
+            },
+            {
+              "code": "CP",
+              "type": "Asing",
+              "amount": 165500
+            },
+            {
+              "code": "MG",
+              "type": "Lokal",
+              "amount": 165500
+            }
+          ]
+        }
+      ]
+    },
+    "by_volume": {
+      "top_broker_buy": [
+        {
+          "detail": {
+            "code": "XL",
+            "type": "Lokal",
+            "amount": 14788
+          },
+          "distribute_to": [
+            {
+              "code": "XL",
+              "type": "Lokal",
+              "amount": 2513
+            },
+            {
+              "code": "GR",
+              "type": "Lokal",
+              "amount": 1774
+            },
+            {
+              "code": "XC",
+              "type": "Lokal",
+              "amount": 1629
+            },
+            {
+              "code": "CC",
+              "type": "Pemerintah",
+              "amount": 1531
+            },
+            {
+              "code": "YP",
+              "type": "Asing",
+              "amount": 1455
+            },
+            {
+              "code": "SQ",
+              "type": "Lokal",
+              "amount": 1420
+            },
+            {
+              "code": "NI",
+              "type": "Pemerintah",
+              "amount": 1144
+            },
+            {
+              "code": "PD",
+              "type": "Lokal",
+              "amount": 920
+            },
+            {
+              "code": "OD",
+              "type": "Pemerintah",
+              "amount": 886
+            },
+            {
+              "code": "YU",
+              "type": "Asing",
+              "amount": 329
+            },
+            {
+              "code": "LG",
+              "type": "Lokal",
+              "amount": 233
+            },
+            {
+              "code": "AZ",
+              "type": "Lokal",
+              "amount": 178
+            },
+            {
+              "code": "HD",
+              "type": "Asing",
+              "amount": 174
+            },
+            {
+              "code": "DR",
+              "type": "Asing",
+              "amount": 136
+            },
+            {
+              "code": "AK",
+              "type": "Asing",
+              "amount": 106
+            },
+            {
+              "code": "EP",
+              "type": "Lokal",
+              "amount": 66
+            },
+            {
+              "code": "MG",
+              "type": "Lokal",
+              "amount": 60
+            },
+            {
+              "code": "KK",
+              "type": "Asing",
+              "amount": 50
+            },
+            {
+              "code": "CP",
+              "type": "Asing",
+              "amount": 44
+            },
+            {
+              "code": "ZP",
+              "type": "Asing",
+              "amount": 32
+            },
+            {
+              "code": "DX",
+              "type": "Pemerintah",
+              "amount": 28
+            },
+            {
+              "code": "HP",
+              "type": "Lokal",
+              "amount": 28
+            },
+            {
+              "code": "BK",
+              "type": "Asing",
+              "amount": 26
+            },
+            {
+              "code": "KI",
+              "type": "Lokal",
+              "amount": 10
+            },
+            {
+              "code": "YB",
+              "type": "Lokal",
+              "amount": 8
+            },
+            {
+              "code": "AT",
+              "type": "Lokal",
+              "amount": 6
+            },
+            {
+              "code": "BQ",
+              "type": "Asing",
+              "amount": 2
+            }
+          ]
+        },
+        {
+          "detail": {
+            "code": "PD",
+            "type": "Lokal",
+            "amount": 11182
+          },
+          "distribute_to": [
+            {
+              "code": "XL",
+              "type": "Lokal",
+              "amount": 2976
+            },
+            {
+              "code": "SQ",
+              "type": "Lokal",
+              "amount": 2339
+            },
+            {
+              "code": "XC",
+              "type": "Lokal",
+              "amount": 1460
+            },
+            {
+              "code": "GR",
+              "type": "Lokal",
+              "amount": 1112
+            },
+            {
+              "code": "YP",
+              "type": "Asing",
+              "amount": 848
+            },
+            {
+              "code": "OD",
+              "type": "Pemerintah",
+              "amount": 451
+            },
+            {
+              "code": "PD",
+              "type": "Lokal",
+              "amount": 449
+            },
+            {
+              "code": "YU",
+              "type": "Asing",
+              "amount": 280
+            },
+            {
+              "code": "DD",
+              "type": "Lokal",
+              "amount": 250
+            },
+            {
+              "code": "CP",
+              "type": "Asing",
+              "amount": 228
+            },
+            {
+              "code": "DR",
+              "type": "Asing",
+              "amount": 226
+            },
+            {
+              "code": "CC",
+              "type": "Pemerintah",
+              "amount": 210
+            },
+            {
+              "code": "NI",
+              "type": "Pemerintah",
+              "amount": 200
+            },
+            {
+              "code": "LG",
+              "type": "Lokal",
+              "amount": 96
+            },
+            {
+              "code": "AK",
+              "type": "Asing",
+              "amount": 28
+            },
+            {
+              "code": "YB",
+              "type": "Lokal",
+              "amount": 14
+            },
+            {
+              "code": "AZ",
+              "type": "Lokal",
+              "amount": 4
+            },
+            {
+              "code": "HD",
+              "type": "Asing",
+              "amount": 4
+            },
+            {
+              "code": "ZP",
+              "type": "Asing",
+              "amount": 4
+            },
+            {
+              "code": "KK",
+              "type": "Asing",
+              "amount": 2
+            },
+            {
+              "code": "EP",
+              "type": "Lokal",
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "detail": {
+            "code": "XC",
+            "type": "Lokal",
+            "amount": 6869
+          },
+          "distribute_to": [
+            {
+              "code": "XL",
+              "type": "Lokal",
+              "amount": 1183
+            },
+            {
+              "code": "SQ",
+              "type": "Lokal",
+              "amount": 1110
+            },
+            {
+              "code": "AK",
+              "type": "Asing",
+              "amount": 859
+            },
+            {
+              "code": "YP",
+              "type": "Asing",
+              "amount": 729
+            },
+            {
+              "code": "XC",
+              "type": "Lokal",
+              "amount": 568
+            },
+            {
+              "code": "CC",
+              "type": "Pemerintah",
+              "amount": 454
+            },
+            {
+              "code": "NI",
+              "type": "Pemerintah",
+              "amount": 411
+            },
+            {
+              "code": "PD",
+              "type": "Lokal",
+              "amount": 385
+            },
+            {
+              "code": "OD",
+              "type": "Pemerintah",
+              "amount": 297
+            },
+            {
+              "code": "GR",
+              "type": "Lokal",
+              "amount": 265
+            },
+            {
+              "code": "YU",
+              "type": "Asing",
+              "amount": 161
+            },
+            {
+              "code": "HP",
+              "type": "Lokal",
+              "amount": 120
+            },
+            {
+              "code": "DR",
+              "type": "Asing",
+              "amount": 70
+            },
+            {
+              "code": "LG",
+              "type": "Lokal",
+              "amount": 67
+            },
+            {
+              "code": "HD",
+              "type": "Asing",
+              "amount": 34
+            },
+            {
+              "code": "AT",
+              "type": "Lokal",
+              "amount": 31
+            },
+            {
+              "code": "EP",
+              "type": "Lokal",
+              "amount": 28
+            },
+            {
+              "code": "AZ",
+              "type": "Lokal",
+              "amount": 22
+            },
+            {
+              "code": "CP",
+              "type": "Asing",
+              "amount": 17
+            },
+            {
+              "code": "ZP",
+              "type": "Asing",
+              "amount": 17
+            },
+            {
+              "code": "BK",
+              "type": "Asing",
+              "amount": 15
+            },
+            {
+              "code": "KK",
+              "type": "Asing",
+              "amount": 11
+            },
+            {
+              "code": "MG",
+              "type": "Lokal",
+              "amount": 7
+            },
+            {
+              "code": "KI",
+              "type": "Lokal",
+              "amount": 5
+            },
+            {
+              "code": "XA",
+              "type": "Asing",
+              "amount": 3
+            }
+          ]
+        },
+        {
+          "detail": {
+            "code": "EP",
+            "type": "Lokal",
+            "amount": 6696
+          },
+          "distribute_to": [
+            {
+              "code": "NI",
+              "type": "Pemerintah",
+              "amount": 5740
+            },
+            {
+              "code": "XL",
+              "type": "Lokal",
+              "amount": 219
+            },
+            {
+              "code": "CC",
+              "type": "Pemerintah",
+              "amount": 211
+            },
+            {
+              "code": "YP",
+              "type": "Asing",
+              "amount": 126
+            },
+            {
+              "code": "YB",
+              "type": "Lokal",
+              "amount": 114
+            },
+            {
+              "code": "SQ",
+              "type": "Lokal",
+              "amount": 103
+            },
+            {
+              "code": "PD",
+              "type": "Lokal",
+              "amount": 60
+            },
+            {
+              "code": "YU",
+              "type": "Asing",
+              "amount": 36
+            },
+            {
+              "code": "EP",
+              "type": "Lokal",
+              "amount": 28
+            },
+            {
+              "code": "KK",
+              "type": "Asing",
+              "amount": 19
+            },
+            {
+              "code": "LG",
+              "type": "Lokal",
+              "amount": 19
+            },
+            {
+              "code": "HD",
+              "type": "Asing",
+              "amount": 10
+            },
+            {
+              "code": "XC",
+              "type": "Lokal",
+              "amount": 8
+            },
+            {
+              "code": "AZ",
+              "type": "Lokal",
+              "amount": 1
+            },
+            {
+              "code": "BK",
+              "type": "Asing",
+              "amount": 1
+            },
+            {
+              "code": "DR",
+              "type": "Asing",
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "detail": {
+            "code": "YU",
+            "type": "Asing",
+            "amount": 5891
+          },
+          "distribute_to": [
+            {
+              "code": "NI",
+              "type": "Pemerintah",
+              "amount": 2412
+            },
+            {
+              "code": "YP",
+              "type": "Asing",
+              "amount": 1038
+            },
+            {
+              "code": "XL",
+              "type": "Lokal",
+              "amount": 729
+            },
+            {
+              "code": "GR",
+              "type": "Lokal",
+              "amount": 588
+            },
+            {
+              "code": "OD",
+              "type": "Pemerintah",
+              "amount": 450
+            },
+            {
+              "code": "XC",
+              "type": "Lokal",
+              "amount": 384
+            },
+            {
+              "code": "LG",
+              "type": "Lokal",
+              "amount": 97
+            },
+            {
+              "code": "EP",
+              "type": "Lokal",
+              "amount": 81
+            },
+            {
+              "code": "CC",
+              "type": "Pemerintah",
+              "amount": 72
+            },
+            {
+              "code": "DH",
+              "type": "Lokal",
+              "amount": 19
+            },
+            {
+              "code": "PD",
+              "type": "Lokal",
+              "amount": 10
+            },
+            {
+              "code": "BK",
+              "type": "Asing",
+              "amount": 9
+            },
+            {
+              "code": "DR",
+              "type": "Asing",
+              "amount": 1
+            },
+            {
+              "code": "SQ",
+              "type": "Lokal",
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "detail": {
+            "code": "YP",
+            "type": "Asing",
+            "amount": 5610
+          },
+          "distribute_to": [
+            {
+              "code": "XL",
+              "type": "Lokal",
+              "amount": 1008
+            },
+            {
+              "code": "XC",
+              "type": "Lokal",
+              "amount": 620
+            },
+            {
+              "code": "PD",
+              "type": "Lokal",
+              "amount": 583
+            },
+            {
+              "code": "GR",
+              "type": "Lokal",
+              "amount": 571
+            },
+            {
+              "code": "OD",
+              "type": "Pemerintah",
+              "amount": 490
+            },
+            {
+              "code": "YP",
+              "type": "Asing",
+              "amount": 414
+            },
+            {
+              "code": "SQ",
+              "type": "Lokal",
+              "amount": 333
+            },
+            {
+              "code": "NI",
+              "type": "Pemerintah",
+              "amount": 281
+            },
+            {
+              "code": "CC",
+              "type": "Pemerintah",
+              "amount": 254
+            },
+            {
+              "code": "LG",
+              "type": "Lokal",
+              "amount": 242
+            },
+            {
+              "code": "YU",
+              "type": "Asing",
+              "amount": 184
+            },
+            {
+              "code": "AK",
+              "type": "Asing",
+              "amount": 153
+            },
+            {
+              "code": "ZP",
+              "type": "Asing",
+              "amount": 137
+            },
+            {
+              "code": "AZ",
+              "type": "Lokal",
+              "amount": 127
+            },
+            {
+              "code": "YB",
+              "type": "Lokal",
+              "amount": 90
+            },
+            {
+              "code": "KK",
+              "type": "Asing",
+              "amount": 40
+            },
+            {
+              "code": "CP",
+              "type": "Asing",
+              "amount": 37
+            },
+            {
+              "code": "DR",
+              "type": "Asing",
+              "amount": 14
+            },
+            {
+              "code": "EP",
+              "type": "Lokal",
+              "amount": 13
+            },
+            {
+              "code": "BK",
+              "type": "Asing",
+              "amount": 11
+            },
+            {
+              "code": "HP",
+              "type": "Lokal",
+              "amount": 3
+            },
+            {
+              "code": "MG",
+              "type": "Lokal",
+              "amount": 3
+            },
+            {
+              "code": "HD",
+              "type": "Asing",
+              "amount": 2
+            }
+          ]
+        },
+        {
+          "detail": {
+            "code": "ZP",
+            "type": "Asing",
+            "amount": 5043
+          },
+          "distribute_to": [
+            {
+              "code": "XL",
+              "type": "Lokal",
+              "amount": 1135
+            },
+            {
+              "code": "LG",
+              "type": "Lokal",
+              "amount": 837
+            },
+            {
+              "code": "PD",
+              "type": "Lokal",
+              "amount": 716
+            },
+            {
+              "code": "GR",
+              "type": "Lokal",
+              "amount": 607
+            },
+            {
+              "code": "OD",
+              "type": "Pemerintah",
+              "amount": 500
+            },
+            {
+              "code": "XC",
+              "type": "Lokal",
+              "amount": 434
+            },
+            {
+              "code": "SQ",
+              "type": "Lokal",
+              "amount": 232
+            },
+            {
+              "code": "NI",
+              "type": "Pemerintah",
+              "amount": 215
+            },
+            {
+              "code": "DR",
+              "type": "Asing",
+              "amount": 193
+            },
+            {
+              "code": "CC",
+              "type": "Pemerintah",
+              "amount": 100
+            },
+            {
+              "code": "ZP",
+              "type": "Asing",
+              "amount": 34
+            },
+            {
+              "code": "YP",
+              "type": "Asing",
+              "amount": 25
+            },
+            {
+              "code": "BK",
+              "type": "Asing",
+              "amount": 7
+            },
+            {
+              "code": "AZ",
+              "type": "Lokal",
+              "amount": 4
+            },
+            {
+              "code": "YU",
+              "type": "Asing",
+              "amount": 4
+            }
+          ]
+        },
+        {
+          "detail": {
+            "code": "CC",
+            "type": "Pemerintah",
+            "amount": 4834
+          },
+          "distribute_to": [
+            {
+              "code": "SQ",
+              "type": "Lokal",
+              "amount": 767
+            },
+            {
+              "code": "XL",
+              "type": "Lokal",
+              "amount": 699
+            },
+            {
+              "code": "NI",
+              "type": "Pemerintah",
+              "amount": 676
+            },
+            {
+              "code": "LG",
+              "type": "Lokal",
+              "amount": 623
+            },
+            {
+              "code": "ZP",
+              "type": "Asing",
+              "amount": 500
+            },
+            {
+              "code": "XC",
+              "type": "Lokal",
+              "amount": 245
+            },
+            {
+              "code": "OD",
+              "type": "Pemerintah",
+              "amount": 241
+            },
+            {
+              "code": "PD",
+              "type": "Lokal",
+              "amount": 205
+            },
+            {
+              "code": "YP",
+              "type": "Asing",
+              "amount": 176
+            },
+            {
+              "code": "DR",
+              "type": "Asing",
+              "amount": 132
+            },
+            {
+              "code": "YU",
+              "type": "Asing",
+              "amount": 117
+            },
+            {
+              "code": "MG",
+              "type": "Lokal",
+              "amount": 102
+            },
+            {
+              "code": "GR",
+              "type": "Lokal",
+              "amount": 84
+            },
+            {
+              "code": "AZ",
+              "type": "Lokal",
+              "amount": 71
+            },
+            {
+              "code": "HD",
+              "type": "Asing",
+              "amount": 55
+            },
+            {
+              "code": "EP",
+              "type": "Lokal",
+              "amount": 43
+            },
+            {
+              "code": "CC",
+              "type": "Pemerintah",
+              "amount": 41
+            },
+            {
+              "code": "DX",
+              "type": "Pemerintah",
+              "amount": 27
+            },
+            {
+              "code": "AK",
+              "type": "Asing",
+              "amount": 18
+            },
+            {
+              "code": "BK",
+              "type": "Asing",
+              "amount": 4
+            },
+            {
+              "code": "CP",
+              "type": "Asing",
+              "amount": 3
+            },
+            {
+              "code": "YB",
+              "type": "Lokal",
+              "amount": 3
+            },
+            {
+              "code": "HP",
+              "type": "Lokal",
+              "amount": 2
+            }
+          ]
+        },
+        {
+          "detail": {
+            "code": "SQ",
+            "type": "Lokal",
+            "amount": 4634
+          },
+          "distribute_to": [
+            {
+              "code": "XL",
+              "type": "Lokal",
+              "amount": 1132
+            },
+            {
+              "code": "PD",
+              "type": "Lokal",
+              "amount": 949
+            },
+            {
+              "code": "NI",
+              "type": "Pemerintah",
+              "amount": 720
+            },
+            {
+              "code": "XC",
+              "type": "Lokal",
+              "amount": 315
+            },
+            {
+              "code": "KK",
+              "type": "Asing",
+              "amount": 309
+            },
+            {
+              "code": "YU",
+              "type": "Asing",
+              "amount": 292
+            },
+            {
+              "code": "CC",
+              "type": "Pemerintah",
+              "amount": 201
+            },
+            {
+              "code": "OD",
+              "type": "Pemerintah",
+              "amount": 174
+            },
+            {
+              "code": "YP",
+              "type": "Asing",
+              "amount": 140
+            },
+            {
+              "code": "SQ",
+              "type": "Lokal",
+              "amount": 126
+            },
+            {
+              "code": "AK",
+              "type": "Asing",
+              "amount": 57
+            },
+            {
+              "code": "AO",
+              "type": "Lokal",
+              "amount": 50
+            },
+            {
+              "code": "CP",
+              "type": "Asing",
+              "amount": 44
+            },
+            {
+              "code": "GR",
+              "type": "Lokal",
+              "amount": 41
+            },
+            {
+              "code": "DR",
+              "type": "Asing",
+              "amount": 21
+            },
+            {
+              "code": "AT",
+              "type": "Lokal",
+              "amount": 18
+            },
+            {
+              "code": "AZ",
+              "type": "Lokal",
+              "amount": 14
+            },
+            {
+              "code": "BK",
+              "type": "Asing",
+              "amount": 11
+            },
+            {
+              "code": "ZP",
+              "type": "Asing",
+              "amount": 7
+            },
+            {
+              "code": "HD",
+              "type": "Asing",
+              "amount": 6
+            },
+            {
+              "code": "LG",
+              "type": "Lokal",
+              "amount": 5
+            },
+            {
+              "code": "DH",
+              "type": "Lokal",
+              "amount": 1
+            },
+            {
+              "code": "MG",
+              "type": "Lokal",
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "detail": {
+            "code": "DX",
+            "type": "Pemerintah",
+            "amount": 4583
+          },
+          "distribute_to": [
+            {
+              "code": "XL",
+              "type": "Lokal",
+              "amount": 825
+            },
+            {
+              "code": "XC",
+              "type": "Lokal",
+              "amount": 723
+            },
+            {
+              "code": "SQ",
+              "type": "Lokal",
+              "amount": 611
+            },
+            {
+              "code": "NI",
+              "type": "Pemerintah",
+              "amount": 377
+            },
+            {
+              "code": "AK",
+              "type": "Asing",
+              "amount": 320
+            },
+            {
+              "code": "LG",
+              "type": "Lokal",
+              "amount": 301
+            },
+            {
+              "code": "PD",
+              "type": "Lokal",
+              "amount": 295
+            },
+            {
+              "code": "OD",
+              "type": "Pemerintah",
+              "amount": 273
+            },
+            {
+              "code": "AZ",
+              "type": "Lokal",
+              "amount": 200
+            },
+            {
+              "code": "YU",
+              "type": "Asing",
+              "amount": 200
+            },
+            {
+              "code": "CC",
+              "type": "Pemerintah",
+              "amount": 177
+            },
+            {
+              "code": "YP",
+              "type": "Asing",
+              "amount": 158
+            },
+            {
+              "code": "GR",
+              "type": "Lokal",
+              "amount": 100
+            },
+            {
+              "code": "HP",
+              "type": "Lokal",
+              "amount": 20
+            },
+            {
+              "code": "BQ",
+              "type": "Asing",
+              "amount": 2
+            },
+            {
+              "code": "KK",
+              "type": "Asing",
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "detail": {
+            "code": "BK",
+            "type": "Asing",
+            "amount": 4082
+          },
+          "distribute_to": [
+            {
+              "code": "FS",
+              "type": "Asing",
+              "amount": 1000
+            },
+            {
+              "code": "PD",
+              "type": "Lokal",
+              "amount": 466
+            },
+            {
+              "code": "CC",
+              "type": "Pemerintah",
+              "amount": 424
+            },
+            {
+              "code": "GR",
+              "type": "Lokal",
+              "amount": 365
+            },
+            {
+              "code": "XC",
+              "type": "Lokal",
+              "amount": 275
+            },
+            {
+              "code": "XL",
+              "type": "Lokal",
+              "amount": 272
+            },
+            {
+              "code": "DD",
+              "type": "Lokal",
+              "amount": 250
+            },
+            {
+              "code": "NI",
+              "type": "Pemerintah",
+              "amount": 218
+            },
+            {
+              "code": "DR",
+              "type": "Asing",
+              "amount": 182
+            },
+            {
+              "code": "SQ",
+              "type": "Lokal",
+              "amount": 146
+            },
+            {
+              "code": "KK",
+              "type": "Asing",
+              "amount": 122
+            },
+            {
+              "code": "ZP",
+              "type": "Asing",
+              "amount": 116
+            },
+            {
+              "code": "YP",
+              "type": "Asing",
+              "amount": 52
+            },
+            {
+              "code": "EP",
+              "type": "Lokal",
+              "amount": 42
+            },
+            {
+              "code": "YU",
+              "type": "Asing",
+              "amount": 35
+            },
+            {
+              "code": "OD",
+              "type": "Pemerintah",
+              "amount": 30
+            },
+            {
+              "code": "AZ",
+              "type": "Lokal",
+              "amount": 23
+            },
+            {
+              "code": "BK",
+              "type": "Asing",
+              "amount": 22
+            },
+            {
+              "code": "CP",
+              "type": "Asing",
+              "amount": 21
+            },
+            {
+              "code": "AT",
+              "type": "Lokal",
+              "amount": 16
+            },
+            {
+              "code": "AK",
+              "type": "Asing",
+              "amount": 5
+            }
+          ]
+        },
+        {
+          "detail": {
+            "code": "BB",
+            "type": "Lokal",
+            "amount": 3941
+          },
+          "distribute_to": [
+            {
+              "code": "XL",
+              "type": "Lokal",
+              "amount": 735
+            },
+            {
+              "code": "PD",
+              "type": "Lokal",
+              "amount": 706
+            },
+            {
+              "code": "SQ",
+              "type": "Lokal",
+              "amount": 506
+            },
+            {
+              "code": "YP",
+              "type": "Asing",
+              "amount": 431
+            },
+            {
+              "code": "CC",
+              "type": "Pemerintah",
+              "amount": 320
+            },
+            {
+              "code": "LG",
+              "type": "Lokal",
+              "amount": 303
+            },
+            {
+              "code": "OD",
+              "type": "Pemerintah",
+              "amount": 253
+            },
+            {
+              "code": "XC",
+              "type": "Lokal",
+              "amount": 231
+            },
+            {
+              "code": "ZP",
+              "type": "Asing",
+              "amount": 133
+            },
+            {
+              "code": "AZ",
+              "type": "Lokal",
+              "amount": 111
+            },
+            {
+              "code": "HD",
+              "type": "Asing",
+              "amount": 83
+            },
+            {
+              "code": "YU",
+              "type": "Asing",
+              "amount": 70
+            },
+            {
+              "code": "NI",
+              "type": "Pemerintah",
+              "amount": 26
+            },
+            {
+              "code": "CP",
+              "type": "Asing",
+              "amount": 14
+            },
+            {
+              "code": "AT",
+              "type": "Lokal",
+              "amount": 13
+            },
+            {
+              "code": "XA",
+              "type": "Asing",
+              "amount": 4
+            },
+            {
+              "code": "KK",
+              "type": "Asing",
+              "amount": 2
+            }
+          ]
+        }
+      ],
+      "top_broker_sell": [
+        {
+          "detail": {
+            "code": "XL",
+            "type": "Lokal",
+            "amount": 15686
+          },
+          "distribute_to": [
+            {
+              "code": "PD",
+              "type": "Lokal",
+              "amount": 2976
+            },
+            {
+              "code": "XL",
+              "type": "Lokal",
+              "amount": 2513
+            },
+            {
+              "code": "XC",
+              "type": "Lokal",
+              "amount": 1183
+            },
+            {
+              "code": "ZP",
+              "type": "Asing",
+              "amount": 1135
+            },
+            {
+              "code": "SQ",
+              "type": "Lokal",
+              "amount": 1132
+            },
+            {
+              "code": "YP",
+              "type": "Asing",
+              "amount": 1008
+            },
+            {
+              "code": "DX",
+              "type": "Pemerintah",
+              "amount": 825
+            },
+            {
+              "code": "BB",
+              "type": "Lokal",
+              "amount": 735
+            },
+            {
+              "code": "YU",
+              "type": "Asing",
+              "amount": 729
+            },
+            {
+              "code": "CC",
+              "type": "Pemerintah",
+              "amount": 699
+            },
+            {
+              "code": "KK",
+              "type": "Asing",
+              "amount": 407
+            },
+            {
+              "code": "NI",
+              "type": "Pemerintah",
+              "amount": 385
+            },
+            {
+              "code": "BK",
+              "type": "Asing",
+              "amount": 272
+            },
+            {
+              "code": "KI",
+              "type": "Lokal",
+              "amount": 265
+            },
+            {
+              "code": "EP",
+              "type": "Lokal",
+              "amount": 219
+            },
+            {
+              "code": "HD",
+              "type": "Asing",
+              "amount": 192
+            },
+            {
+              "code": "AK",
+              "type": "Asing",
+              "amount": 172
+            },
+            {
+              "code": "MU",
+              "type": "Lokal",
+              "amount": 135
+            },
+            {
+              "code": "HP",
+              "type": "Lokal",
+              "amount": 122
+            },
+            {
+              "code": "GR",
+              "type": "Lokal",
+              "amount": 117
+            },
+            {
+              "code": "OD",
+              "type": "Pemerintah",
+              "amount": 101
+            },
+            {
+              "code": "LG",
+              "type": "Lokal",
+              "amount": 92
+            },
+            {
+              "code": "DH",
+              "type": "Lokal",
+              "amount": 75
+            },
+            {
+              "code": "AZ",
+              "type": "Lokal",
+              "amount": 65
+            },
+            {
+              "code": "YJ",
+              "type": "Lokal",
+              "amount": 50
+            },
+            {
+              "code": "DR",
+              "type": "Asing",
+              "amount": 41
+            },
+            {
+              "code": "YB",
+              "type": "Lokal",
+              "amount": 20
+            },
+            {
+              "code": "AT",
+              "type": "Lokal",
+              "amount": 5
+            },
+            {
+              "code": "IF",
+              "type": "Lokal",
+              "amount": 5
+            },
+            {
+              "code": "SA",
+              "type": "Lokal",
+              "amount": 4
+            },
+            {
+              "code": "XA",
+              "type": "Asing",
+              "amount": 3
+            },
+            {
+              "code": "AI",
+              "type": "Asing",
+              "amount": 2
+            },
+            {
+              "code": "BQ",
+              "type": "Asing",
+              "amount": 1
+            },
+            {
+              "code": "CP",
+              "type": "Asing",
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "detail": {
+            "code": "NI",
+            "type": "Pemerintah",
+            "amount": 13014
+          },
+          "distribute_to": [
+            {
+              "code": "EP",
+              "type": "Lokal",
+              "amount": 5740
+            },
+            {
+              "code": "YU",
+              "type": "Asing",
+              "amount": 2412
+            },
+            {
+              "code": "XL",
+              "type": "Lokal",
+              "amount": 1144
+            },
+            {
+              "code": "SQ",
+              "type": "Lokal",
+              "amount": 720
+            },
+            {
+              "code": "CC",
+              "type": "Pemerintah",
+              "amount": 676
+            },
+            {
+              "code": "XC",
+              "type": "Lokal",
+              "amount": 411
+            },
+            {
+              "code": "DX",
+              "type": "Pemerintah",
+              "amount": 377
+            },
+            {
+              "code": "YP",
+              "type": "Asing",
+              "amount": 281
+            },
+            {
+              "code": "NI",
+              "type": "Pemerintah",
+              "amount": 230
+            },
+            {
+              "code": "BK",
+              "type": "Asing",
+              "amount": 218
+            },
+            {
+              "code": "ZP",
+              "type": "Asing",
+              "amount": 215
+            },
+            {
+              "code": "PD",
+              "type": "Lokal",
+              "amount": 200
+            },
+            {
+              "code": "OD",
+              "type": "Pemerintah",
+              "amount": 122
+            },
+            {
+              "code": "KK",
+              "type": "Asing",
+              "amount": 73
+            },
+            {
+              "code": "DR",
+              "type": "Asing",
+              "amount": 69
+            },
+            {
+              "code": "AZ",
+              "type": "Lokal",
+              "amount": 37
+            },
+            {
+              "code": "BB",
+              "type": "Lokal",
+              "amount": 26
+            },
+            {
+              "code": "YB",
+              "type": "Lokal",
+              "amount": 25
+            },
+            {
+              "code": "DH",
+              "type": "Lokal",
+              "amount": 20
+            },
+            {
+              "code": "LG",
+              "type": "Lokal",
+              "amount": 16
+            },
+            {
+              "code": "IF",
+              "type": "Lokal",
+              "amount": 1
+            },
+            {
+              "code": "KI",
+              "type": "Lokal",
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "detail": {
+            "code": "XC",
+            "type": "Lokal",
+            "amount": 9738
+          },
+          "distribute_to": [
+            {
+              "code": "AK",
+              "type": "Asing",
+              "amount": 1631
+            },
+            {
+              "code": "XL",
+              "type": "Lokal",
+              "amount": 1629
+            },
+            {
+              "code": "PD",
+              "type": "Lokal",
+              "amount": 1460
+            },
+            {
+              "code": "DX",
+              "type": "Pemerintah",
+              "amount": 723
+            },
+            {
+              "code": "YP",
+              "type": "Asing",
+              "amount": 620
+            },
+            {
+              "code": "XC",
+              "type": "Lokal",
+              "amount": 568
+            },
+            {
+              "code": "LG",
+              "type": "Lokal",
+              "amount": 478
+            },
+            {
+              "code": "ZP",
+              "type": "Asing",
+              "amount": 434
+            },
+            {
+              "code": "YU",
+              "type": "Asing",
+              "amount": 384
+            },
+            {
+              "code": "SQ",
+              "type": "Lokal",
+              "amount": 315
+            },
+            {
+              "code": "BK",
+              "type": "Asing",
+              "amount": 275
+            },
+            {
+              "code": "CC",
+              "type": "Pemerintah",
+              "amount": 245
+            },
+            {
+              "code": "BB",
+              "type": "Lokal",
+              "amount": 231
+            },
+            {
+              "code": "GR",
+              "type": "Lokal",
+              "amount": 201
+            },
+            {
+              "code": "NI",
+              "type": "Pemerintah",
+              "amount": 168
+            },
+            {
+              "code": "BQ",
+              "type": "Asing",
+              "amount": 100
+            },
+            {
+              "code": "DR",
+              "type": "Asing",
+              "amount": 63
+            },
+            {
+              "code": "KK",
+              "type": "Asing",
+              "amount": 63
+            },
+            {
+              "code": "OD",
+              "type": "Pemerintah",
+              "amount": 38
+            },
+            {
+              "code": "HD",
+              "type": "Asing",
+              "amount": 30
+            },
+            {
+              "code": "DH",
+              "type": "Lokal",
+              "amount": 15
+            },
+            {
+              "code": "AT",
+              "type": "Lokal",
+              "amount": 10
+            },
+            {
+              "code": "HP",
+              "type": "Lokal",
+              "amount": 10
+            },
+            {
+              "code": "YB",
+              "type": "Lokal",
+              "amount": 10
+            },
+            {
+              "code": "EP",
+              "type": "Lokal",
+              "amount": 8
+            },
+            {
+              "code": "AZ",
+              "type": "Lokal",
+              "amount": 7
+            },
+            {
+              "code": "CP",
+              "type": "Asing",
+              "amount": 7
+            },
+            {
+              "code": "MU",
+              "type": "Lokal",
+              "amount": 5
+            },
+            {
+              "code": "XA",
+              "type": "Asing",
+              "amount": 5
+            },
+            {
+              "code": "YJ",
+              "type": "Lokal",
+              "amount": 5
+            }
+          ]
+        },
+        {
+          "detail": {
+            "code": "SQ",
+            "type": "Lokal",
+            "amount": 9708
+          },
+          "distribute_to": [
+            {
+              "code": "PD",
+              "type": "Lokal",
+              "amount": 2339
+            },
+            {
+              "code": "XL",
+              "type": "Lokal",
+              "amount": 1420
+            },
+            {
+              "code": "XC",
+              "type": "Lokal",
+              "amount": 1110
+            },
+            {
+              "code": "LG",
+              "type": "Lokal",
+              "amount": 796
+            },
+            {
+              "code": "CC",
+              "type": "Pemerintah",
+              "amount": 767
+            },
+            {
+              "code": "DX",
+              "type": "Pemerintah",
+              "amount": 611
+            },
+            {
+              "code": "BB",
+              "type": "Lokal",
+              "amount": 506
+            },
+            {
+              "code": "DR",
+              "type": "Asing",
+              "amount": 425
+            },
+            {
+              "code": "YP",
+              "type": "Asing",
+              "amount": 333
+            },
+            {
+              "code": "KK",
+              "type": "Asing",
+              "amount": 270
+            },
+            {
+              "code": "ZP",
+              "type": "Asing",
+              "amount": 232
+            },
+            {
+              "code": "BK",
+              "type": "Asing",
+              "amount": 146
+            },
+            {
+              "code": "SQ",
+              "type": "Lokal",
+              "amount": 126
+            },
+            {
+              "code": "YB",
+              "type": "Lokal",
+              "amount": 122
+            },
+            {
+              "code": "EP",
+              "type": "Lokal",
+              "amount": 103
+            },
+            {
+              "code": "NI",
+              "type": "Pemerintah",
+              "amount": 94
+            },
+            {
+              "code": "OD",
+              "type": "Pemerintah",
+              "amount": 70
+            },
+            {
+              "code": "GR",
+              "type": "Lokal",
+              "amount": 60
+            },
+            {
+              "code": "DH",
+              "type": "Lokal",
+              "amount": 56
+            },
+            {
+              "code": "HP",
+              "type": "Lokal",
+              "amount": 53
+            },
+            {
+              "code": "KI",
+              "type": "Lokal",
+              "amount": 35
+            },
+            {
+              "code": "AT",
+              "type": "Lokal",
+              "amount": 21
+            },
+            {
+              "code": "BQ",
+              "type": "Asing",
+              "amount": 6
+            },
+            {
+              "code": "AK",
+              "type": "Asing",
+              "amount": 3
+            },
+            {
+              "code": "CP",
+              "type": "Asing",
+              "amount": 3
+            },
+            {
+              "code": "YU",
+              "type": "Asing",
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "detail": {
+            "code": "GR",
+            "type": "Lokal",
+            "amount": 8848
+          },
+          "distribute_to": [
+            {
+              "code": "XL",
+              "type": "Lokal",
+              "amount": 1774
+            },
+            {
+              "code": "KK",
+              "type": "Asing",
+              "amount": 1576
+            },
+            {
+              "code": "PD",
+              "type": "Lokal",
+              "amount": 1112
+            },
+            {
+              "code": "ZP",
+              "type": "Asing",
+              "amount": 607
+            },
+            {
+              "code": "YU",
+              "type": "Asing",
+              "amount": 588
+            },
+            {
+              "code": "YP",
+              "type": "Asing",
+              "amount": 571
+            },
+            {
+              "code": "AN",
+              "type": "Lokal",
+              "amount": 500
+            },
+            {
+              "code": "BK",
+              "type": "Asing",
+              "amount": 365
+            },
+            {
+              "code": "CP",
+              "type": "Asing",
+              "amount": 350
+            },
+            {
+              "code": "XC",
+              "type": "Lokal",
+              "amount": 265
+            },
+            {
+              "code": "GR",
+              "type": "Lokal",
+              "amount": 250
+            },
+            {
+              "code": "MG",
+              "type": "Lokal",
+              "amount": 213
+            },
+            {
+              "code": "LG",
+              "type": "Lokal",
+              "amount": 126
+            },
+            {
+              "code": "HD",
+              "type": "Asing",
+              "amount": 107
+            },
+            {
+              "code": "NI",
+              "type": "Pemerintah",
+              "amount": 103
+            },
+            {
+              "code": "DX",
+              "type": "Pemerintah",
+              "amount": 100
+            },
+            {
+              "code": "CC",
+              "type": "Pemerintah",
+              "amount": 84
+            },
+            {
+              "code": "DR",
+              "type": "Asing",
+              "amount": 69
+            },
+            {
+              "code": "SQ",
+              "type": "Lokal",
+              "amount": 41
+            },
+            {
+              "code": "OD",
+              "type": "Pemerintah",
+              "amount": 18
+            },
+            {
+              "code": "SA",
+              "type": "Lokal",
+              "amount": 15
+            },
+            {
+              "code": "KI",
+              "type": "Lokal",
+              "amount": 5
+            },
+            {
+              "code": "AZ",
+              "type": "Lokal",
+              "amount": 4
+            },
+            {
+              "code": "AK",
+              "type": "Asing",
+              "amount": 3
+            },
+            {
+              "code": "BQ",
+              "type": "Asing",
+              "amount": 1
+            },
+            {
+              "code": "DH",
+              "type": "Lokal",
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "detail": {
+            "code": "PD",
+            "type": "Lokal",
+            "amount": 7871
+          },
+          "distribute_to": [
+            {
+              "code": "SQ",
+              "type": "Lokal",
+              "amount": 949
+            },
+            {
+              "code": "XL",
+              "type": "Lokal",
+              "amount": 920
+            },
+            {
+              "code": "ZP",
+              "type": "Asing",
+              "amount": 716
+            },
+            {
+              "code": "BB",
+              "type": "Lokal",
+              "amount": 706
+            },
+            {
+              "code": "YP",
+              "type": "Asing",
+              "amount": 583
+            },
+            {
+              "code": "CP",
+              "type": "Asing",
+              "amount": 513
+            },
+            {
+              "code": "BK",
+              "type": "Asing",
+              "amount": 466
+            },
+            {
+              "code": "PD",
+              "type": "Lokal",
+              "amount": 449
+            },
+            {
+              "code": "GR",
+              "type": "Lokal",
+              "amount": 394
+            },
+            {
+              "code": "XC",
+              "type": "Lokal",
+              "amount": 385
+            },
+            {
+              "code": "DX",
+              "type": "Pemerintah",
+              "amount": 295
+            },
+            {
+              "code": "NI",
+              "type": "Pemerintah",
+              "amount": 242
+            },
+            {
+              "code": "CC",
+              "type": "Pemerintah",
+              "amount": 205
+            },
+            {
+              "code": "MU",
+              "type": "Lokal",
+              "amount": 176
+            },
+            {
+              "code": "OD",
+              "type": "Pemerintah",
+              "amount": 157
+            },
+            {
+              "code": "YB",
+              "type": "Lokal",
+              "amount": 125
+            },
+            {
+              "code": "YJ",
+              "type": "Lokal",
+              "amount": 122
+            },
+            {
+              "code": "KK",
+              "type": "Asing",
+              "amount": 103
+            },
+            {
+              "code": "EP",
+              "type": "Lokal",
+              "amount": 60
+            },
+            {
+              "code": "DR",
+              "type": "Asing",
+              "amount": 57
+            },
+            {
+              "code": "AZ",
+              "type": "Lokal",
+              "amount": 53
+            },
+            {
+              "code": "HD",
+              "type": "Asing",
+              "amount": 49
+            },
+            {
+              "code": "AT",
+              "type": "Lokal",
+              "amount": 42
+            },
+            {
+              "code": "AK",
+              "type": "Asing",
+              "amount": 39
+            },
+            {
+              "code": "LG",
+              "type": "Lokal",
+              "amount": 23
+            },
+            {
+              "code": "KI",
+              "type": "Lokal",
+              "amount": 18
+            },
+            {
+              "code": "YU",
+              "type": "Asing",
+              "amount": 10
+            },
+            {
+              "code": "BQ",
+              "type": "Asing",
+              "amount": 4
+            },
+            {
+              "code": "AI",
+              "type": "Asing",
+              "amount": 3
+            },
+            {
+              "code": "DH",
+              "type": "Lokal",
+              "amount": 3
+            },
+            {
+              "code": "TP",
+              "type": "Asing",
+              "amount": 2
+            },
+            {
+              "code": "HP",
+              "type": "Lokal",
+              "amount": 1
+            },
+            {
+              "code": "RG",
+              "type": "Lokal",
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "detail": {
+            "code": "YP",
+            "type": "Asing",
+            "amount": 7035
+          },
+          "distribute_to": [
+            {
+              "code": "XL",
+              "type": "Lokal",
+              "amount": 1455
+            },
+            {
+              "code": "YU",
+              "type": "Asing",
+              "amount": 1038
+            },
+            {
+              "code": "PD",
+              "type": "Lokal",
+              "amount": 848
+            },
+            {
+              "code": "XC",
+              "type": "Lokal",
+              "amount": 729
+            },
+            {
+              "code": "AK",
+              "type": "Asing",
+              "amount": 432
+            },
+            {
+              "code": "BB",
+              "type": "Lokal",
+              "amount": 431
+            },
+            {
+              "code": "YP",
+              "type": "Asing",
+              "amount": 414
+            },
+            {
+              "code": "NI",
+              "type": "Pemerintah",
+              "amount": 194
+            },
+            {
+              "code": "KK",
+              "type": "Asing",
+              "amount": 193
+            },
+            {
+              "code": "CC",
+              "type": "Pemerintah",
+              "amount": 176
+            },
+            {
+              "code": "DX",
+              "type": "Pemerintah",
+              "amount": 158
+            },
+            {
+              "code": "SQ",
+              "type": "Lokal",
+              "amount": 140
+            },
+            {
+              "code": "MU",
+              "type": "Lokal",
+              "amount": 133
+            },
+            {
+              "code": "EP",
+              "type": "Lokal",
+              "amount": 126
+            },
+            {
+              "code": "OD",
+              "type": "Pemerintah",
+              "amount": 110
+            },
+            {
+              "code": "HD",
+              "type": "Asing",
+              "amount": 106
+            },
+            {
+              "code": "LS",
+              "type": "Asing",
+              "amount": 100
+            },
+            {
+              "code": "YB",
+              "type": "Lokal",
+              "amount": 55
+            },
+            {
+              "code": "BK",
+              "type": "Asing",
+              "amount": 52
+            },
+            {
+              "code": "DR",
+              "type": "Asing",
+              "amount": 45
+            },
+            {
+              "code": "ZP",
+              "type": "Asing",
+              "amount": 25
+            },
+            {
+              "code": "AG",
+              "type": "Asing",
+              "amount": 17
+            },
+            {
+              "code": "GR",
+              "type": "Lokal",
+              "amount": 13
+            },
+            {
+              "code": "AZ",
+              "type": "Lokal",
+              "amount": 12
+            },
+            {
+              "code": "LG",
+              "type": "Lokal",
+              "amount": 11
+            },
+            {
+              "code": "DH",
+              "type": "Lokal",
+              "amount": 9
+            },
+            {
+              "code": "AI",
+              "type": "Asing",
+              "amount": 6
+            },
+            {
+              "code": "IF",
+              "type": "Lokal",
+              "amount": 5
+            },
+            {
+              "code": "BQ",
+              "type": "Asing",
+              "amount": 1
+            },
+            {
+              "code": "TF",
+              "type": "Lokal",
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "detail": {
+            "code": "OD",
+            "type": "Pemerintah",
+            "amount": 6161
+          },
+          "distribute_to": [
+            {
+              "code": "XL",
+              "type": "Lokal",
+              "amount": 886
+            },
+            {
+              "code": "KK",
+              "type": "Asing",
+              "amount": 583
+            },
+            {
+              "code": "AN",
+              "type": "Lokal",
+              "amount": 500
+            },
+            {
+              "code": "ZP",
+              "type": "Asing",
+              "amount": 500
+            },
+            {
+              "code": "YP",
+              "type": "Asing",
+              "amount": 490
+            },
+            {
+              "code": "PD",
+              "type": "Lokal",
+              "amount": 451
+            },
+            {
+              "code": "YU",
+              "type": "Asing",
+              "amount": 450
+            },
+            {
+              "code": "NI",
+              "type": "Pemerintah",
+              "amount": 380
+            },
+            {
+              "code": "GR",
+              "type": "Lokal",
+              "amount": 305
+            },
+            {
+              "code": "XC",
+              "type": "Lokal",
+              "amount": 297
+            },
+            {
+              "code": "DX",
+              "type": "Pemerintah",
+              "amount": 273
+            },
+            {
+              "code": "BB",
+              "type": "Lokal",
+              "amount": 253
+            },
+            {
+              "code": "CC",
+              "type": "Pemerintah",
+              "amount": 241
+            },
+            {
+              "code": "AI",
+              "type": "Asing",
+              "amount": 200
+            },
+            {
+              "code": "SQ",
+              "type": "Lokal",
+              "amount": 174
+            },
+            {
+              "code": "AZ",
+              "type": "Lokal",
+              "amount": 70
+            },
+            {
+              "code": "YB",
+              "type": "Lokal",
+              "amount": 40
+            },
+            {
+              "code": "BK",
+              "type": "Asing",
+              "amount": 30
+            },
+            {
+              "code": "KI",
+              "type": "Lokal",
+              "amount": 16
+            },
+            {
+              "code": "DR",
+              "type": "Asing",
+              "amount": 12
+            },
+            {
+              "code": "DH",
+              "type": "Lokal",
+              "amount": 6
+            },
+            {
+              "code": "YJ",
+              "type": "Lokal",
+              "amount": 2
+            },
+            {
+              "code": "LG",
+              "type": "Lokal",
+              "amount": 1
+            },
+            {
+              "code": "OD",
+              "type": "Pemerintah",
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "detail": {
+            "code": "CC",
+            "type": "Pemerintah",
+            "amount": 5847
+          },
+          "distribute_to": [
+            {
+              "code": "XL",
+              "type": "Lokal",
+              "amount": 1531
+            },
+            {
+              "code": "XC",
+              "type": "Lokal",
+              "amount": 454
+            },
+            {
+              "code": "BK",
+              "type": "Asing",
+              "amount": 424
+            },
+            {
+              "code": "AZ",
+              "type": "Lokal",
+              "amount": 365
+            },
+            {
+              "code": "BB",
+              "type": "Lokal",
+              "amount": 320
+            },
+            {
+              "code": "LS",
+              "type": "Asing",
+              "amount": 300
+            },
+            {
+              "code": "MG",
+              "type": "Lokal",
+              "amount": 300
+            },
+            {
+              "code": "YP",
+              "type": "Asing",
+              "amount": 254
+            },
+            {
+              "code": "AK",
+              "type": "Asing",
+              "amount": 211
+            },
+            {
+              "code": "EP",
+              "type": "Lokal",
+              "amount": 211
+            },
+            {
+              "code": "PD",
+              "type": "Lokal",
+              "amount": 210
+            },
+            {
+              "code": "SQ",
+              "type": "Lokal",
+              "amount": 201
+            },
+            {
+              "code": "DH",
+              "type": "Lokal",
+              "amount": 190
+            },
+            {
+              "code": "DX",
+              "type": "Pemerintah",
+              "amount": 177
+            },
+            {
+              "code": "NI",
+              "type": "Pemerintah",
+              "amount": 123
+            },
+            {
+              "code": "ZP",
+              "type": "Asing",
+              "amount": 100
+            },
+            {
+              "code": "LG",
+              "type": "Lokal",
+              "amount": 86
+            },
+            {
+              "code": "YU",
+              "type": "Asing",
+              "amount": 72
+            },
+            {
+              "code": "MU",
+              "type": "Lokal",
+              "amount": 60
+            },
+            {
+              "code": "MI",
+              "type": "Lokal",
+              "amount": 50
+            },
+            {
+              "code": "KK",
+              "type": "Asing",
+              "amount": 45
+            },
+            {
+              "code": "DR",
+              "type": "Asing",
+              "amount": 43
+            },
+            {
+              "code": "CC",
+              "type": "Pemerintah",
+              "amount": 41
+            },
+            {
+              "code": "YB",
+              "type": "Lokal",
+              "amount": 35
+            },
+            {
+              "code": "AT",
+              "type": "Lokal",
+              "amount": 25
+            },
+            {
+              "code": "OD",
+              "type": "Pemerintah",
+              "amount": 7
+            },
+            {
+              "code": "IF",
+              "type": "Lokal",
+              "amount": 5
+            },
+            {
+              "code": "YJ",
+              "type": "Lokal",
+              "amount": 5
+            },
+            {
+              "code": "CP",
+              "type": "Asing",
+              "amount": 1
+            },
+            {
+              "code": "XA",
+              "type": "Asing",
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "detail": {
+            "code": "LG",
+            "type": "Lokal",
+            "amount": 3192
+          },
+          "distribute_to": [
+            {
+              "code": "ZP",
+              "type": "Asing",
+              "amount": 837
+            },
+            {
+              "code": "CC",
+              "type": "Pemerintah",
+              "amount": 623
+            },
+            {
+              "code": "BB",
+              "type": "Lokal",
+              "amount": 303
+            },
+            {
+              "code": "DX",
+              "type": "Pemerintah",
+              "amount": 301
+            },
+            {
+              "code": "YP",
+              "type": "Asing",
+              "amount": 242
+            },
+            {
+              "code": "XL",
+              "type": "Lokal",
+              "amount": 233
+            },
+            {
+              "code": "NI",
+              "type": "Pemerintah",
+              "amount": 115
+            },
+            {
+              "code": "YU",
+              "type": "Asing",
+              "amount": 97
+            },
+            {
+              "code": "PD",
+              "type": "Lokal",
+              "amount": 96
+            },
+            {
+              "code": "XC",
+              "type": "Lokal",
+              "amount": 67
+            },
+            {
+              "code": "OD",
+              "type": "Pemerintah",
+              "amount": 57
+            },
+            {
+              "code": "RS",
+              "type": "Lokal",
+              "amount": 50
+            },
+            {
+              "code": "GR",
+              "type": "Lokal",
+              "amount": 36
+            },
+            {
+              "code": "AT",
+              "type": "Lokal",
+              "amount": 31
+            },
+            {
+              "code": "LG",
+              "type": "Lokal",
+              "amount": 23
+            },
+            {
+              "code": "IF",
+              "type": "Lokal",
+              "amount": 20
+            },
+            {
+              "code": "EP",
+              "type": "Lokal",
+              "amount": 19
+            },
+            {
+              "code": "DR",
+              "type": "Asing",
+              "amount": 15
+            },
+            {
+              "code": "KK",
+              "type": "Asing",
+              "amount": 10
+            },
+            {
+              "code": "XA",
+              "type": "Asing",
+              "amount": 8
+            },
+            {
+              "code": "SQ",
+              "type": "Lokal",
+              "amount": 5
+            },
+            {
+              "code": "BQ",
+              "type": "Asing",
+              "amount": 3
+            },
+            {
+              "code": "DH",
+              "type": "Lokal",
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "detail": {
+            "code": "YU",
+            "type": "Asing",
+            "amount": 3031
+          },
+          "distribute_to": [
+            {
+              "code": "AK",
+              "type": "Asing",
+              "amount": 576
+            },
+            {
+              "code": "AI",
+              "type": "Asing",
+              "amount": 494
+            },
+            {
+              "code": "XL",
+              "type": "Lokal",
+              "amount": 329
+            },
+            {
+              "code": "SQ",
+              "type": "Lokal",
+              "amount": 292
+            },
+            {
+              "code": "PD",
+              "type": "Lokal",
+              "amount": 280
+            },
+            {
+              "code": "DX",
+              "type": "Pemerintah",
+              "amount": 200
+            },
+            {
+              "code": "GR",
+              "type": "Lokal",
+              "amount": 188
+            },
+            {
+              "code": "YP",
+              "type": "Asing",
+              "amount": 184
+            },
+            {
+              "code": "XC",
+              "type": "Lokal",
+              "amount": 161
+            },
+            {
+              "code": "CC",
+              "type": "Pemerintah",
+              "amount": 117
+            },
+            {
+              "code": "BB",
+              "type": "Lokal",
+              "amount": 70
+            },
+            {
+              "code": "NI",
+              "type": "Pemerintah",
+              "amount": 46
+            },
+            {
+              "code": "EP",
+              "type": "Lokal",
+              "amount": 36
+            },
+            {
+              "code": "BK",
+              "type": "Asing",
+              "amount": 35
+            },
+            {
+              "code": "DH",
+              "type": "Lokal",
+              "amount": 15
+            },
+            {
+              "code": "LG",
+              "type": "Lokal",
+              "amount": 4
+            },
+            {
+              "code": "ZP",
+              "type": "Asing",
+              "amount": 4
+            }
+          ]
+        },
+        {
+          "detail": {
+            "code": "AK",
+            "type": "Asing",
+            "amount": 1640
+          },
+          "distribute_to": [
+            {
+              "code": "XC",
+              "type": "Lokal",
+              "amount": 859
+            },
+            {
+              "code": "DX",
+              "type": "Pemerintah",
+              "amount": 320
+            },
+            {
+              "code": "YP",
+              "type": "Asing",
+              "amount": 153
+            },
+            {
+              "code": "XL",
+              "type": "Lokal",
+              "amount": 106
+            },
+            {
+              "code": "SQ",
+              "type": "Lokal",
+              "amount": 57
+            },
+            {
+              "code": "YB",
+              "type": "Lokal",
+              "amount": 50
+            },
+            {
+              "code": "PD",
+              "type": "Lokal",
+              "amount": 28
+            },
+            {
+              "code": "CC",
+              "type": "Pemerintah",
+              "amount": 18
+            },
+            {
+              "code": "KK",
+              "type": "Asing",
+              "amount": 16
+            },
+            {
+              "code": "GR",
+              "type": "Lokal",
+              "amount": 11
+            },
+            {
+              "code": "LG",
+              "type": "Lokal",
+              "amount": 10
+            },
+            {
+              "code": "BK",
+              "type": "Asing",
+              "amount": 5
+            },
+            {
+              "code": "DH",
+              "type": "Lokal",
+              "amount": 5
+            },
+            {
+              "code": "CP",
+              "type": "Asing",
+              "amount": 1
+            },
+            {
+              "code": "MG",
+              "type": "Lokal",
+              "amount": 1
+            }
+          ]
+        }
+      ]
+    },
+    "start_date": "2025-12-23",
+    "end_date": "2025-12-23"
+  }
+}

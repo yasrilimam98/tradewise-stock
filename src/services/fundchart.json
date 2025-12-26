@@ -1,0 +1,1365 @@
+{
+  "message": "Fundachart data",
+  "data": [
+    {
+      "company_id": 10,
+      "company_name": "ADRO",
+      "ratios": [
+        {
+          "decimal_point": 2,
+          "group_data": false,
+          "item_id": 21335,
+          "item_name": "Number of Shareholders (# of changes 1M)",
+          "item_type": 6,
+          "suffix": "",
+          "xaxis_id": 3,
+          "yaxis_id": 3,
+          "chart_data": [
+            {
+              "date": 1758819600,
+              "formated_date": "2025-09-26",
+              "value": 9951
+            },
+            {
+              "date": 1759078800,
+              "formated_date": "2025-09-29",
+              "value": 9951
+            },
+            {
+              "date": 1759165200,
+              "formated_date": "2025-09-30",
+              "value": 9951
+            },
+            {
+              "date": 1759251600,
+              "formated_date": "2025-10-01",
+              "value": 9951
+            },
+            {
+              "date": 1759338000,
+              "formated_date": "2025-10-02",
+              "value": 9951
+            },
+            {
+              "date": 1759424400,
+              "formated_date": "2025-10-03",
+              "value": 9951
+            },
+            {
+              "date": 1759683600,
+              "formated_date": "2025-10-06",
+              "value": 9951
+            },
+            {
+              "date": 1759770000,
+              "formated_date": "2025-10-07",
+              "value": 9951
+            },
+            {
+              "date": 1759856400,
+              "formated_date": "2025-10-08",
+              "value": 10664
+            },
+            {
+              "date": 1759942800,
+              "formated_date": "2025-10-09",
+              "value": 10664
+            },
+            {
+              "date": 1760029200,
+              "formated_date": "2025-10-10",
+              "value": 10664
+            },
+            {
+              "date": 1760288400,
+              "formated_date": "2025-10-13",
+              "value": 10664
+            },
+            {
+              "date": 1760374800,
+              "formated_date": "2025-10-14",
+              "value": 10664
+            },
+            {
+              "date": 1760461200,
+              "formated_date": "2025-10-15",
+              "value": 10664
+            },
+            {
+              "date": 1760547600,
+              "formated_date": "2025-10-16",
+              "value": 10664
+            },
+            {
+              "date": 1760634000,
+              "formated_date": "2025-10-17",
+              "value": 10664
+            },
+            {
+              "date": 1760893200,
+              "formated_date": "2025-10-20",
+              "value": 10664
+            },
+            {
+              "date": 1760979600,
+              "formated_date": "2025-10-21",
+              "value": 10664
+            },
+            {
+              "date": 1761066000,
+              "formated_date": "2025-10-22",
+              "value": 10664
+            },
+            {
+              "date": 1761152400,
+              "formated_date": "2025-10-23",
+              "value": 10664
+            },
+            {
+              "date": 1761238800,
+              "formated_date": "2025-10-24",
+              "value": 10664
+            },
+            {
+              "date": 1761498000,
+              "formated_date": "2025-10-27",
+              "value": 10664
+            },
+            {
+              "date": 1761584400,
+              "formated_date": "2025-10-28",
+              "value": 10664
+            },
+            {
+              "date": 1761670800,
+              "formated_date": "2025-10-29",
+              "value": 10664
+            },
+            {
+              "date": 1761757200,
+              "formated_date": "2025-10-30",
+              "value": 10664
+            },
+            {
+              "date": 1761843600,
+              "formated_date": "2025-10-31",
+              "value": 10664
+            },
+            {
+              "date": 1762102800,
+              "formated_date": "2025-11-03",
+              "value": 10664
+            },
+            {
+              "date": 1762189200,
+              "formated_date": "2025-11-04",
+              "value": 10664
+            },
+            {
+              "date": 1762275600,
+              "formated_date": "2025-11-05",
+              "value": 10664
+            },
+            {
+              "date": 1762362000,
+              "formated_date": "2025-11-06",
+              "value": 10664
+            },
+            {
+              "date": 1762448400,
+              "formated_date": "2025-11-07",
+              "value": -15184
+            },
+            {
+              "date": 1762707600,
+              "formated_date": "2025-11-10",
+              "value": -15184
+            },
+            {
+              "date": 1762794000,
+              "formated_date": "2025-11-11",
+              "value": -15184
+            },
+            {
+              "date": 1762880400,
+              "formated_date": "2025-11-12",
+              "value": -15184
+            },
+            {
+              "date": 1762966800,
+              "formated_date": "2025-11-13",
+              "value": -15184
+            },
+            {
+              "date": 1763053200,
+              "formated_date": "2025-11-14",
+              "value": -15184
+            },
+            {
+              "date": 1763312400,
+              "formated_date": "2025-11-17",
+              "value": -15184
+            },
+            {
+              "date": 1763398800,
+              "formated_date": "2025-11-18",
+              "value": -15184
+            },
+            {
+              "date": 1763485200,
+              "formated_date": "2025-11-19",
+              "value": -15184
+            },
+            {
+              "date": 1763571600,
+              "formated_date": "2025-11-20",
+              "value": -15184
+            },
+            {
+              "date": 1763658000,
+              "formated_date": "2025-11-21",
+              "value": -15184
+            },
+            {
+              "date": 1763917200,
+              "formated_date": "2025-11-24",
+              "value": -15184
+            },
+            {
+              "date": 1764003600,
+              "formated_date": "2025-11-25",
+              "value": -15184
+            },
+            {
+              "date": 1764090000,
+              "formated_date": "2025-11-26",
+              "value": -15184
+            },
+            {
+              "date": 1764176400,
+              "formated_date": "2025-11-27",
+              "value": -15184
+            },
+            {
+              "date": 1764262800,
+              "formated_date": "2025-11-28",
+              "value": -15184
+            },
+            {
+              "date": 1764522000,
+              "formated_date": "2025-12-01",
+              "value": -15184
+            },
+            {
+              "date": 1764608400,
+              "formated_date": "2025-12-02",
+              "value": -15184
+            },
+            {
+              "date": 1764694800,
+              "formated_date": "2025-12-03",
+              "value": -15184
+            },
+            {
+              "date": 1764781200,
+              "formated_date": "2025-12-04",
+              "value": -15184
+            },
+            {
+              "date": 1764867600,
+              "formated_date": "2025-12-05",
+              "value": -15184
+            },
+            {
+              "date": 1765126800,
+              "formated_date": "2025-12-08",
+              "value": 2655
+            },
+            {
+              "date": 1765213200,
+              "formated_date": "2025-12-09",
+              "value": 2655
+            },
+            {
+              "date": 1765299600,
+              "formated_date": "2025-12-10",
+              "value": 2655
+            },
+            {
+              "date": 1765386000,
+              "formated_date": "2025-12-11",
+              "value": 2655
+            },
+            {
+              "date": 1765472400,
+              "formated_date": "2025-12-12",
+              "value": 2655
+            },
+            {
+              "date": 1765731600,
+              "formated_date": "2025-12-15",
+              "value": 2655
+            },
+            {
+              "date": 1765818000,
+              "formated_date": "2025-12-16",
+              "value": 2655
+            },
+            {
+              "date": 1765904400,
+              "formated_date": "2025-12-17",
+              "value": 2655
+            },
+            {
+              "date": 1765990800,
+              "formated_date": "2025-12-18",
+              "value": 2655
+            },
+            {
+              "date": 1766077200,
+              "formated_date": "2025-12-19",
+              "value": 2655
+            },
+            {
+              "date": 1766336400,
+              "formated_date": "2025-12-22",
+              "value": 2655
+            },
+            {
+              "date": 1766422800,
+              "formated_date": "2025-12-23",
+              "value": 2655
+            },
+            {
+              "date": 1766509200,
+              "formated_date": "2025-12-24",
+              "value": 2655
+            },
+            {
+              "date": 1766595600,
+              "formated_date": "2025-12-25",
+              "value": 2655
+            }
+          ]
+        },
+        {
+          "decimal_point": 2,
+          "group_data": false,
+          "item_id": 2661,
+          "item_name": "Price",
+          "item_type": 6,
+          "suffix": "",
+          "xaxis_id": 3,
+          "yaxis_id": 5,
+          "chart_data": [
+            {
+              "date": 1758733200,
+              "formated_date": "2025-09-25",
+              "value": 1725
+            },
+            {
+              "date": 1758819600,
+              "formated_date": "2025-09-26",
+              "value": 1700
+            },
+            {
+              "date": 1759078800,
+              "formated_date": "2025-09-29",
+              "value": 1725
+            },
+            {
+              "date": 1759165200,
+              "formated_date": "2025-09-30",
+              "value": 1690
+            },
+            {
+              "date": 1759251600,
+              "formated_date": "2025-10-01",
+              "value": 1670
+            },
+            {
+              "date": 1759338000,
+              "formated_date": "2025-10-02",
+              "value": 1670
+            },
+            {
+              "date": 1759424400,
+              "formated_date": "2025-10-03",
+              "value": 1660
+            },
+            {
+              "date": 1759683600,
+              "formated_date": "2025-10-06",
+              "value": 1655
+            },
+            {
+              "date": 1759770000,
+              "formated_date": "2025-10-07",
+              "value": 1650
+            },
+            {
+              "date": 1759856400,
+              "formated_date": "2025-10-08",
+              "value": 1850
+            },
+            {
+              "date": 1759942800,
+              "formated_date": "2025-10-09",
+              "value": 1730
+            },
+            {
+              "date": 1760029200,
+              "formated_date": "2025-10-10",
+              "value": 1750
+            },
+            {
+              "date": 1760288400,
+              "formated_date": "2025-10-13",
+              "value": 1725
+            },
+            {
+              "date": 1760374800,
+              "formated_date": "2025-10-14",
+              "value": 1705
+            },
+            {
+              "date": 1760461200,
+              "formated_date": "2025-10-15",
+              "value": 1680
+            },
+            {
+              "date": 1760547600,
+              "formated_date": "2025-10-16",
+              "value": 1675
+            },
+            {
+              "date": 1760634000,
+              "formated_date": "2025-10-17",
+              "value": 1650
+            },
+            {
+              "date": 1760893200,
+              "formated_date": "2025-10-20",
+              "value": 1695
+            },
+            {
+              "date": 1760979600,
+              "formated_date": "2025-10-21",
+              "value": 1805
+            },
+            {
+              "date": 1761066000,
+              "formated_date": "2025-10-22",
+              "value": 1775
+            },
+            {
+              "date": 1761152400,
+              "formated_date": "2025-10-23",
+              "value": 1790
+            },
+            {
+              "date": 1761238800,
+              "formated_date": "2025-10-24",
+              "value": 1760
+            },
+            {
+              "date": 1761498000,
+              "formated_date": "2025-10-27",
+              "value": 1785
+            },
+            {
+              "date": 1761584400,
+              "formated_date": "2025-10-28",
+              "value": 1785
+            },
+            {
+              "date": 1761670800,
+              "formated_date": "2025-10-29",
+              "value": 1935
+            },
+            {
+              "date": 1761757200,
+              "formated_date": "2025-10-30",
+              "value": 1980
+            },
+            {
+              "date": 1761843600,
+              "formated_date": "2025-10-31",
+              "value": 1885
+            },
+            {
+              "date": 1762102800,
+              "formated_date": "2025-11-03",
+              "value": 1940
+            },
+            {
+              "date": 1762189200,
+              "formated_date": "2025-11-04",
+              "value": 1905
+            },
+            {
+              "date": 1762275600,
+              "formated_date": "2025-11-05",
+              "value": 1890
+            },
+            {
+              "date": 1762362000,
+              "formated_date": "2025-11-06",
+              "value": 1920
+            },
+            {
+              "date": 1762448400,
+              "formated_date": "2025-11-07",
+              "value": 1945
+            },
+            {
+              "date": 1762707600,
+              "formated_date": "2025-11-10",
+              "value": 1960
+            },
+            {
+              "date": 1762794000,
+              "formated_date": "2025-11-11",
+              "value": 1950
+            },
+            {
+              "date": 1762880400,
+              "formated_date": "2025-11-12",
+              "value": 1965
+            },
+            {
+              "date": 1762966800,
+              "formated_date": "2025-11-13",
+              "value": 1930
+            },
+            {
+              "date": 1763053200,
+              "formated_date": "2025-11-14",
+              "value": 1880
+            },
+            {
+              "date": 1763312400,
+              "formated_date": "2025-11-17",
+              "value": 1910
+            },
+            {
+              "date": 1763398800,
+              "formated_date": "2025-11-18",
+              "value": 1880
+            },
+            {
+              "date": 1763485200,
+              "formated_date": "2025-11-19",
+              "value": 1920
+            },
+            {
+              "date": 1763571600,
+              "formated_date": "2025-11-20",
+              "value": 1905
+            },
+            {
+              "date": 1763658000,
+              "formated_date": "2025-11-21",
+              "value": 1870
+            },
+            {
+              "date": 1763917200,
+              "formated_date": "2025-11-24",
+              "value": 1875
+            },
+            {
+              "date": 1764003600,
+              "formated_date": "2025-11-25",
+              "value": 1855
+            },
+            {
+              "date": 1764090000,
+              "formated_date": "2025-11-26",
+              "value": 1845
+            },
+            {
+              "date": 1764176400,
+              "formated_date": "2025-11-27",
+              "value": 1810
+            },
+            {
+              "date": 1764262800,
+              "formated_date": "2025-11-28",
+              "value": 1810
+            },
+            {
+              "date": 1764522000,
+              "formated_date": "2025-12-01",
+              "value": 1820
+            },
+            {
+              "date": 1764608400,
+              "formated_date": "2025-12-02",
+              "value": 1840
+            },
+            {
+              "date": 1764694800,
+              "formated_date": "2025-12-03",
+              "value": 1850
+            },
+            {
+              "date": 1764781200,
+              "formated_date": "2025-12-04",
+              "value": 1810
+            },
+            {
+              "date": 1764867600,
+              "formated_date": "2025-12-05",
+              "value": 1815
+            },
+            {
+              "date": 1765126800,
+              "formated_date": "2025-12-08",
+              "value": 1900
+            },
+            {
+              "date": 1765213200,
+              "formated_date": "2025-12-09",
+              "value": 1835
+            },
+            {
+              "date": 1765299600,
+              "formated_date": "2025-12-10",
+              "value": 1830
+            },
+            {
+              "date": 1765386000,
+              "formated_date": "2025-12-11",
+              "value": 1780
+            },
+            {
+              "date": 1765472400,
+              "formated_date": "2025-12-12",
+              "value": 1780
+            },
+            {
+              "date": 1765731600,
+              "formated_date": "2025-12-15",
+              "value": 1825
+            },
+            {
+              "date": 1765818000,
+              "formated_date": "2025-12-16",
+              "value": 1805
+            },
+            {
+              "date": 1765904400,
+              "formated_date": "2025-12-17",
+              "value": 1815
+            },
+            {
+              "date": 1765990800,
+              "formated_date": "2025-12-18",
+              "value": 1900
+            },
+            {
+              "date": 1766077200,
+              "formated_date": "2025-12-19",
+              "value": 1900
+            },
+            {
+              "date": 1766336400,
+              "formated_date": "2025-12-22",
+              "value": 1895
+            },
+            {
+              "date": 1766422800,
+              "formated_date": "2025-12-23",
+              "value": 1905
+            },
+            {
+              "date": 1766509200,
+              "formated_date": "2025-12-24",
+              "value": 1890
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "company_id": 403,
+      "company_name": "SSIA",
+      "ratios": [
+        {
+          "decimal_point": 2,
+          "group_data": false,
+          "item_id": 21335,
+          "item_name": "Number of Shareholders (# of changes 1M)",
+          "item_type": 6,
+          "suffix": "",
+          "xaxis_id": 3,
+          "yaxis_id": 3,
+          "chart_data": [
+            {
+              "date": 1758819600,
+              "formated_date": "2025-09-26",
+              "value": 5296
+            },
+            {
+              "date": 1759078800,
+              "formated_date": "2025-09-29",
+              "value": 5296
+            },
+            {
+              "date": 1759165200,
+              "formated_date": "2025-09-30",
+              "value": 5296
+            },
+            {
+              "date": 1759251600,
+              "formated_date": "2025-10-01",
+              "value": 5296
+            },
+            {
+              "date": 1759338000,
+              "formated_date": "2025-10-02",
+              "value": 5296
+            },
+            {
+              "date": 1759424400,
+              "formated_date": "2025-10-03",
+              "value": 5296
+            },
+            {
+              "date": 1759683600,
+              "formated_date": "2025-10-06",
+              "value": 5296
+            },
+            {
+              "date": 1759770000,
+              "formated_date": "2025-10-07",
+              "value": 2933
+            },
+            {
+              "date": 1759856400,
+              "formated_date": "2025-10-08",
+              "value": 2933
+            },
+            {
+              "date": 1759942800,
+              "formated_date": "2025-10-09",
+              "value": 2933
+            },
+            {
+              "date": 1760029200,
+              "formated_date": "2025-10-10",
+              "value": 2933
+            },
+            {
+              "date": 1760288400,
+              "formated_date": "2025-10-13",
+              "value": 2933
+            },
+            {
+              "date": 1760374800,
+              "formated_date": "2025-10-14",
+              "value": 2933
+            },
+            {
+              "date": 1760461200,
+              "formated_date": "2025-10-15",
+              "value": 2933
+            },
+            {
+              "date": 1760547600,
+              "formated_date": "2025-10-16",
+              "value": 2933
+            },
+            {
+              "date": 1760634000,
+              "formated_date": "2025-10-17",
+              "value": 2933
+            },
+            {
+              "date": 1760893200,
+              "formated_date": "2025-10-20",
+              "value": 2933
+            },
+            {
+              "date": 1760979600,
+              "formated_date": "2025-10-21",
+              "value": 2933
+            },
+            {
+              "date": 1761066000,
+              "formated_date": "2025-10-22",
+              "value": 2933
+            },
+            {
+              "date": 1761152400,
+              "formated_date": "2025-10-23",
+              "value": 2933
+            },
+            {
+              "date": 1761238800,
+              "formated_date": "2025-10-24",
+              "value": 2933
+            },
+            {
+              "date": 1761498000,
+              "formated_date": "2025-10-27",
+              "value": 2933
+            },
+            {
+              "date": 1761584400,
+              "formated_date": "2025-10-28",
+              "value": 2933
+            },
+            {
+              "date": 1761670800,
+              "formated_date": "2025-10-29",
+              "value": 2933
+            },
+            {
+              "date": 1761757200,
+              "formated_date": "2025-10-30",
+              "value": 2933
+            },
+            {
+              "date": 1761843600,
+              "formated_date": "2025-10-31",
+              "value": 2933
+            },
+            {
+              "date": 1762102800,
+              "formated_date": "2025-11-03",
+              "value": 2933
+            },
+            {
+              "date": 1762189200,
+              "formated_date": "2025-11-04",
+              "value": 2933
+            },
+            {
+              "date": 1762275600,
+              "formated_date": "2025-11-05",
+              "value": 3795
+            },
+            {
+              "date": 1762362000,
+              "formated_date": "2025-11-06",
+              "value": 3795
+            },
+            {
+              "date": 1762448400,
+              "formated_date": "2025-11-07",
+              "value": 3795
+            },
+            {
+              "date": 1762707600,
+              "formated_date": "2025-11-10",
+              "value": 3795
+            },
+            {
+              "date": 1762794000,
+              "formated_date": "2025-11-11",
+              "value": 3795
+            },
+            {
+              "date": 1762880400,
+              "formated_date": "2025-11-12",
+              "value": 3795
+            },
+            {
+              "date": 1762966800,
+              "formated_date": "2025-11-13",
+              "value": 3795
+            },
+            {
+              "date": 1763053200,
+              "formated_date": "2025-11-14",
+              "value": 3795
+            },
+            {
+              "date": 1763312400,
+              "formated_date": "2025-11-17",
+              "value": 3795
+            },
+            {
+              "date": 1763398800,
+              "formated_date": "2025-11-18",
+              "value": 3795
+            },
+            {
+              "date": 1763485200,
+              "formated_date": "2025-11-19",
+              "value": 3795
+            },
+            {
+              "date": 1763571600,
+              "formated_date": "2025-11-20",
+              "value": 3795
+            },
+            {
+              "date": 1763658000,
+              "formated_date": "2025-11-21",
+              "value": 3795
+            },
+            {
+              "date": 1763917200,
+              "formated_date": "2025-11-24",
+              "value": 3795
+            },
+            {
+              "date": 1764003600,
+              "formated_date": "2025-11-25",
+              "value": 3795
+            },
+            {
+              "date": 1764090000,
+              "formated_date": "2025-11-26",
+              "value": 3795
+            },
+            {
+              "date": 1764176400,
+              "formated_date": "2025-11-27",
+              "value": 3795
+            },
+            {
+              "date": 1764262800,
+              "formated_date": "2025-11-28",
+              "value": 3795
+            },
+            {
+              "date": 1764522000,
+              "formated_date": "2025-12-01",
+              "value": 3795
+            },
+            {
+              "date": 1764608400,
+              "formated_date": "2025-12-02",
+              "value": 3795
+            },
+            {
+              "date": 1764694800,
+              "formated_date": "2025-12-03",
+              "value": 3795
+            },
+            {
+              "date": 1764781200,
+              "formated_date": "2025-12-04",
+              "value": 3795
+            },
+            {
+              "date": 1764867600,
+              "formated_date": "2025-12-05",
+              "value": 3795
+            },
+            {
+              "date": 1765126800,
+              "formated_date": "2025-12-08",
+              "value": 1766
+            },
+            {
+              "date": 1765213200,
+              "formated_date": "2025-12-09",
+              "value": 1766
+            },
+            {
+              "date": 1765299600,
+              "formated_date": "2025-12-10",
+              "value": 1766
+            },
+            {
+              "date": 1765386000,
+              "formated_date": "2025-12-11",
+              "value": 1766
+            },
+            {
+              "date": 1765472400,
+              "formated_date": "2025-12-12",
+              "value": 1766
+            },
+            {
+              "date": 1765731600,
+              "formated_date": "2025-12-15",
+              "value": 1766
+            },
+            {
+              "date": 1765818000,
+              "formated_date": "2025-12-16",
+              "value": 1766
+            },
+            {
+              "date": 1765904400,
+              "formated_date": "2025-12-17",
+              "value": 1766
+            },
+            {
+              "date": 1765990800,
+              "formated_date": "2025-12-18",
+              "value": 1766
+            },
+            {
+              "date": 1766077200,
+              "formated_date": "2025-12-19",
+              "value": 1766
+            },
+            {
+              "date": 1766336400,
+              "formated_date": "2025-12-22",
+              "value": 1766
+            },
+            {
+              "date": 1766422800,
+              "formated_date": "2025-12-23",
+              "value": 1766
+            },
+            {
+              "date": 1766509200,
+              "formated_date": "2025-12-24",
+              "value": 1766
+            },
+            {
+              "date": 1766595600,
+              "formated_date": "2025-12-25",
+              "value": 1766
+            }
+          ]
+        },
+        {
+          "decimal_point": 2,
+          "group_data": false,
+          "item_id": 2661,
+          "item_name": "Price",
+          "item_type": 6,
+          "suffix": "",
+          "xaxis_id": 3,
+          "yaxis_id": 5,
+          "chart_data": [
+            {
+              "date": 1758733200,
+              "formated_date": "2025-09-25",
+              "value": 1720
+            },
+            {
+              "date": 1758819600,
+              "formated_date": "2025-09-26",
+              "value": 1720
+            },
+            {
+              "date": 1759078800,
+              "formated_date": "2025-09-29",
+              "value": 1745
+            },
+            {
+              "date": 1759165200,
+              "formated_date": "2025-09-30",
+              "value": 1805
+            },
+            {
+              "date": 1759251600,
+              "formated_date": "2025-10-01",
+              "value": 1755
+            },
+            {
+              "date": 1759338000,
+              "formated_date": "2025-10-02",
+              "value": 1890
+            },
+            {
+              "date": 1759424400,
+              "formated_date": "2025-10-03",
+              "value": 1845
+            },
+            {
+              "date": 1759683600,
+              "formated_date": "2025-10-06",
+              "value": 2010
+            },
+            {
+              "date": 1759770000,
+              "formated_date": "2025-10-07",
+              "value": 2290
+            },
+            {
+              "date": 1759856400,
+              "formated_date": "2025-10-08",
+              "value": 2080
+            },
+            {
+              "date": 1759942800,
+              "formated_date": "2025-10-09",
+              "value": 1970
+            },
+            {
+              "date": 1760029200,
+              "formated_date": "2025-10-10",
+              "value": 2090
+            },
+            {
+              "date": 1760288400,
+              "formated_date": "2025-10-13",
+              "value": 2010
+            },
+            {
+              "date": 1760374800,
+              "formated_date": "2025-10-14",
+              "value": 1890
+            },
+            {
+              "date": 1760461200,
+              "formated_date": "2025-10-15",
+              "value": 1860
+            },
+            {
+              "date": 1760547600,
+              "formated_date": "2025-10-16",
+              "value": 1820
+            },
+            {
+              "date": 1760634000,
+              "formated_date": "2025-10-17",
+              "value": 1775
+            },
+            {
+              "date": 1760893200,
+              "formated_date": "2025-10-20",
+              "value": 1815
+            },
+            {
+              "date": 1760979600,
+              "formated_date": "2025-10-21",
+              "value": 1820
+            },
+            {
+              "date": 1761066000,
+              "formated_date": "2025-10-22",
+              "value": 1775
+            },
+            {
+              "date": 1761152400,
+              "formated_date": "2025-10-23",
+              "value": 1755
+            },
+            {
+              "date": 1761238800,
+              "formated_date": "2025-10-24",
+              "value": 1755
+            },
+            {
+              "date": 1761498000,
+              "formated_date": "2025-10-27",
+              "value": 1645
+            },
+            {
+              "date": 1761584400,
+              "formated_date": "2025-10-28",
+              "value": 1625
+            },
+            {
+              "date": 1761670800,
+              "formated_date": "2025-10-29",
+              "value": 1610
+            },
+            {
+              "date": 1761757200,
+              "formated_date": "2025-10-30",
+              "value": 1600
+            },
+            {
+              "date": 1761843600,
+              "formated_date": "2025-10-31",
+              "value": 1560
+            },
+            {
+              "date": 1762102800,
+              "formated_date": "2025-11-03",
+              "value": 1585
+            },
+            {
+              "date": 1762189200,
+              "formated_date": "2025-11-04",
+              "value": 1570
+            },
+            {
+              "date": 1762275600,
+              "formated_date": "2025-11-05",
+              "value": 1555
+            },
+            {
+              "date": 1762362000,
+              "formated_date": "2025-11-06",
+              "value": 1555
+            },
+            {
+              "date": 1762448400,
+              "formated_date": "2025-11-07",
+              "value": 1710
+            },
+            {
+              "date": 1762707600,
+              "formated_date": "2025-11-10",
+              "value": 1705
+            },
+            {
+              "date": 1762794000,
+              "formated_date": "2025-11-11",
+              "value": 1655
+            },
+            {
+              "date": 1762880400,
+              "formated_date": "2025-11-12",
+              "value": 1660
+            },
+            {
+              "date": 1762966800,
+              "formated_date": "2025-11-13",
+              "value": 1630
+            },
+            {
+              "date": 1763053200,
+              "formated_date": "2025-11-14",
+              "value": 1610
+            },
+            {
+              "date": 1763312400,
+              "formated_date": "2025-11-17",
+              "value": 1745
+            },
+            {
+              "date": 1763398800,
+              "formated_date": "2025-11-18",
+              "value": 1710
+            },
+            {
+              "date": 1763485200,
+              "formated_date": "2025-11-19",
+              "value": 1745
+            },
+            {
+              "date": 1763571600,
+              "formated_date": "2025-11-20",
+              "value": 1745
+            },
+            {
+              "date": 1763658000,
+              "formated_date": "2025-11-21",
+              "value": 1705
+            },
+            {
+              "date": 1763917200,
+              "formated_date": "2025-11-24",
+              "value": 1710
+            },
+            {
+              "date": 1764003600,
+              "formated_date": "2025-11-25",
+              "value": 1780
+            },
+            {
+              "date": 1764090000,
+              "formated_date": "2025-11-26",
+              "value": 1765
+            },
+            {
+              "date": 1764176400,
+              "formated_date": "2025-11-27",
+              "value": 1805
+            },
+            {
+              "date": 1764262800,
+              "formated_date": "2025-11-28",
+              "value": 1875
+            },
+            {
+              "date": 1764522000,
+              "formated_date": "2025-12-01",
+              "value": 1845
+            },
+            {
+              "date": 1764608400,
+              "formated_date": "2025-12-02",
+              "value": 1845
+            },
+            {
+              "date": 1764694800,
+              "formated_date": "2025-12-03",
+              "value": 1825
+            },
+            {
+              "date": 1764781200,
+              "formated_date": "2025-12-04",
+              "value": 1915
+            },
+            {
+              "date": 1764867600,
+              "formated_date": "2025-12-05",
+              "value": 1900
+            },
+            {
+              "date": 1765126800,
+              "formated_date": "2025-12-08",
+              "value": 1880
+            },
+            {
+              "date": 1765213200,
+              "formated_date": "2025-12-09",
+              "value": 1870
+            },
+            {
+              "date": 1765299600,
+              "formated_date": "2025-12-10",
+              "value": 1850
+            },
+            {
+              "date": 1765386000,
+              "formated_date": "2025-12-11",
+              "value": 1780
+            },
+            {
+              "date": 1765472400,
+              "formated_date": "2025-12-12",
+              "value": 1745
+            },
+            {
+              "date": 1765731600,
+              "formated_date": "2025-12-15",
+              "value": 1755
+            },
+            {
+              "date": 1765818000,
+              "formated_date": "2025-12-16",
+              "value": 1720
+            },
+            {
+              "date": 1765904400,
+              "formated_date": "2025-12-17",
+              "value": 1700
+            },
+            {
+              "date": 1765990800,
+              "formated_date": "2025-12-18",
+              "value": 1685
+            },
+            {
+              "date": 1766077200,
+              "formated_date": "2025-12-19",
+              "value": 1670
+            },
+            {
+              "date": 1766336400,
+              "formated_date": "2025-12-22",
+              "value": 1665
+            },
+            {
+              "date": 1766422800,
+              "formated_date": "2025-12-23",
+              "value": 1650
+            },
+            {
+              "date": 1766509200,
+              "formated_date": "2025-12-24",
+              "value": 1625
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
