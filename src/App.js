@@ -5,7 +5,7 @@ import { getStorage } from "firebase/storage";
 import {
   AlignJustify, ChevronDown, ChevronsLeft, LogOut,
   User, Bell, Home, BookOpen, Activity, ClipboardCheck, Trophy, Settings,
-  TrendingUp, PieChart, Plus, ExternalLink, LineChart, Users
+  TrendingUp, PieChart, Plus, ExternalLink, LineChart, Users, BarChart3
 } from 'lucide-react';
 import React, { useEffect, useRef, useState } from 'react';
 
@@ -23,6 +23,7 @@ import InsiderView from './components/InsiderView';
 import FlowLineView from './components/FlowLineView';
 import BandarDetectorView from './components/BandarDetectorView';
 import ValueInvestingView from './components/ValueInvestingView';
+import PriceVolumeAnalysisView from './components/PriceVolumeAnalysisView';
 import LandingPage from './landingpage/LandingPage';
 import StockSearch from './components/StockSearch';
 import DashboardStats from './components/DashboardStats';
@@ -51,27 +52,27 @@ const provider = new GoogleAuthProvider();
 
 // Global Styles - Black & White Theme
 const globalStyles = `
-  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap');
+
+@keyframes fade -in { from { opacity: 0; } to { opacity: 1; } }
+@keyframes scale - up { from { opacity: 0; transform: scale(0.95) translateY(10px); } to { opacity: 1; transform: scale(1) translateY(0); } }
+@keyframes float { 0 %, 100 % { transform: translateY(0); } 50 % { transform: translateY(-10px); } }
   
-  @keyframes fade-in { from { opacity: 0; } to { opacity: 1; } }
-  @keyframes scale-up { from { opacity: 0; transform: scale(0.95) translateY(10px); } to { opacity: 1; transform: scale(1) translateY(0); } }
-  @keyframes float { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-10px); } }
+  .animate - fade -in { animation: fade -in 0.3s ease- out; }
+  .animate - scale - up { animation: scale - up 0.3s ease - out; }
+  .animate - float { animation: float 6s ease -in -out infinite; }
   
-  .animate-fade-in { animation: fade-in 0.3s ease-out; }
-  .animate-scale-up { animation: scale-up 0.3s ease-out; }
-  .animate-float { animation: float 6s ease-in-out infinite; }
+  .safe - area - bottom { padding - bottom: env(safe - area - inset - bottom, 0); }
   
-  .safe-area-bottom { padding-bottom: env(safe-area-inset-bottom, 0); }
-  
-  ::-webkit-scrollbar { width: 6px; height: 6px; }
-  ::-webkit-scrollbar-track { background: #1a1a1a; }
-  ::-webkit-scrollbar-thumb { background: #444; border-radius: 3px; }
-  ::-webkit-scrollbar-thumb:hover { background: #555; }
+  :: -webkit - scrollbar { width: 6px; height: 6px; }
+  :: -webkit - scrollbar - track { background: #1a1a1a; }
+  :: -webkit - scrollbar - thumb { background: #444; border - radius: 3px; }
+  :: -webkit - scrollbar - thumb:hover { background: #555; }
   
   body {
-    background-color: #0a0a0a;
-    color: #ffffff;
-  }
+  background - color: #0a0a0a;
+  color: #ffffff;
+}
 `;
 
 export default function App() {
@@ -96,7 +97,7 @@ function MainApp() {
     const unsubscribe = onAuthStateChanged(auth, async (currentUser) => {
       setLoadingAuth(true);
       if (currentUser && !currentUser.isAnonymous) {
-        const userRef = doc(db, `artifacts/${appId}/users`, currentUser.uid);
+        const userRef = doc(db, `artifacts / ${appId}/users`, currentUser.uid);
         const userDoc = await getDoc(userRef);
         const userIsAdmin = currentUser.uid === ADMIN_ID;
 
@@ -302,6 +303,7 @@ function TradingJournalLayout({ user, isAdmin }) {
       case 'flowline': return <FlowLineView {...props} onNavigateToSettings={navigateToSettings} />;
       case 'bandarDetector': return <BandarDetectorView {...props} onNavigateToSettings={navigateToSettings} />;
       case 'valueInvesting': return <ValueInvestingView {...props} onNavigateToSettings={navigateToSettings} />;
+      case 'pva': return <PriceVolumeAnalysisView {...props} onNavigateToSettings={navigateToSettings} />;
       case 'journal': return <JournalView {...props} />;
       case 'signals': return <SignalsView {...props} />;
       case 'evaluation': return <EvaluationView {...props} />;
@@ -341,6 +343,7 @@ function Sidebar({ user, isAdmin, view, setView, isOpen, setIsOpen, isCollapsed,
     { icon: PieChart, label: 'Insider', viewName: 'insider' },
     { icon: LineChart, label: 'FlowLine', viewName: 'flowline' },
     { icon: Activity, label: 'Value Investing', viewName: 'valueInvesting' },
+    { icon: BarChart3, label: 'PVA', viewName: 'pva' },
     { icon: BookOpen, label: 'Jurnal Trading', viewName: 'journal' },
     { icon: Activity, label: 'Trading Signals', viewName: 'signals' },
     { icon: ClipboardCheck, label: 'Evaluasi', viewName: 'evaluation' },

@@ -2,10 +2,11 @@ import React, { useState, useEffect, useCallback, useMemo } from 'react';
 import {
   Search, RefreshCw, AlertCircle, TrendingUp, TrendingDown, DollarSign,
   Shield, Target, Award, CheckCircle, XCircle, HelpCircle, Info,
-  BookOpen, Percent, BarChart3, PieChart, Activity, Zap, Calculator
+  BookOpen, Percent, BarChart3, PieChart, Activity, Zap, Calculator, Sparkles
 } from 'lucide-react';
 import { Card, Button, LoadingSpinner } from './ui';
 import { getKeyStats, hasToken } from '../services/stockbitService';
+import { analyzeWithAI, generateValueInvestingPrompt } from '../services/aiService';
 
 // ====== HELPER FUNCTIONS ======
 const parseValue = (val) => {
@@ -376,6 +377,11 @@ const ValueInvestingView = ({ onNavigateToSettings }) => {
   const [error, setError] = useState(null);
   const [showGuide, setShowGuide] = useState(false);
   const [activeTab, setActiveTab] = useState('graham');
+  
+  // AI Analysis states
+  const [aiAnalysis, setAiAnalysis] = useState(null);
+  const [isLoadingAI, setIsLoadingAI] = useState(false);
+  const [showAIAnalysis, setShowAIAnalysis] = useState(false);
 
   const fetchData = useCallback(async () => {
     if (!symbol) { setError('Masukkan kode saham'); return; }
@@ -428,6 +434,49 @@ const ValueInvestingView = ({ onNavigateToSettings }) => {
     if (avgScore >= 50) return { text: 'PERTIMBANGKAN', color: 'yellow', emoji: '⚠️' };
     return { text: 'TIDAK DIREKOMENDASIKAN', color: 'red', emoji: '❌' };
   }, [grahamResult, buffettResult]);
+
+  // Fetch AI Analysis
+  const fetchAIAnalysis = useCallback(async () => {
+    if (!grahamResult || !buffettResult || !symbol) return;
+    
+    setIsLoadingAI(true);
+    setShowAIAnalysis(true);
+    
+    try {
+      const metrics = {
+        'Graham Score': `${grahamResult.score.toFixed(0)}%`,
+        'Buffett Score': `${buffettResult.score.toFixed(0)}%`,
+        'PE Ratio': data?.pe || '-',
+        'PBV': data?.pbv || '-',
+        'ROE': data?.roe || '-',
+        'Current Ratio': data?.currentRatio || '-',
+        'Debt to Equity': data?.debtToEquity || '-',
+        'EPS Growth': data?.epsGrowth || '-',
+        'Revenue Growth': data?.revenueGrowth || '-',
+        'Gross Margin': data?.grossMargin || '-',
+        'Net Margin': data?.netMargin || '-',
+      };
+
+      const { context, prompt } = generateValueInvestingPrompt({
+        symbol,
+        grahamScore: grahamResult.score,
+        buffettScore: buffettResult.score,
+        metrics
+      });
+      
+      const result = await analyzeWithAI(prompt, context);
+      
+      if (result.success) {
+        setAiAnalysis(result.analysis);
+      } else {
+        setAiAnalysis(`⚠️ Gagal mendapatkan analisis AI: ${result.error}`);
+      }
+    } catch (err) {
+      setAiAnalysis(`⚠️ Error: ${err.message}`);
+    } finally {
+      setIsLoadingAI(false);
+    }
+  }, [grahamResult, buffettResult, symbol, data]);
 
   return (
     <div className="space-y-4 pb-20 lg:pb-0 animate-fade-in">
@@ -571,6 +620,51 @@ const ValueInvestingView = ({ onNavigateToSettings }) => {
               </p>
             </Card>
           )}
+
+          {/* AI Analysis Section */}
+          <Card className="p-4 border-2 border-purple-500/30 bg-gradient-to-r from-purple-500/10 to-pink-500/5">
+            <div className="flex items-center justify-between mb-3">
+              <div className="flex items-center gap-2">
+                <Sparkles className="w-5 h-5 text-purple-400" />
+                <h3 className="font-bold text-white">AI Value Investing Analysis</h3>
+              </div>
+              <Button
+                onClick={fetchAIAnalysis}
+                variant="primary"
+                size="sm"
+                loading={isLoadingAI}
+                icon={<Sparkles size={14} />}
+                className="bg-gradient-to-r from-purple-500 to-pink-500 hover:from-purple-600 hover:to-pink-600"
+              >
+                {aiAnalysis ? 'Refresh Analisis' : 'Minta Analisis AI'}
+              </Button>
+            </div>
+            
+            {isLoadingAI && (
+              <div className="flex items-center gap-3 text-purple-400 py-4">
+                <div className="animate-spin w-5 h-5 border-2 border-purple-400 border-t-transparent rounded-full"></div>
+                <span className="text-sm">AI sedang menganalisis fundamental {symbol}...</span>
+              </div>
+            )}
+            
+            {showAIAnalysis && aiAnalysis && !isLoadingAI && (
+              <div className="prose prose-invert prose-sm max-w-none">
+                <div className="text-gray-300 text-sm whitespace-pre-wrap leading-relaxed">
+                  {aiAnalysis.split('\n').map((line, i) => (
+                    <p key={i} className={`mb-2 ${line.startsWith('•') || line.startsWith('-') || line.startsWith('*') ? 'ml-4' : ''}`}>
+                      {line}
+                    </p>
+                  ))}
+                </div>
+              </div>
+            )}
+            
+            {!showAIAnalysis && !isLoadingAI && (
+              <p className="text-gray-500 text-sm">
+                Klik tombol di atas untuk mendapatkan analisis value investing mendalam dari AI untuk saham {symbol}.
+              </p>
+            )}
+          </Card>
 
           {/* Key Metrics Quick View */}
           <Card className="p-4">

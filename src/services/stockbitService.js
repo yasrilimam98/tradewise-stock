@@ -265,6 +265,44 @@ export const getKeyStats = async (params = {}) => {
     return fetchWithAuth(url);
 };
 
+// Price Volume History - For PVA Analysis
+export const getPriceVolumeHistory = async (params = {}) => {
+    const {
+        symbol = '',
+        period = 'HS_PERIOD_MONTHLY', // HS_PERIOD_WEEKLY | HS_PERIOD_DAILY | HS_PERIOD_MONTHLY
+        startDate = '',
+        endDate = '',
+        limit = 12,
+        page = 1
+    } = params;
+
+    if (!symbol) {
+        throw new Error('Symbol is required');
+    }
+
+    const url = `https://exodus.stockbit.com/company-price-feed/historical/summary/${symbol}?period=${period}&start_date=${startDate}&end_date=${endDate}&limit=${limit}&page=${page}`;
+    return fetchWithAuth(url);
+};
+
+// Market Movers - Top Volume/Gainer/Loser
+export const getMarketMovers = async (params = {}) => {
+    const {
+        moverType = 'MOVER_TYPE_TOP_VOLUME', // MOVER_TYPE_TOP_VOLUME | MOVER_TYPE_TOP_GAINER | MOVER_TYPE_TOP_LOSER
+        limit = 20
+    } = params;
+
+    const boards = [
+        'FILTER_STOCKS_TYPE_MAIN_BOARD',
+        'FILTER_STOCKS_TYPE_DEVELOPMENT_BOARD',
+        'FILTER_STOCKS_TYPE_ACCELERATION_BOARD',
+        'FILTER_STOCKS_TYPE_NEW_ECONOMY_BOARD'
+    ];
+
+    const filterParams = boards.map(b => `filter_stocks=${b}`).join('&');
+    const url = `https://exodus.stockbit.com/order-trade/market-mover?mover_type=${moverType}&${filterParams}`;
+    return fetchWithAuth(url);
+};
+
 // Check if token exists
 export const hasToken = () => !!getToken();
 

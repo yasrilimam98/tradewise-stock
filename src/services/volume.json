@@ -1,0 +1,3881 @@
+{
+  "message": "Successfully get list market mover",
+  "data": {
+    "mover_list": [
+      {
+        "stock_detail": {
+          "code": "BUMI",
+          "name": "Bumi Resources Tbk",
+          "icon_url": "https://assets.stockbit.com/logos/companies/BUMI.png",
+          "has_uma": false,
+          "notations": [],
+          "corpaction": {
+            "active": false,
+            "icon_url": "https://assets.stockbit.com/images/corp_action_event_icon.svg",
+            "text": "Perusahaan Memiliki Corporate Action"
+          }
+        },
+        "price": 362,
+        "change": {
+          "value": -18,
+          "percentage": -4.736842105263158
+        },
+        "value": {
+          "raw": 1775343279800,
+          "formatted": "1775.34 B"
+        },
+        "volume": {
+          "raw": 47952050,
+          "formatted": "47.95 M"
+        },
+        "frequency": {
+          "raw": 177097,
+          "formatted": "177.10 K"
+        },
+        "net_foreign_buy": {
+          "raw": 0,
+          "formatted": "-"
+        },
+        "net_foreign_sell": {
+          "raw": 181868219600,
+          "formatted": "181.87 B"
+        },
+        "net_buy": {
+          "raw": 1096198329200,
+          "formatted": ""
+        },
+        "net_sell": {
+          "raw": 679144950600,
+          "formatted": ""
+        },
+        "iepiev_detail": {
+          "iep": {
+            "raw": 0,
+            "formatted": "0"
+          },
+          "iev": {
+            "raw": 0,
+            "formatted": "-"
+          },
+          "ieval": {
+            "raw": 0,
+            "formatted": "-"
+          },
+          "iep_change": {
+            "raw": 0,
+            "formatted": "0.00%"
+          },
+          "iep_change_prev": {
+            "raw": 0,
+            "formatted": "0.00%"
+          },
+          "iep_price_diff": {
+            "raw": 0,
+            "formatted": "0"
+          },
+          "iep_prev_price_diff": {
+            "raw": 0,
+            "formatted": "0"
+          }
+        }
+      },
+      {
+        "stock_detail": {
+          "code": "GOTO",
+          "name": "GoTo Gojek Tokopedia Tbk.",
+          "icon_url": "https://assets.stockbit.com/logos/companies/GOTO.png",
+          "has_uma": false,
+          "notations": [
+            {
+              "code": "K",
+              "description": "Perusahaan Tercatat yang menerapkan Saham Dengan Hak Suara Multipel dan tercatat di Papan Ekonomi Baru"
+            }
+          ],
+          "corpaction": {
+            "active": false,
+            "icon_url": "https://assets.stockbit.com/images/corp_action_event_icon.svg",
+            "text": "Perusahaan Memiliki Corporate Action"
+          }
+        },
+        "price": 65,
+        "change": {
+          "value": 1,
+          "percentage": 1.5625
+        },
+        "value": {
+          "raw": 91502848500,
+          "formatted": "91.50 B"
+        },
+        "volume": {
+          "raw": 14227983,
+          "formatted": "14.23 M"
+        },
+        "frequency": {
+          "raw": 20725,
+          "formatted": "20.73 K"
+        },
+        "net_foreign_buy": {
+          "raw": 3108863400,
+          "formatted": "3.11 B"
+        },
+        "net_foreign_sell": {
+          "raw": 0,
+          "formatted": "-"
+        },
+        "net_buy": {
+          "raw": 35314832200,
+          "formatted": ""
+        },
+        "net_sell": {
+          "raw": 56188016300,
+          "formatted": ""
+        },
+        "iepiev_detail": {
+          "iep": {
+            "raw": 0,
+            "formatted": "0"
+          },
+          "iev": {
+            "raw": 0,
+            "formatted": "-"
+          },
+          "ieval": {
+            "raw": 0,
+            "formatted": "-"
+          },
+          "iep_change": {
+            "raw": 0,
+            "formatted": "0.00%"
+          },
+          "iep_change_prev": {
+            "raw": 0,
+            "formatted": "0.00%"
+          },
+          "iep_price_diff": {
+            "raw": 0,
+            "formatted": "0"
+          },
+          "iep_prev_price_diff": {
+            "raw": 0,
+            "formatted": "0"
+          }
+        }
+      },
+      {
+        "stock_detail": {
+          "code": "DEWA",
+          "name": "Darma Henwa Tbk",
+          "icon_url": "https://assets.stockbit.com/logos/companies/DEWA.png?version=1731380794259246908",
+          "has_uma": false,
+          "notations": [],
+          "corpaction": {
+            "active": false,
+            "icon_url": "https://assets.stockbit.com/images/corp_action_event_icon.svg",
+            "text": "Perusahaan Memiliki Corporate Action"
+          }
+        },
+        "price": 560,
+        "change": {
+          "value": -25,
+          "percentage": -4.273504273504273
+        },
+        "value": {
+          "raw": 650968201000,
+          "formatted": "650.97 B"
+        },
+        "volume": {
+          "raw": 11412156,
+          "formatted": "11.41 M"
+        },
+        "frequency": {
+          "raw": 73134,
+          "formatted": "73.13 K"
+        },
+        "net_foreign_buy": {
+          "raw": 0,
+          "formatted": "-"
+        },
+        "net_foreign_sell": {
+          "raw": 102673597000,
+          "formatted": "102.67 B"
+        },
+        "net_buy": {
+          "raw": 413536350000,
+          "formatted": ""
+        },
+        "net_sell": {
+          "raw": 237431851000,
+          "formatted": ""
+        },
+        "iepiev_detail": {
+          "iep": {
+            "raw": 0,
+            "formatted": "0"
+          },
+          "iev": {
+            "raw": 0,
+            "formatted": "-"
+          },
+          "ieval": {
+            "raw": 0,
+            "formatted": "-"
+          },
+          "iep_change": {
+            "raw": 0,
+            "formatted": "0.00%"
+          },
+          "iep_change_prev": {
+            "raw": 0,
+            "formatted": "0.00%"
+          },
+          "iep_price_diff": {
+            "raw": 0,
+            "formatted": "0"
+          },
+          "iep_prev_price_diff": {
+            "raw": 0,
+            "formatted": "0"
+          }
+        }
+      },
+      {
+        "stock_detail": {
+          "code": "LEAD",
+          "name": "Logindo Samudramakmur Tbk.",
+          "icon_url": "https://assets.stockbit.com/logos/companies/LEAD.png",
+          "has_uma": false,
+          "notations": [],
+          "corpaction": {
+            "active": false,
+            "icon_url": "https://assets.stockbit.com/images/corp_action_event_icon.svg",
+            "text": "Perusahaan Memiliki Corporate Action"
+          }
+        },
+        "price": 137,
+        "change": {
+          "value": 12,
+          "percentage": 9.6
+        },
+        "value": {
+          "raw": 158214396900,
+          "formatted": "158.21 B"
+        },
+        "volume": {
+          "raw": 10547386,
+          "formatted": "10.55 M"
+        },
+        "frequency": {
+          "raw": 54441,
+          "formatted": "54.44 K"
+        },
+        "net_foreign_buy": {
+          "raw": 9138857600,
+          "formatted": "9.14 B"
+        },
+        "net_foreign_sell": {
+          "raw": 0,
+          "formatted": "-"
+        },
+        "net_buy": {
+          "raw": 77668369200,
+          "formatted": ""
+        },
+        "net_sell": {
+          "raw": 80546027700,
+          "formatted": ""
+        },
+        "iepiev_detail": {
+          "iep": {
+            "raw": 0,
+            "formatted": "0"
+          },
+          "iev": {
+            "raw": 0,
+            "formatted": "-"
+          },
+          "ieval": {
+            "raw": 0,
+            "formatted": "-"
+          },
+          "iep_change": {
+            "raw": 0,
+            "formatted": "0.00%"
+          },
+          "iep_change_prev": {
+            "raw": 0,
+            "formatted": "0.00%"
+          },
+          "iep_price_diff": {
+            "raw": 0,
+            "formatted": "0"
+          },
+          "iep_prev_price_diff": {
+            "raw": 0,
+            "formatted": "0"
+          }
+        }
+      },
+      {
+        "stock_detail": {
+          "code": "INET",
+          "name": "Sinergi Inti Andalan Prima Tbk.",
+          "icon_url": "https://assets.stockbit.com/logos/companies/INET.png",
+          "has_uma": false,
+          "notations": [],
+          "corpaction": {
+            "active": true,
+            "icon_url": "https://assets.stockbit.com/images/corp_action_event_icon.svg",
+            "text": "Perusahaan Memiliki Corporate Action"
+          }
+        },
+        "price": 750,
+        "change": {
+          "value": -105,
+          "percentage": -12.280701754385964
+        },
+        "value": {
+          "raw": 726260997500,
+          "formatted": "726.26 B"
+        },
+        "volume": {
+          "raw": 9240275,
+          "formatted": "9.24 M"
+        },
+        "frequency": {
+          "raw": 132023,
+          "formatted": "132.02 K"
+        },
+        "net_foreign_buy": {
+          "raw": 0,
+          "formatted": "-"
+        },
+        "net_foreign_sell": {
+          "raw": 47728046500,
+          "formatted": "47.73 B"
+        },
+        "net_buy": {
+          "raw": 446273241500,
+          "formatted": ""
+        },
+        "net_sell": {
+          "raw": 279987756000,
+          "formatted": ""
+        },
+        "iepiev_detail": {
+          "iep": {
+            "raw": 0,
+            "formatted": "0"
+          },
+          "iev": {
+            "raw": 0,
+            "formatted": "-"
+          },
+          "ieval": {
+            "raw": 0,
+            "formatted": "-"
+          },
+          "iep_change": {
+            "raw": 0,
+            "formatted": "0.00%"
+          },
+          "iep_change_prev": {
+            "raw": 0,
+            "formatted": "0.00%"
+          },
+          "iep_price_diff": {
+            "raw": 0,
+            "formatted": "0"
+          },
+          "iep_prev_price_diff": {
+            "raw": 0,
+            "formatted": "0"
+          }
+        }
+      },
+      {
+        "stock_detail": {
+          "code": "PADA",
+          "name": "Personel Alih Daya Tbk.",
+          "icon_url": "https://assets.stockbit.com/logos/companies/PADA.png",
+          "has_uma": false,
+          "notations": [],
+          "corpaction": {
+            "active": false,
+            "icon_url": "https://assets.stockbit.com/images/corp_action_event_icon.svg",
+            "text": "Perusahaan Memiliki Corporate Action"
+          }
+        },
+        "price": 282,
+        "change": {
+          "value": 2,
+          "percentage": 0.7142857142857143
+        },
+        "value": {
+          "raw": 200226024800,
+          "formatted": "200.23 B"
+        },
+        "volume": {
+          "raw": 6523753,
+          "formatted": "6.52 M"
+        },
+        "frequency": {
+          "raw": 71000,
+          "formatted": "71.00 K"
+        },
+        "net_foreign_buy": {
+          "raw": 0,
+          "formatted": "-"
+        },
+        "net_foreign_sell": {
+          "raw": 2412777800,
+          "formatted": "2.41 B"
+        },
+        "net_buy": {
+          "raw": 113910315800,
+          "formatted": ""
+        },
+        "net_sell": {
+          "raw": 86315709000,
+          "formatted": ""
+        },
+        "iepiev_detail": {
+          "iep": {
+            "raw": 0,
+            "formatted": "0"
+          },
+          "iev": {
+            "raw": 0,
+            "formatted": "-"
+          },
+          "ieval": {
+            "raw": 0,
+            "formatted": "-"
+          },
+          "iep_change": {
+            "raw": 0,
+            "formatted": "0.00%"
+          },
+          "iep_change_prev": {
+            "raw": 0,
+            "formatted": "0.00%"
+          },
+          "iep_price_diff": {
+            "raw": 0,
+            "formatted": "0"
+          },
+          "iep_prev_price_diff": {
+            "raw": 0,
+            "formatted": "0"
+          }
+        }
+      },
+      {
+        "stock_detail": {
+          "code": "HUMI",
+          "name": "Humpuss Maritim Internasional Tbk.",
+          "icon_url": "https://assets.stockbit.com/logos/companies/HUMI.png",
+          "has_uma": false,
+          "notations": [],
+          "corpaction": {
+            "active": true,
+            "icon_url": "https://assets.stockbit.com/images/corp_action_event_icon.svg",
+            "text": "Perusahaan Memiliki Corporate Action"
+          }
+        },
+        "price": 206,
+        "change": {
+          "value": -2,
+          "percentage": -0.9615384615384616
+        },
+        "value": {
+          "raw": 139457127800,
+          "formatted": "139.46 B"
+        },
+        "volume": {
+          "raw": 6389869,
+          "formatted": "6.39 M"
+        },
+        "frequency": {
+          "raw": 37681,
+          "formatted": "37.68 K"
+        },
+        "net_foreign_buy": {
+          "raw": 0,
+          "formatted": "-"
+        },
+        "net_foreign_sell": {
+          "raw": 2752109400,
+          "formatted": "2.75 B"
+        },
+        "net_buy": {
+          "raw": 78062056000,
+          "formatted": ""
+        },
+        "net_sell": {
+          "raw": 61395071800,
+          "formatted": ""
+        },
+        "iepiev_detail": {
+          "iep": {
+            "raw": 0,
+            "formatted": "0"
+          },
+          "iev": {
+            "raw": 0,
+            "formatted": "-"
+          },
+          "ieval": {
+            "raw": 0,
+            "formatted": "-"
+          },
+          "iep_change": {
+            "raw": 0,
+            "formatted": "0.00%"
+          },
+          "iep_change_prev": {
+            "raw": 0,
+            "formatted": "0.00%"
+          },
+          "iep_price_diff": {
+            "raw": 0,
+            "formatted": "0"
+          },
+          "iep_prev_price_diff": {
+            "raw": 0,
+            "formatted": "0"
+          }
+        }
+      },
+      {
+        "stock_detail": {
+          "code": "SMIL",
+          "name": "Sarana Mitra Luas Tbk.",
+          "icon_url": "https://assets.stockbit.com/logos/companies/SMIL.png",
+          "has_uma": false,
+          "notations": [],
+          "corpaction": {
+            "active": false,
+            "icon_url": "https://assets.stockbit.com/images/corp_action_event_icon.svg",
+            "text": "Perusahaan Memiliki Corporate Action"
+          }
+        },
+        "price": 364,
+        "change": {
+          "value": 14,
+          "percentage": 4
+        },
+        "value": {
+          "raw": 184144776200,
+          "formatted": "184.14 B"
+        },
+        "volume": {
+          "raw": 5092043,
+          "formatted": "5.09 M"
+        },
+        "frequency": {
+          "raw": 13117,
+          "formatted": "13.12 K"
+        },
+        "net_foreign_buy": {
+          "raw": 0,
+          "formatted": "-"
+        },
+        "net_foreign_sell": {
+          "raw": 7265487600,
+          "formatted": "7.27 B"
+        },
+        "net_buy": {
+          "raw": 92791853800,
+          "formatted": ""
+        },
+        "net_sell": {
+          "raw": 91352922400,
+          "formatted": ""
+        },
+        "iepiev_detail": {
+          "iep": {
+            "raw": 0,
+            "formatted": "0"
+          },
+          "iev": {
+            "raw": 0,
+            "formatted": "-"
+          },
+          "ieval": {
+            "raw": 0,
+            "formatted": "-"
+          },
+          "iep_change": {
+            "raw": 0,
+            "formatted": "0.00%"
+          },
+          "iep_change_prev": {
+            "raw": 0,
+            "formatted": "0.00%"
+          },
+          "iep_price_diff": {
+            "raw": 0,
+            "formatted": "0"
+          },
+          "iep_prev_price_diff": {
+            "raw": 0,
+            "formatted": "0"
+          }
+        }
+      },
+      {
+        "stock_detail": {
+          "code": "KUAS",
+          "name": "Ace Oldfields Tbk.",
+          "icon_url": "https://assets.stockbit.com/logos/companies/KUAS.png",
+          "has_uma": false,
+          "notations": [],
+          "corpaction": {
+            "active": false,
+            "icon_url": "https://assets.stockbit.com/images/corp_action_event_icon.svg",
+            "text": "Perusahaan Memiliki Corporate Action"
+          }
+        },
+        "price": 77,
+        "change": {
+          "value": 1,
+          "percentage": 1.3157894736842104
+        },
+        "value": {
+          "raw": 44608327300,
+          "formatted": "44.61 B"
+        },
+        "volume": {
+          "raw": 5000261,
+          "formatted": "5.00 M"
+        },
+        "frequency": {
+          "raw": 30946,
+          "formatted": "30.95 K"
+        },
+        "net_foreign_buy": {
+          "raw": 7054900,
+          "formatted": "7.05 M"
+        },
+        "net_foreign_sell": {
+          "raw": 0,
+          "formatted": "-"
+        },
+        "net_buy": {
+          "raw": 22955432900,
+          "formatted": ""
+        },
+        "net_sell": {
+          "raw": 21652894400,
+          "formatted": ""
+        },
+        "iepiev_detail": {
+          "iep": {
+            "raw": 0,
+            "formatted": "0"
+          },
+          "iev": {
+            "raw": 0,
+            "formatted": "-"
+          },
+          "ieval": {
+            "raw": 0,
+            "formatted": "-"
+          },
+          "iep_change": {
+            "raw": 0,
+            "formatted": "0.00%"
+          },
+          "iep_change_prev": {
+            "raw": 0,
+            "formatted": "0.00%"
+          },
+          "iep_price_diff": {
+            "raw": 0,
+            "formatted": "0"
+          },
+          "iep_prev_price_diff": {
+            "raw": 0,
+            "formatted": "0"
+          }
+        }
+      },
+      {
+        "stock_detail": {
+          "code": "BBRM",
+          "name": "Pelayaran National Bina Buana Raya Tbk.",
+          "icon_url": "https://assets.stockbit.com/logos/companies/BBRM.png",
+          "has_uma": false,
+          "notations": [],
+          "corpaction": {
+            "active": false,
+            "icon_url": "https://assets.stockbit.com/images/corp_action_event_icon.svg",
+            "text": "Perusahaan Memiliki Corporate Action"
+          }
+        },
+        "price": 184,
+        "change": {
+          "value": 8,
+          "percentage": 4.545454545454546
+        },
+        "value": {
+          "raw": 92490572600,
+          "formatted": "92.49 B"
+        },
+        "volume": {
+          "raw": 4618868,
+          "formatted": "4.62 M"
+        },
+        "frequency": {
+          "raw": 44497,
+          "formatted": "44.50 K"
+        },
+        "net_foreign_buy": {
+          "raw": 99174700,
+          "formatted": "99.17 M"
+        },
+        "net_foreign_sell": {
+          "raw": 0,
+          "formatted": "-"
+        },
+        "net_buy": {
+          "raw": 45411871200,
+          "formatted": ""
+        },
+        "net_sell": {
+          "raw": 47078701400,
+          "formatted": ""
+        },
+        "iepiev_detail": {
+          "iep": {
+            "raw": 0,
+            "formatted": "0"
+          },
+          "iev": {
+            "raw": 0,
+            "formatted": "-"
+          },
+          "ieval": {
+            "raw": 0,
+            "formatted": "-"
+          },
+          "iep_change": {
+            "raw": 0,
+            "formatted": "0.00%"
+          },
+          "iep_change_prev": {
+            "raw": 0,
+            "formatted": "0.00%"
+          },
+          "iep_price_diff": {
+            "raw": 0,
+            "formatted": "0"
+          },
+          "iep_prev_price_diff": {
+            "raw": 0,
+            "formatted": "0"
+          }
+        }
+      },
+      {
+        "stock_detail": {
+          "code": "BKSL",
+          "name": "Sentul City Tbk.",
+          "icon_url": "https://assets.stockbit.com/logos/companies/BKSL.png",
+          "has_uma": false,
+          "notations": [],
+          "corpaction": {
+            "active": false,
+            "icon_url": "https://assets.stockbit.com/images/corp_action_event_icon.svg",
+            "text": "Perusahaan Memiliki Corporate Action"
+          }
+        },
+        "price": 132,
+        "change": {
+          "value": -2,
+          "percentage": -1.4925373134328357
+        },
+        "value": {
+          "raw": 59412288500,
+          "formatted": "59.41 B"
+        },
+        "volume": {
+          "raw": 4416853,
+          "formatted": "4.42 M"
+        },
+        "frequency": {
+          "raw": 21373,
+          "formatted": "21.37 K"
+        },
+        "net_foreign_buy": {
+          "raw": 0,
+          "formatted": "-"
+        },
+        "net_foreign_sell": {
+          "raw": 8140631200,
+          "formatted": "8.14 B"
+        },
+        "net_buy": {
+          "raw": 39238626300,
+          "formatted": ""
+        },
+        "net_sell": {
+          "raw": 20173662200,
+          "formatted": ""
+        },
+        "iepiev_detail": {
+          "iep": {
+            "raw": 0,
+            "formatted": "0"
+          },
+          "iev": {
+            "raw": 0,
+            "formatted": "-"
+          },
+          "ieval": {
+            "raw": 0,
+            "formatted": "-"
+          },
+          "iep_change": {
+            "raw": 0,
+            "formatted": "0.00%"
+          },
+          "iep_change_prev": {
+            "raw": 0,
+            "formatted": "0.00%"
+          },
+          "iep_price_diff": {
+            "raw": 0,
+            "formatted": "0"
+          },
+          "iep_prev_price_diff": {
+            "raw": 0,
+            "formatted": "0"
+          }
+        }
+      },
+      {
+        "stock_detail": {
+          "code": "SUPA",
+          "name": "Super Bank Indonesia Tbk.",
+          "icon_url": "https://assets.stockbit.com/logos/companies/SUPA.png?version=1764033894732191693",
+          "has_uma": false,
+          "notations": [],
+          "corpaction": {
+            "active": false,
+            "icon_url": "https://assets.stockbit.com/images/corp_action_event_icon.svg",
+            "text": "Perusahaan Memiliki Corporate Action"
+          }
+        },
+        "price": 925,
+        "change": {
+          "value": 30,
+          "percentage": 3.35195530726257
+        },
+        "value": {
+          "raw": 394177804000,
+          "formatted": "394.18 B"
+        },
+        "volume": {
+          "raw": 4258610,
+          "formatted": "4.26 M"
+        },
+        "frequency": {
+          "raw": 95514,
+          "formatted": "95.51 K"
+        },
+        "net_foreign_buy": {
+          "raw": 8913306000,
+          "formatted": "8.91 B"
+        },
+        "net_foreign_sell": {
+          "raw": 0,
+          "formatted": "-"
+        },
+        "net_buy": {
+          "raw": 194986718000,
+          "formatted": ""
+        },
+        "net_sell": {
+          "raw": 199191086000,
+          "formatted": ""
+        },
+        "iepiev_detail": {
+          "iep": {
+            "raw": 0,
+            "formatted": "0"
+          },
+          "iev": {
+            "raw": 0,
+            "formatted": "-"
+          },
+          "ieval": {
+            "raw": 0,
+            "formatted": "-"
+          },
+          "iep_change": {
+            "raw": 0,
+            "formatted": "0.00%"
+          },
+          "iep_change_prev": {
+            "raw": 0,
+            "formatted": "0.00%"
+          },
+          "iep_price_diff": {
+            "raw": 0,
+            "formatted": "0"
+          },
+          "iep_prev_price_diff": {
+            "raw": 0,
+            "formatted": "0"
+          }
+        }
+      },
+      {
+        "stock_detail": {
+          "code": "NETV",
+          "name": "MDTV Media Technologies Tbk.",
+          "icon_url": "https://assets.stockbit.com/logos/companies/NETV.png?version=1766556246801592606",
+          "has_uma": false,
+          "notations": [],
+          "corpaction": {
+            "active": false,
+            "icon_url": "https://assets.stockbit.com/images/corp_action_event_icon.svg",
+            "text": "Perusahaan Memiliki Corporate Action"
+          }
+        },
+        "price": 146,
+        "change": {
+          "value": 8,
+          "percentage": 5.797101449275362
+        },
+        "value": {
+          "raw": 67469427000,
+          "formatted": "67.47 B"
+        },
+        "volume": {
+          "raw": 4160740,
+          "formatted": "4.16 M"
+        },
+        "frequency": {
+          "raw": 38530,
+          "formatted": "38.53 K"
+        },
+        "net_foreign_buy": {
+          "raw": 0,
+          "formatted": "-"
+        },
+        "net_foreign_sell": {
+          "raw": 27976700,
+          "formatted": "27.98 M"
+        },
+        "net_buy": {
+          "raw": 38074186900,
+          "formatted": ""
+        },
+        "net_sell": {
+          "raw": 29395240100,
+          "formatted": ""
+        },
+        "iepiev_detail": {
+          "iep": {
+            "raw": 0,
+            "formatted": "0"
+          },
+          "iev": {
+            "raw": 0,
+            "formatted": "-"
+          },
+          "ieval": {
+            "raw": 0,
+            "formatted": "-"
+          },
+          "iep_change": {
+            "raw": 0,
+            "formatted": "0.00%"
+          },
+          "iep_change_prev": {
+            "raw": 0,
+            "formatted": "0.00%"
+          },
+          "iep_price_diff": {
+            "raw": 0,
+            "formatted": "0"
+          },
+          "iep_prev_price_diff": {
+            "raw": 0,
+            "formatted": "0"
+          }
+        }
+      },
+      {
+        "stock_detail": {
+          "code": "FIRE",
+          "name": "Alfa Energi Investama Tbk",
+          "icon_url": "https://assets.stockbit.com/logos/companies/FIRE.png",
+          "has_uma": false,
+          "notations": [],
+          "corpaction": {
+            "active": false,
+            "icon_url": "https://assets.stockbit.com/images/corp_action_event_icon.svg",
+            "text": "Perusahaan Memiliki Corporate Action"
+          }
+        },
+        "price": 154,
+        "change": {
+          "value": -1,
+          "percentage": -0.6451612903225806
+        },
+        "value": {
+          "raw": 63026387900,
+          "formatted": "63.03 B"
+        },
+        "volume": {
+          "raw": 3657981,
+          "formatted": "3.66 M"
+        },
+        "frequency": {
+          "raw": 31718,
+          "formatted": "31.72 K"
+        },
+        "net_foreign_buy": {
+          "raw": 312421900,
+          "formatted": "312.42 M"
+        },
+        "net_foreign_sell": {
+          "raw": 0,
+          "formatted": "-"
+        },
+        "net_buy": {
+          "raw": 33041545300,
+          "formatted": ""
+        },
+        "net_sell": {
+          "raw": 29984842600,
+          "formatted": ""
+        },
+        "iepiev_detail": {
+          "iep": {
+            "raw": 0,
+            "formatted": "0"
+          },
+          "iev": {
+            "raw": 0,
+            "formatted": "-"
+          },
+          "ieval": {
+            "raw": 0,
+            "formatted": "-"
+          },
+          "iep_change": {
+            "raw": 0,
+            "formatted": "0.00%"
+          },
+          "iep_change_prev": {
+            "raw": 0,
+            "formatted": "0.00%"
+          },
+          "iep_price_diff": {
+            "raw": 0,
+            "formatted": "0"
+          },
+          "iep_prev_price_diff": {
+            "raw": 0,
+            "formatted": "0"
+          }
+        }
+      },
+      {
+        "stock_detail": {
+          "code": "BRMS",
+          "name": "Bumi Resources Minerals Tbk.",
+          "icon_url": "https://assets.stockbit.com/logos/companies/BRMS.png",
+          "has_uma": false,
+          "notations": [],
+          "corpaction": {
+            "active": false,
+            "icon_url": "https://assets.stockbit.com/images/corp_action_event_icon.svg",
+            "text": "Perusahaan Memiliki Corporate Action"
+          }
+        },
+        "price": 1085,
+        "change": {
+          "value": -70,
+          "percentage": -6.0606060606060606
+        },
+        "value": {
+          "raw": 365993001500,
+          "formatted": "365.99 B"
+        },
+        "volume": {
+          "raw": 3250290,
+          "formatted": "3.25 M"
+        },
+        "frequency": {
+          "raw": 31528,
+          "formatted": "31.53 K"
+        },
+        "net_foreign_buy": {
+          "raw": 0,
+          "formatted": "-"
+        },
+        "net_foreign_sell": {
+          "raw": 18982219500,
+          "formatted": "18.98 B"
+        },
+        "net_buy": {
+          "raw": 249475869000,
+          "formatted": ""
+        },
+        "net_sell": {
+          "raw": 116517132500,
+          "formatted": ""
+        },
+        "iepiev_detail": {
+          "iep": {
+            "raw": 0,
+            "formatted": "0"
+          },
+          "iev": {
+            "raw": 0,
+            "formatted": "-"
+          },
+          "ieval": {
+            "raw": 0,
+            "formatted": "-"
+          },
+          "iep_change": {
+            "raw": 0,
+            "formatted": "0.00%"
+          },
+          "iep_change_prev": {
+            "raw": 0,
+            "formatted": "0.00%"
+          },
+          "iep_price_diff": {
+            "raw": 0,
+            "formatted": "0"
+          },
+          "iep_prev_price_diff": {
+            "raw": 0,
+            "formatted": "0"
+          }
+        }
+      },
+      {
+        "stock_detail": {
+          "code": "BBKP",
+          "name": "Bank KB Indonesia Tbk.",
+          "icon_url": "https://assets.stockbit.com/logos/companies/BBKP.png",
+          "has_uma": false,
+          "notations": [],
+          "corpaction": {
+            "active": false,
+            "icon_url": "https://assets.stockbit.com/images/corp_action_event_icon.svg",
+            "text": "Perusahaan Memiliki Corporate Action"
+          }
+        },
+        "price": 77,
+        "change": {
+          "value": 1,
+          "percentage": 1.3157894736842104
+        },
+        "value": {
+          "raw": 23751871600,
+          "formatted": "23.75 B"
+        },
+        "volume": {
+          "raw": 3087840,
+          "formatted": "3.09 M"
+        },
+        "frequency": {
+          "raw": 3584,
+          "formatted": "3.58 K"
+        },
+        "net_foreign_buy": {
+          "raw": 11662318300,
+          "formatted": "11.66 B"
+        },
+        "net_foreign_sell": {
+          "raw": 0,
+          "formatted": "-"
+        },
+        "net_buy": {
+          "raw": 8240833400,
+          "formatted": ""
+        },
+        "net_sell": {
+          "raw": 15511038200,
+          "formatted": ""
+        },
+        "iepiev_detail": {
+          "iep": {
+            "raw": 0,
+            "formatted": "0"
+          },
+          "iev": {
+            "raw": 0,
+            "formatted": "-"
+          },
+          "ieval": {
+            "raw": 0,
+            "formatted": "-"
+          },
+          "iep_change": {
+            "raw": 0,
+            "formatted": "0.00%"
+          },
+          "iep_change_prev": {
+            "raw": 0,
+            "formatted": "0.00%"
+          },
+          "iep_price_diff": {
+            "raw": 0,
+            "formatted": "0"
+          },
+          "iep_prev_price_diff": {
+            "raw": 0,
+            "formatted": "0"
+          }
+        }
+      },
+      {
+        "stock_detail": {
+          "code": "PTPP",
+          "name": "PP (Persero) Tbk.",
+          "icon_url": "https://assets.stockbit.com/logos/companies/PTPP.png",
+          "has_uma": false,
+          "notations": [
+            {
+              "code": "B",
+              "description": "Adanya permohonan Pernyataan Pailit"
+            }
+          ],
+          "corpaction": {
+            "active": false,
+            "icon_url": "https://assets.stockbit.com/images/corp_action_event_icon.svg",
+            "text": "Perusahaan Memiliki Corporate Action"
+          }
+        },
+        "price": 396,
+        "change": {
+          "value": 36,
+          "percentage": 10
+        },
+        "value": {
+          "raw": 105232982800,
+          "formatted": "105.23 B"
+        },
+        "volume": {
+          "raw": 2648786,
+          "formatted": "2.65 M"
+        },
+        "frequency": {
+          "raw": 15452,
+          "formatted": "15.45 K"
+        },
+        "net_foreign_buy": {
+          "raw": 257419600,
+          "formatted": "257.42 M"
+        },
+        "net_foreign_sell": {
+          "raw": 0,
+          "formatted": "-"
+        },
+        "net_buy": {
+          "raw": 55771757800,
+          "formatted": ""
+        },
+        "net_sell": {
+          "raw": 49461225000,
+          "formatted": ""
+        },
+        "iepiev_detail": {
+          "iep": {
+            "raw": 0,
+            "formatted": "0"
+          },
+          "iev": {
+            "raw": 0,
+            "formatted": "-"
+          },
+          "ieval": {
+            "raw": 0,
+            "formatted": "-"
+          },
+          "iep_change": {
+            "raw": 0,
+            "formatted": "0.00%"
+          },
+          "iep_change_prev": {
+            "raw": 0,
+            "formatted": "0.00%"
+          },
+          "iep_price_diff": {
+            "raw": 0,
+            "formatted": "0"
+          },
+          "iep_prev_price_diff": {
+            "raw": 0,
+            "formatted": "0"
+          }
+        }
+      },
+      {
+        "stock_detail": {
+          "code": "BCIP",
+          "name": "Bumi Citra Permai Tbk.",
+          "icon_url": "https://assets.stockbit.com/logos/companies/BCIP.png",
+          "has_uma": false,
+          "notations": [],
+          "corpaction": {
+            "active": false,
+            "icon_url": "https://assets.stockbit.com/images/corp_action_event_icon.svg",
+            "text": "Perusahaan Memiliki Corporate Action"
+          }
+        },
+        "price": 89,
+        "change": {
+          "value": 19,
+          "percentage": 27.142857142857142
+        },
+        "value": {
+          "raw": 22588765500,
+          "formatted": "22.59 B"
+        },
+        "volume": {
+          "raw": 2597194,
+          "formatted": "2.60 M"
+        },
+        "frequency": {
+          "raw": 17495,
+          "formatted": "17.50 K"
+        },
+        "net_foreign_buy": {
+          "raw": 0,
+          "formatted": "-"
+        },
+        "net_foreign_sell": {
+          "raw": 225686500,
+          "formatted": "225.69 M"
+        },
+        "net_buy": {
+          "raw": 10759540100,
+          "formatted": ""
+        },
+        "net_sell": {
+          "raw": 11829225400,
+          "formatted": ""
+        },
+        "iepiev_detail": {
+          "iep": {
+            "raw": 0,
+            "formatted": "0"
+          },
+          "iev": {
+            "raw": 0,
+            "formatted": "-"
+          },
+          "ieval": {
+            "raw": 0,
+            "formatted": "-"
+          },
+          "iep_change": {
+            "raw": 0,
+            "formatted": "0.00%"
+          },
+          "iep_change_prev": {
+            "raw": 0,
+            "formatted": "0.00%"
+          },
+          "iep_price_diff": {
+            "raw": 0,
+            "formatted": "0"
+          },
+          "iep_prev_price_diff": {
+            "raw": 0,
+            "formatted": "0"
+          }
+        }
+      },
+      {
+        "stock_detail": {
+          "code": "COAL",
+          "name": "Black Diamond Resources Tbk.",
+          "icon_url": "https://assets.stockbit.com/logos/companies/COAL.png",
+          "has_uma": false,
+          "notations": [],
+          "corpaction": {
+            "active": false,
+            "icon_url": "https://assets.stockbit.com/images/corp_action_event_icon.svg",
+            "text": "Perusahaan Memiliki Corporate Action"
+          }
+        },
+        "price": 83,
+        "change": {
+          "value": -6,
+          "percentage": -6.741573033707865
+        },
+        "value": {
+          "raw": 21669244700,
+          "formatted": "21.67 B"
+        },
+        "volume": {
+          "raw": 2532004,
+          "formatted": "2.53 M"
+        },
+        "frequency": {
+          "raw": 18244,
+          "formatted": "18.24 K"
+        },
+        "net_foreign_buy": {
+          "raw": 1008895300,
+          "formatted": "1.01 B"
+        },
+        "net_foreign_sell": {
+          "raw": 0,
+          "formatted": "-"
+        },
+        "net_buy": {
+          "raw": 13266812300,
+          "formatted": ""
+        },
+        "net_sell": {
+          "raw": 8402432400,
+          "formatted": ""
+        },
+        "iepiev_detail": {
+          "iep": {
+            "raw": 0,
+            "formatted": "0"
+          },
+          "iev": {
+            "raw": 0,
+            "formatted": "-"
+          },
+          "ieval": {
+            "raw": 0,
+            "formatted": "-"
+          },
+          "iep_change": {
+            "raw": 0,
+            "formatted": "0.00%"
+          },
+          "iep_change_prev": {
+            "raw": 0,
+            "formatted": "0.00%"
+          },
+          "iep_price_diff": {
+            "raw": 0,
+            "formatted": "0"
+          },
+          "iep_prev_price_diff": {
+            "raw": 0,
+            "formatted": "0"
+          }
+        }
+      },
+      {
+        "stock_detail": {
+          "code": "PADI",
+          "name": "Minna Padi Investama Sekuritas Tbk.",
+          "icon_url": "https://assets.stockbit.com/logos/companies/PADI.png",
+          "has_uma": false,
+          "notations": [],
+          "corpaction": {
+            "active": false,
+            "icon_url": "https://assets.stockbit.com/images/corp_action_event_icon.svg",
+            "text": "Perusahaan Memiliki Corporate Action"
+          }
+        },
+        "price": 111,
+        "change": {
+          "value": -3,
+          "percentage": -2.631578947368421
+        },
+        "value": {
+          "raw": 29486284000,
+          "formatted": "29.49 B"
+        },
+        "volume": {
+          "raw": 2529747,
+          "formatted": "2.53 M"
+        },
+        "frequency": {
+          "raw": 11673,
+          "formatted": "11.67 K"
+        },
+        "net_foreign_buy": {
+          "raw": 376833200,
+          "formatted": "376.83 M"
+        },
+        "net_foreign_sell": {
+          "raw": 0,
+          "formatted": "-"
+        },
+        "net_buy": {
+          "raw": 17205733000,
+          "formatted": ""
+        },
+        "net_sell": {
+          "raw": 12280551000,
+          "formatted": ""
+        },
+        "iepiev_detail": {
+          "iep": {
+            "raw": 0,
+            "formatted": "0"
+          },
+          "iev": {
+            "raw": 0,
+            "formatted": "-"
+          },
+          "ieval": {
+            "raw": 0,
+            "formatted": "-"
+          },
+          "iep_change": {
+            "raw": 0,
+            "formatted": "0.00%"
+          },
+          "iep_change_prev": {
+            "raw": 0,
+            "formatted": "0.00%"
+          },
+          "iep_price_diff": {
+            "raw": 0,
+            "formatted": "0"
+          },
+          "iep_prev_price_diff": {
+            "raw": 0,
+            "formatted": "0"
+          }
+        }
+      },
+      {
+        "stock_detail": {
+          "code": "BULL",
+          "name": "Buana Lintas Lautan Tbk.",
+          "icon_url": "https://assets.stockbit.com/logos/companies/BULL.png",
+          "has_uma": false,
+          "notations": [],
+          "corpaction": {
+            "active": false,
+            "icon_url": "https://assets.stockbit.com/images/corp_action_event_icon.svg",
+            "text": "Perusahaan Memiliki Corporate Action"
+          }
+        },
+        "price": 380,
+        "change": {
+          "value": -10,
+          "percentage": -2.564102564102564
+        },
+        "value": {
+          "raw": 91960052800,
+          "formatted": "91.96 B"
+        },
+        "volume": {
+          "raw": 2395616,
+          "formatted": "2.40 M"
+        },
+        "frequency": {
+          "raw": 16178,
+          "formatted": "16.18 K"
+        },
+        "net_foreign_buy": {
+          "raw": 2990480400,
+          "formatted": "2.99 B"
+        },
+        "net_foreign_sell": {
+          "raw": 0,
+          "formatted": "-"
+        },
+        "net_buy": {
+          "raw": 43581509600,
+          "formatted": ""
+        },
+        "net_sell": {
+          "raw": 48378543200,
+          "formatted": ""
+        },
+        "iepiev_detail": {
+          "iep": {
+            "raw": 0,
+            "formatted": "0"
+          },
+          "iev": {
+            "raw": 0,
+            "formatted": "-"
+          },
+          "ieval": {
+            "raw": 0,
+            "formatted": "-"
+          },
+          "iep_change": {
+            "raw": 0,
+            "formatted": "0.00%"
+          },
+          "iep_change_prev": {
+            "raw": 0,
+            "formatted": "0.00%"
+          },
+          "iep_price_diff": {
+            "raw": 0,
+            "formatted": "0"
+          },
+          "iep_prev_price_diff": {
+            "raw": 0,
+            "formatted": "0"
+          }
+        }
+      },
+      {
+        "stock_detail": {
+          "code": "ARCI",
+          "name": "Archi Indonesia Tbk",
+          "icon_url": "https://assets.stockbit.com/logos/companies/ARCI.png",
+          "has_uma": false,
+          "notations": [],
+          "corpaction": {
+            "active": false,
+            "icon_url": "https://assets.stockbit.com/images/corp_action_event_icon.svg",
+            "text": "Perusahaan Memiliki Corporate Action"
+          }
+        },
+        "price": 1690,
+        "change": {
+          "value": 0,
+          "percentage": 0
+        },
+        "value": {
+          "raw": 411048462000,
+          "formatted": "411.05 B"
+        },
+        "volume": {
+          "raw": 2369213,
+          "formatted": "2.37 M"
+        },
+        "frequency": {
+          "raw": 46744,
+          "formatted": "46.74 K"
+        },
+        "net_foreign_buy": {
+          "raw": 0,
+          "formatted": "-"
+        },
+        "net_foreign_sell": {
+          "raw": 8411417500,
+          "formatted": "8.41 B"
+        },
+        "net_buy": {
+          "raw": 215443925500,
+          "formatted": ""
+        },
+        "net_sell": {
+          "raw": 195604536500,
+          "formatted": ""
+        },
+        "iepiev_detail": {
+          "iep": {
+            "raw": 0,
+            "formatted": "0"
+          },
+          "iev": {
+            "raw": 0,
+            "formatted": "-"
+          },
+          "ieval": {
+            "raw": 0,
+            "formatted": "-"
+          },
+          "iep_change": {
+            "raw": 0,
+            "formatted": "0.00%"
+          },
+          "iep_change_prev": {
+            "raw": 0,
+            "formatted": "0.00%"
+          },
+          "iep_price_diff": {
+            "raw": 0,
+            "formatted": "0"
+          },
+          "iep_prev_price_diff": {
+            "raw": 0,
+            "formatted": "0"
+          }
+        }
+      },
+      {
+        "stock_detail": {
+          "code": "ANTM",
+          "name": "Aneka Tambang Tbk.",
+          "icon_url": "https://assets.stockbit.com/logos/companies/ANTM.png",
+          "has_uma": false,
+          "notations": [],
+          "corpaction": {
+            "active": false,
+            "icon_url": "https://assets.stockbit.com/images/corp_action_event_icon.svg",
+            "text": "Perusahaan Memiliki Corporate Action"
+          }
+        },
+        "price": 3220,
+        "change": {
+          "value": 30,
+          "percentage": 0.9404388714733543
+        },
+        "value": {
+          "raw": 712737327000,
+          "formatted": "712.74 B"
+        },
+        "volume": {
+          "raw": 2198952,
+          "formatted": "2.20 M"
+        },
+        "frequency": {
+          "raw": 41541,
+          "formatted": "41.54 K"
+        },
+        "net_foreign_buy": {
+          "raw": 245707422000,
+          "formatted": "245.71 B"
+        },
+        "net_foreign_sell": {
+          "raw": 0,
+          "formatted": "-"
+        },
+        "net_buy": {
+          "raw": 382041636000,
+          "formatted": ""
+        },
+        "net_sell": {
+          "raw": 330695691000,
+          "formatted": ""
+        },
+        "iepiev_detail": {
+          "iep": {
+            "raw": 0,
+            "formatted": "0"
+          },
+          "iev": {
+            "raw": 0,
+            "formatted": "-"
+          },
+          "ieval": {
+            "raw": 0,
+            "formatted": "-"
+          },
+          "iep_change": {
+            "raw": 0,
+            "formatted": "0.00%"
+          },
+          "iep_change_prev": {
+            "raw": 0,
+            "formatted": "0.00%"
+          },
+          "iep_price_diff": {
+            "raw": 0,
+            "formatted": "0"
+          },
+          "iep_prev_price_diff": {
+            "raw": 0,
+            "formatted": "0"
+          }
+        }
+      },
+      {
+        "stock_detail": {
+          "code": "PPRE",
+          "name": "PP Presisi Tbk.",
+          "icon_url": "https://assets.stockbit.com/logos/companies/PPRE.png",
+          "has_uma": false,
+          "notations": [],
+          "corpaction": {
+            "active": false,
+            "icon_url": "https://assets.stockbit.com/images/corp_action_event_icon.svg",
+            "text": "Perusahaan Memiliki Corporate Action"
+          }
+        },
+        "price": 132,
+        "change": {
+          "value": 5,
+          "percentage": 3.937007874015748
+        },
+        "value": {
+          "raw": 29377895500,
+          "formatted": "29.38 B"
+        },
+        "volume": {
+          "raw": 2176067,
+          "formatted": "2.18 M"
+        },
+        "frequency": {
+          "raw": 13450,
+          "formatted": "13.45 K"
+        },
+        "net_foreign_buy": {
+          "raw": 0,
+          "formatted": "-"
+        },
+        "net_foreign_sell": {
+          "raw": 2778471800,
+          "formatted": "2.78 B"
+        },
+        "net_buy": {
+          "raw": 15050962800,
+          "formatted": ""
+        },
+        "net_sell": {
+          "raw": 14326932700,
+          "formatted": ""
+        },
+        "iepiev_detail": {
+          "iep": {
+            "raw": 0,
+            "formatted": "0"
+          },
+          "iev": {
+            "raw": 0,
+            "formatted": "-"
+          },
+          "ieval": {
+            "raw": 0,
+            "formatted": "-"
+          },
+          "iep_change": {
+            "raw": 0,
+            "formatted": "0.00%"
+          },
+          "iep_change_prev": {
+            "raw": 0,
+            "formatted": "0.00%"
+          },
+          "iep_price_diff": {
+            "raw": 0,
+            "formatted": "0"
+          },
+          "iep_prev_price_diff": {
+            "raw": 0,
+            "formatted": "0"
+          }
+        }
+      },
+      {
+        "stock_detail": {
+          "code": "PJHB",
+          "name": "Pelayaran Jaya Hidup Baru Tbk.",
+          "icon_url": "https://assets.stockbit.com/logos/companies/PJHB.png?version=1761112492170410522",
+          "has_uma": false,
+          "notations": [],
+          "corpaction": {
+            "active": true,
+            "icon_url": "https://assets.stockbit.com/images/corp_action_event_icon.svg",
+            "text": "Perusahaan Memiliki Corporate Action"
+          }
+        },
+        "price": 220,
+        "change": {
+          "value": -38,
+          "percentage": -14.728682170542637
+        },
+        "value": {
+          "raw": 43903362200,
+          "formatted": "43.90 B"
+        },
+        "volume": {
+          "raw": 1963102,
+          "formatted": "1.96 M"
+        },
+        "frequency": {
+          "raw": 21059,
+          "formatted": "21.06 K"
+        },
+        "net_foreign_buy": {
+          "raw": 1472573600,
+          "formatted": "1.47 B"
+        },
+        "net_foreign_sell": {
+          "raw": 0,
+          "formatted": "-"
+        },
+        "net_buy": {
+          "raw": 24168881600,
+          "formatted": ""
+        },
+        "net_sell": {
+          "raw": 19734480600,
+          "formatted": ""
+        },
+        "iepiev_detail": {
+          "iep": {
+            "raw": 0,
+            "formatted": "0"
+          },
+          "iev": {
+            "raw": 0,
+            "formatted": "-"
+          },
+          "ieval": {
+            "raw": 0,
+            "formatted": "-"
+          },
+          "iep_change": {
+            "raw": 0,
+            "formatted": "0.00%"
+          },
+          "iep_change_prev": {
+            "raw": 0,
+            "formatted": "0.00%"
+          },
+          "iep_price_diff": {
+            "raw": 0,
+            "formatted": "0"
+          },
+          "iep_prev_price_diff": {
+            "raw": 0,
+            "formatted": "0"
+          }
+        }
+      },
+      {
+        "stock_detail": {
+          "code": "SOCI",
+          "name": "Soechi Lines Tbk.",
+          "icon_url": "https://assets.stockbit.com/logos/companies/SOCI.png",
+          "has_uma": false,
+          "notations": [],
+          "corpaction": {
+            "active": false,
+            "icon_url": "https://assets.stockbit.com/images/corp_action_event_icon.svg",
+            "text": "Perusahaan Memiliki Corporate Action"
+          }
+        },
+        "price": 474,
+        "change": {
+          "value": 34,
+          "percentage": 7.727272727272727
+        },
+        "value": {
+          "raw": 94073660100,
+          "formatted": "94.07 B"
+        },
+        "volume": {
+          "raw": 1935964,
+          "formatted": "1.94 M"
+        },
+        "frequency": {
+          "raw": 19642,
+          "formatted": "19.64 K"
+        },
+        "net_foreign_buy": {
+          "raw": 5555232000,
+          "formatted": "5.56 B"
+        },
+        "net_foreign_sell": {
+          "raw": 0,
+          "formatted": "-"
+        },
+        "net_buy": {
+          "raw": 45193257200,
+          "formatted": ""
+        },
+        "net_sell": {
+          "raw": 48880402900,
+          "formatted": ""
+        },
+        "iepiev_detail": {
+          "iep": {
+            "raw": 0,
+            "formatted": "0"
+          },
+          "iev": {
+            "raw": 0,
+            "formatted": "-"
+          },
+          "ieval": {
+            "raw": 0,
+            "formatted": "-"
+          },
+          "iep_change": {
+            "raw": 0,
+            "formatted": "0.00%"
+          },
+          "iep_change_prev": {
+            "raw": 0,
+            "formatted": "0.00%"
+          },
+          "iep_price_diff": {
+            "raw": 0,
+            "formatted": "0"
+          },
+          "iep_prev_price_diff": {
+            "raw": 0,
+            "formatted": "0"
+          }
+        }
+      },
+      {
+        "stock_detail": {
+          "code": "CDIA",
+          "name": "Chandra Daya Investasi Tbk.",
+          "icon_url": "https://assets.stockbit.com/logos/companies/CDIA.png?version=1750294950929128288",
+          "has_uma": false,
+          "notations": [],
+          "corpaction": {
+            "active": false,
+            "icon_url": "https://assets.stockbit.com/images/corp_action_event_icon.svg",
+            "text": "Perusahaan Memiliki Corporate Action"
+          }
+        },
+        "price": 1650,
+        "change": {
+          "value": -50,
+          "percentage": -2.941176470588235
+        },
+        "value": {
+          "raw": 288284175500,
+          "formatted": "288.28 B"
+        },
+        "volume": {
+          "raw": 1732908,
+          "formatted": "1.73 M"
+        },
+        "frequency": {
+          "raw": 51395,
+          "formatted": "51.40 K"
+        },
+        "net_foreign_buy": {
+          "raw": 32832681500,
+          "formatted": "32.83 B"
+        },
+        "net_foreign_sell": {
+          "raw": 0,
+          "formatted": "-"
+        },
+        "net_buy": {
+          "raw": 188888758500,
+          "formatted": ""
+        },
+        "net_sell": {
+          "raw": 99395417000,
+          "formatted": ""
+        },
+        "iepiev_detail": {
+          "iep": {
+            "raw": 0,
+            "formatted": "0"
+          },
+          "iev": {
+            "raw": 0,
+            "formatted": "-"
+          },
+          "ieval": {
+            "raw": 0,
+            "formatted": "-"
+          },
+          "iep_change": {
+            "raw": 0,
+            "formatted": "0.00%"
+          },
+          "iep_change_prev": {
+            "raw": 0,
+            "formatted": "0.00%"
+          },
+          "iep_price_diff": {
+            "raw": 0,
+            "formatted": "0"
+          },
+          "iep_prev_price_diff": {
+            "raw": 0,
+            "formatted": "0"
+          }
+        }
+      },
+      {
+        "stock_detail": {
+          "code": "DSFI",
+          "name": "Dharma Samudera Fishing Industries Tbk.",
+          "icon_url": "https://assets.stockbit.com/logos/companies/DSFI.png",
+          "has_uma": false,
+          "notations": [],
+          "corpaction": {
+            "active": false,
+            "icon_url": "https://assets.stockbit.com/images/corp_action_event_icon.svg",
+            "text": "Perusahaan Memiliki Corporate Action"
+          }
+        },
+        "price": 97,
+        "change": {
+          "value": 5,
+          "percentage": 5.434782608695652
+        },
+        "value": {
+          "raw": 17114344600,
+          "formatted": "17.11 B"
+        },
+        "volume": {
+          "raw": 1708033,
+          "formatted": "1.71 M"
+        },
+        "frequency": {
+          "raw": 10315,
+          "formatted": "10.31 K"
+        },
+        "net_foreign_buy": {
+          "raw": 0,
+          "formatted": "-"
+        },
+        "net_foreign_sell": {
+          "raw": 494308100,
+          "formatted": "494.31 M"
+        },
+        "net_buy": {
+          "raw": 8679814200,
+          "formatted": ""
+        },
+        "net_sell": {
+          "raw": 8434530400,
+          "formatted": ""
+        },
+        "iepiev_detail": {
+          "iep": {
+            "raw": 0,
+            "formatted": "0"
+          },
+          "iev": {
+            "raw": 0,
+            "formatted": "-"
+          },
+          "ieval": {
+            "raw": 0,
+            "formatted": "-"
+          },
+          "iep_change": {
+            "raw": 0,
+            "formatted": "0.00%"
+          },
+          "iep_change_prev": {
+            "raw": 0,
+            "formatted": "0.00%"
+          },
+          "iep_price_diff": {
+            "raw": 0,
+            "formatted": "0"
+          },
+          "iep_prev_price_diff": {
+            "raw": 0,
+            "formatted": "0"
+          }
+        }
+      },
+      {
+        "stock_detail": {
+          "code": "BAJA",
+          "name": "Saranacentral Bajatama Tbk.",
+          "icon_url": "https://assets.stockbit.com/logos/companies/BAJA.png",
+          "has_uma": false,
+          "notations": [],
+          "corpaction": {
+            "active": false,
+            "icon_url": "https://assets.stockbit.com/images/corp_action_event_icon.svg",
+            "text": "Perusahaan Memiliki Corporate Action"
+          }
+        },
+        "price": 163,
+        "change": {
+          "value": 1,
+          "percentage": 0.6172839506172839
+        },
+        "value": {
+          "raw": 27596101000,
+          "formatted": "27.60 B"
+        },
+        "volume": {
+          "raw": 1511173,
+          "formatted": "1.51 M"
+        },
+        "frequency": {
+          "raw": 11935,
+          "formatted": "11.94 K"
+        },
+        "net_foreign_buy": {
+          "raw": 0,
+          "formatted": "-"
+        },
+        "net_foreign_sell": {
+          "raw": 422623300,
+          "formatted": "422.62 M"
+        },
+        "net_buy": {
+          "raw": 11494827600,
+          "formatted": ""
+        },
+        "net_sell": {
+          "raw": 16101273400,
+          "formatted": ""
+        },
+        "iepiev_detail": {
+          "iep": {
+            "raw": 0,
+            "formatted": "0"
+          },
+          "iev": {
+            "raw": 0,
+            "formatted": "-"
+          },
+          "ieval": {
+            "raw": 0,
+            "formatted": "-"
+          },
+          "iep_change": {
+            "raw": 0,
+            "formatted": "0.00%"
+          },
+          "iep_change_prev": {
+            "raw": 0,
+            "formatted": "0.00%"
+          },
+          "iep_price_diff": {
+            "raw": 0,
+            "formatted": "0"
+          },
+          "iep_prev_price_diff": {
+            "raw": 0,
+            "formatted": "0"
+          }
+        }
+      },
+      {
+        "stock_detail": {
+          "code": "MEDS",
+          "name": "Hetzer Medical Indonesia Tbk.",
+          "icon_url": "https://assets.stockbit.com/logos/companies/MEDS.png",
+          "has_uma": false,
+          "notations": [],
+          "corpaction": {
+            "active": false,
+            "icon_url": "https://assets.stockbit.com/images/corp_action_event_icon.svg",
+            "text": "Perusahaan Memiliki Corporate Action"
+          }
+        },
+        "price": 74,
+        "change": {
+          "value": -11,
+          "percentage": -12.941176470588237
+        },
+        "value": {
+          "raw": 11130838000,
+          "formatted": "11.13 B"
+        },
+        "volume": {
+          "raw": 1470365,
+          "formatted": "1.47 M"
+        },
+        "frequency": {
+          "raw": 18905,
+          "formatted": "18.91 K"
+        },
+        "net_foreign_buy": {
+          "raw": 0,
+          "formatted": "-"
+        },
+        "net_foreign_sell": {
+          "raw": 98689600,
+          "formatted": "98.69 M"
+        },
+        "net_buy": {
+          "raw": 6550977600,
+          "formatted": ""
+        },
+        "net_sell": {
+          "raw": 4579860400,
+          "formatted": ""
+        },
+        "iepiev_detail": {
+          "iep": {
+            "raw": 0,
+            "formatted": "0"
+          },
+          "iev": {
+            "raw": 0,
+            "formatted": "-"
+          },
+          "ieval": {
+            "raw": 0,
+            "formatted": "-"
+          },
+          "iep_change": {
+            "raw": 0,
+            "formatted": "0.00%"
+          },
+          "iep_change_prev": {
+            "raw": 0,
+            "formatted": "0.00%"
+          },
+          "iep_price_diff": {
+            "raw": 0,
+            "formatted": "0"
+          },
+          "iep_prev_price_diff": {
+            "raw": 0,
+            "formatted": "0"
+          }
+        }
+      },
+      {
+        "stock_detail": {
+          "code": "MBMA",
+          "name": "Merdeka Battery Materials Tbk.",
+          "icon_url": "https://assets.stockbit.com/logos/companies/MBMA.png",
+          "has_uma": false,
+          "notations": [],
+          "corpaction": {
+            "active": false,
+            "icon_url": "https://assets.stockbit.com/images/corp_action_event_icon.svg",
+            "text": "Perusahaan Memiliki Corporate Action"
+          }
+        },
+        "price": 545,
+        "change": {
+          "value": -15,
+          "percentage": -2.6785714285714284
+        },
+        "value": {
+          "raw": 80724460500,
+          "formatted": "80.72 B"
+        },
+        "volume": {
+          "raw": 1451162,
+          "formatted": "1.45 M"
+        },
+        "frequency": {
+          "raw": 12200,
+          "formatted": "12.20 K"
+        },
+        "net_foreign_buy": {
+          "raw": 0,
+          "formatted": "-"
+        },
+        "net_foreign_sell": {
+          "raw": 5369767500,
+          "formatted": "5.37 B"
+        },
+        "net_buy": {
+          "raw": 52538903000,
+          "formatted": ""
+        },
+        "net_sell": {
+          "raw": 28185557500,
+          "formatted": ""
+        },
+        "iepiev_detail": {
+          "iep": {
+            "raw": 0,
+            "formatted": "0"
+          },
+          "iev": {
+            "raw": 0,
+            "formatted": "-"
+          },
+          "ieval": {
+            "raw": 0,
+            "formatted": "-"
+          },
+          "iep_change": {
+            "raw": 0,
+            "formatted": "0.00%"
+          },
+          "iep_change_prev": {
+            "raw": 0,
+            "formatted": "0.00%"
+          },
+          "iep_price_diff": {
+            "raw": 0,
+            "formatted": "0"
+          },
+          "iep_prev_price_diff": {
+            "raw": 0,
+            "formatted": "0"
+          }
+        }
+      },
+      {
+        "stock_detail": {
+          "code": "IATA",
+          "name": "MNC Energy Investments Tbk.",
+          "icon_url": "https://assets.stockbit.com/logos/companies/IATA.png",
+          "has_uma": false,
+          "notations": [],
+          "corpaction": {
+            "active": false,
+            "icon_url": "https://assets.stockbit.com/images/corp_action_event_icon.svg",
+            "text": "Perusahaan Memiliki Corporate Action"
+          }
+        },
+        "price": 135,
+        "change": {
+          "value": -5,
+          "percentage": -3.571428571428571
+        },
+        "value": {
+          "raw": 19676146300,
+          "formatted": "19.68 B"
+        },
+        "volume": {
+          "raw": 1422073,
+          "formatted": "1.42 M"
+        },
+        "frequency": {
+          "raw": 8775,
+          "formatted": "8.78 K"
+        },
+        "net_foreign_buy": {
+          "raw": 0,
+          "formatted": "-"
+        },
+        "net_foreign_sell": {
+          "raw": 5554321400,
+          "formatted": "5.55 B"
+        },
+        "net_buy": {
+          "raw": 13903207100,
+          "formatted": ""
+        },
+        "net_sell": {
+          "raw": 5772939200,
+          "formatted": ""
+        },
+        "iepiev_detail": {
+          "iep": {
+            "raw": 0,
+            "formatted": "0"
+          },
+          "iev": {
+            "raw": 0,
+            "formatted": "-"
+          },
+          "ieval": {
+            "raw": 0,
+            "formatted": "-"
+          },
+          "iep_change": {
+            "raw": 0,
+            "formatted": "0.00%"
+          },
+          "iep_change_prev": {
+            "raw": 0,
+            "formatted": "0.00%"
+          },
+          "iep_price_diff": {
+            "raw": 0,
+            "formatted": "0"
+          },
+          "iep_prev_price_diff": {
+            "raw": 0,
+            "formatted": "0"
+          }
+        }
+      },
+      {
+        "stock_detail": {
+          "code": "ADHI",
+          "name": "Adhi Karya (Persero) Tbk.",
+          "icon_url": "https://assets.stockbit.com/logos/companies/ADHI.png",
+          "has_uma": false,
+          "notations": [],
+          "corpaction": {
+            "active": false,
+            "icon_url": "https://assets.stockbit.com/images/corp_action_event_icon.svg",
+            "text": "Perusahaan Memiliki Corporate Action"
+          }
+        },
+        "price": 260,
+        "change": {
+          "value": 10,
+          "percentage": 4
+        },
+        "value": {
+          "raw": 36817870000,
+          "formatted": "36.82 B"
+        },
+        "volume": {
+          "raw": 1382802,
+          "formatted": "1.38 M"
+        },
+        "frequency": {
+          "raw": 7115,
+          "formatted": "7.12 K"
+        },
+        "net_foreign_buy": {
+          "raw": 1691601400,
+          "formatted": "1.69 B"
+        },
+        "net_foreign_sell": {
+          "raw": 0,
+          "formatted": "-"
+        },
+        "net_buy": {
+          "raw": 16883094200,
+          "formatted": ""
+        },
+        "net_sell": {
+          "raw": 19934775800,
+          "formatted": ""
+        },
+        "iepiev_detail": {
+          "iep": {
+            "raw": 0,
+            "formatted": "0"
+          },
+          "iev": {
+            "raw": 0,
+            "formatted": "-"
+          },
+          "ieval": {
+            "raw": 0,
+            "formatted": "-"
+          },
+          "iep_change": {
+            "raw": 0,
+            "formatted": "0.00%"
+          },
+          "iep_change_prev": {
+            "raw": 0,
+            "formatted": "0.00%"
+          },
+          "iep_price_diff": {
+            "raw": 0,
+            "formatted": "0"
+          },
+          "iep_prev_price_diff": {
+            "raw": 0,
+            "formatted": "0"
+          }
+        }
+      },
+      {
+        "stock_detail": {
+          "code": "HRTA",
+          "name": "Hartadinata Abadi Tbk",
+          "icon_url": "https://assets.stockbit.com/logos/companies/HRTA.png",
+          "has_uma": false,
+          "notations": [],
+          "corpaction": {
+            "active": false,
+            "icon_url": "https://assets.stockbit.com/images/corp_action_event_icon.svg",
+            "text": "Perusahaan Memiliki Corporate Action"
+          }
+        },
+        "price": 2050,
+        "change": {
+          "value": 125,
+          "percentage": 6.493506493506493
+        },
+        "value": {
+          "raw": 273428540000,
+          "formatted": "273.43 B"
+        },
+        "volume": {
+          "raw": 1318938,
+          "formatted": "1.32 M"
+        },
+        "frequency": {
+          "raw": 26100,
+          "formatted": "26.10 K"
+        },
+        "net_foreign_buy": {
+          "raw": 28989894000,
+          "formatted": "28.99 B"
+        },
+        "net_foreign_sell": {
+          "raw": 0,
+          "formatted": "-"
+        },
+        "net_buy": {
+          "raw": 136090208000,
+          "formatted": ""
+        },
+        "net_sell": {
+          "raw": 137338332000,
+          "formatted": ""
+        },
+        "iepiev_detail": {
+          "iep": {
+            "raw": 0,
+            "formatted": "0"
+          },
+          "iev": {
+            "raw": 0,
+            "formatted": "-"
+          },
+          "ieval": {
+            "raw": 0,
+            "formatted": "-"
+          },
+          "iep_change": {
+            "raw": 0,
+            "formatted": "0.00%"
+          },
+          "iep_change_prev": {
+            "raw": 0,
+            "formatted": "0.00%"
+          },
+          "iep_price_diff": {
+            "raw": 0,
+            "formatted": "0"
+          },
+          "iep_prev_price_diff": {
+            "raw": 0,
+            "formatted": "0"
+          }
+        }
+      },
+      {
+        "stock_detail": {
+          "code": "SMDR",
+          "name": "Samudera Indonesia  Tbk.",
+          "icon_url": "https://assets.stockbit.com/logos/companies/SMDR.png",
+          "has_uma": false,
+          "notations": [],
+          "corpaction": {
+            "active": false,
+            "icon_url": "https://assets.stockbit.com/images/corp_action_event_icon.svg",
+            "text": "Perusahaan Memiliki Corporate Action"
+          }
+        },
+        "price": 358,
+        "change": {
+          "value": 6,
+          "percentage": 1.7045454545454544
+        },
+        "value": {
+          "raw": 47717988000,
+          "formatted": "47.72 B"
+        },
+        "volume": {
+          "raw": 1318486,
+          "formatted": "1.32 M"
+        },
+        "frequency": {
+          "raw": 10219,
+          "formatted": "10.22 K"
+        },
+        "net_foreign_buy": {
+          "raw": 1803173000,
+          "formatted": "1.80 B"
+        },
+        "net_foreign_sell": {
+          "raw": 0,
+          "formatted": "-"
+        },
+        "net_buy": {
+          "raw": 25804496400,
+          "formatted": ""
+        },
+        "net_sell": {
+          "raw": 21913491600,
+          "formatted": ""
+        },
+        "iepiev_detail": {
+          "iep": {
+            "raw": 0,
+            "formatted": "0"
+          },
+          "iev": {
+            "raw": 0,
+            "formatted": "-"
+          },
+          "ieval": {
+            "raw": 0,
+            "formatted": "-"
+          },
+          "iep_change": {
+            "raw": 0,
+            "formatted": "0.00%"
+          },
+          "iep_change_prev": {
+            "raw": 0,
+            "formatted": "0.00%"
+          },
+          "iep_price_diff": {
+            "raw": 0,
+            "formatted": "0"
+          },
+          "iep_prev_price_diff": {
+            "raw": 0,
+            "formatted": "0"
+          }
+        }
+      },
+      {
+        "stock_detail": {
+          "code": "BUKA",
+          "name": "Bukalapak.com Tbk.",
+          "icon_url": "https://assets.stockbit.com/logos/companies/BUKA.png",
+          "has_uma": false,
+          "notations": [
+            {
+              "code": "I",
+              "description": "Perusahaan Tercatat yang tidak menerapkan Saham Dengan Hak Suara Multipel dan tercatat di Papan Ekonomi Baru"
+            }
+          ],
+          "corpaction": {
+            "active": false,
+            "icon_url": "https://assets.stockbit.com/images/corp_action_event_icon.svg",
+            "text": "Perusahaan Memiliki Corporate Action"
+          }
+        },
+        "price": 158,
+        "change": {
+          "value": 1,
+          "percentage": 0.6369426751592357
+        },
+        "value": {
+          "raw": 19986670100,
+          "formatted": "19.99 B"
+        },
+        "volume": {
+          "raw": 1266738,
+          "formatted": "1.27 M"
+        },
+        "frequency": {
+          "raw": 3444,
+          "formatted": "3.44 K"
+        },
+        "net_foreign_buy": {
+          "raw": 0,
+          "formatted": "-"
+        },
+        "net_foreign_sell": {
+          "raw": 2588879400,
+          "formatted": "2.59 B"
+        },
+        "net_buy": {
+          "raw": 11128935900,
+          "formatted": ""
+        },
+        "net_sell": {
+          "raw": 8857734200,
+          "formatted": ""
+        },
+        "iepiev_detail": {
+          "iep": {
+            "raw": 0,
+            "formatted": "0"
+          },
+          "iev": {
+            "raw": 0,
+            "formatted": "-"
+          },
+          "ieval": {
+            "raw": 0,
+            "formatted": "-"
+          },
+          "iep_change": {
+            "raw": 0,
+            "formatted": "0.00%"
+          },
+          "iep_change_prev": {
+            "raw": 0,
+            "formatted": "0.00%"
+          },
+          "iep_price_diff": {
+            "raw": 0,
+            "formatted": "0"
+          },
+          "iep_prev_price_diff": {
+            "raw": 0,
+            "formatted": "0"
+          }
+        }
+      },
+      {
+        "stock_detail": {
+          "code": "WIRG",
+          "name": "Wir Asia Tbk.",
+          "icon_url": "https://assets.stockbit.com/logos/companies/WIRG.png",
+          "has_uma": false,
+          "notations": [],
+          "corpaction": {
+            "active": false,
+            "icon_url": "https://assets.stockbit.com/images/corp_action_event_icon.svg",
+            "text": "Perusahaan Memiliki Corporate Action"
+          }
+        },
+        "price": 93,
+        "change": {
+          "value": -3,
+          "percentage": -3.125
+        },
+        "value": {
+          "raw": 11557450900,
+          "formatted": "11.56 B"
+        },
+        "volume": {
+          "raw": 1233491,
+          "formatted": "1.23 M"
+        },
+        "frequency": {
+          "raw": 4901,
+          "formatted": "4.90 K"
+        },
+        "net_foreign_buy": {
+          "raw": 0,
+          "formatted": "-"
+        },
+        "net_foreign_sell": {
+          "raw": 935689900,
+          "formatted": "935.69 M"
+        },
+        "net_buy": {
+          "raw": 9120125300,
+          "formatted": ""
+        },
+        "net_sell": {
+          "raw": 2437325600,
+          "formatted": ""
+        },
+        "iepiev_detail": {
+          "iep": {
+            "raw": 0,
+            "formatted": "0"
+          },
+          "iev": {
+            "raw": 0,
+            "formatted": "-"
+          },
+          "ieval": {
+            "raw": 0,
+            "formatted": "-"
+          },
+          "iep_change": {
+            "raw": 0,
+            "formatted": "0.00%"
+          },
+          "iep_change_prev": {
+            "raw": 0,
+            "formatted": "0.00%"
+          },
+          "iep_price_diff": {
+            "raw": 0,
+            "formatted": "0"
+          },
+          "iep_prev_price_diff": {
+            "raw": 0,
+            "formatted": "0"
+          }
+        }
+      },
+      {
+        "stock_detail": {
+          "code": "BIPI",
+          "name": "Astrindo Nusantara Infrastruktur Tbk.",
+          "icon_url": "https://assets.stockbit.com/logos/companies/BIPI.png",
+          "has_uma": false,
+          "notations": [],
+          "corpaction": {
+            "active": false,
+            "icon_url": "https://assets.stockbit.com/images/corp_action_event_icon.svg",
+            "text": "Perusahaan Memiliki Corporate Action"
+          }
+        },
+        "price": 85,
+        "change": {
+          "value": -1,
+          "percentage": -1.1627906976744187
+        },
+        "value": {
+          "raw": 10253501300,
+          "formatted": "10.25 B"
+        },
+        "volume": {
+          "raw": 1218898,
+          "formatted": "1.22 M"
+        },
+        "frequency": {
+          "raw": 2759,
+          "formatted": "2.76 K"
+        },
+        "net_foreign_buy": {
+          "raw": 703938900,
+          "formatted": "703.94 M"
+        },
+        "net_foreign_sell": {
+          "raw": 0,
+          "formatted": "-"
+        },
+        "net_buy": {
+          "raw": 6915541100,
+          "formatted": ""
+        },
+        "net_sell": {
+          "raw": 3337960200,
+          "formatted": ""
+        },
+        "iepiev_detail": {
+          "iep": {
+            "raw": 0,
+            "formatted": "0"
+          },
+          "iev": {
+            "raw": 0,
+            "formatted": "-"
+          },
+          "ieval": {
+            "raw": 0,
+            "formatted": "-"
+          },
+          "iep_change": {
+            "raw": 0,
+            "formatted": "0.00%"
+          },
+          "iep_change_prev": {
+            "raw": 0,
+            "formatted": "0.00%"
+          },
+          "iep_price_diff": {
+            "raw": 0,
+            "formatted": "0"
+          },
+          "iep_prev_price_diff": {
+            "raw": 0,
+            "formatted": "0"
+          }
+        }
+      },
+      {
+        "stock_detail": {
+          "code": "BBRI",
+          "name": "Bank Rakyat Indonesia (Persero) Tbk.",
+          "icon_url": "https://assets.stockbit.com/logos/companies/BBRI.png",
+          "has_uma": false,
+          "notations": [],
+          "corpaction": {
+            "active": true,
+            "icon_url": "https://assets.stockbit.com/images/corp_action_event_icon.svg",
+            "text": "Perusahaan Memiliki Corporate Action"
+          }
+        },
+        "price": 3770,
+        "change": {
+          "value": 0,
+          "percentage": 0
+        },
+        "value": {
+          "raw": 456469561000,
+          "formatted": "456.47 B"
+        },
+        "volume": {
+          "raw": 1210736,
+          "formatted": "1.21 M"
+        },
+        "frequency": {
+          "raw": 20986,
+          "formatted": "20.99 K"
+        },
+        "net_foreign_buy": {
+          "raw": 0,
+          "formatted": "-"
+        },
+        "net_foreign_sell": {
+          "raw": 143721791000,
+          "formatted": "143.72 B"
+        },
+        "net_buy": {
+          "raw": 209381019000,
+          "formatted": ""
+        },
+        "net_sell": {
+          "raw": 247088542000,
+          "formatted": ""
+        },
+        "iepiev_detail": {
+          "iep": {
+            "raw": 0,
+            "formatted": "0"
+          },
+          "iev": {
+            "raw": 0,
+            "formatted": "-"
+          },
+          "ieval": {
+            "raw": 0,
+            "formatted": "-"
+          },
+          "iep_change": {
+            "raw": 0,
+            "formatted": "0.00%"
+          },
+          "iep_change_prev": {
+            "raw": 0,
+            "formatted": "0.00%"
+          },
+          "iep_price_diff": {
+            "raw": 0,
+            "formatted": "0"
+          },
+          "iep_prev_price_diff": {
+            "raw": 0,
+            "formatted": "0"
+          }
+        }
+      },
+      {
+        "stock_detail": {
+          "code": "CPRO",
+          "name": "Central Proteina Prima Tbk",
+          "icon_url": "https://assets.stockbit.com/logos/companies/CPRO.png",
+          "has_uma": false,
+          "notations": [],
+          "corpaction": {
+            "active": false,
+            "icon_url": "https://assets.stockbit.com/images/corp_action_event_icon.svg",
+            "text": "Perusahaan Memiliki Corporate Action"
+          }
+        },
+        "price": 61,
+        "change": {
+          "value": 0,
+          "percentage": 0
+        },
+        "value": {
+          "raw": 7275231300,
+          "formatted": "7.28 B"
+        },
+        "volume": {
+          "raw": 1186506,
+          "formatted": "1.19 M"
+        },
+        "frequency": {
+          "raw": 1880,
+          "formatted": "1.88 K"
+        },
+        "net_foreign_buy": {
+          "raw": 41958900,
+          "formatted": "41.96 M"
+        },
+        "net_foreign_sell": {
+          "raw": 0,
+          "formatted": "-"
+        },
+        "net_buy": {
+          "raw": 4633408900,
+          "formatted": ""
+        },
+        "net_sell": {
+          "raw": 2641822400,
+          "formatted": ""
+        },
+        "iepiev_detail": {
+          "iep": {
+            "raw": 0,
+            "formatted": "0"
+          },
+          "iev": {
+            "raw": 0,
+            "formatted": "-"
+          },
+          "ieval": {
+            "raw": 0,
+            "formatted": "-"
+          },
+          "iep_change": {
+            "raw": 0,
+            "formatted": "0.00%"
+          },
+          "iep_change_prev": {
+            "raw": 0,
+            "formatted": "0.00%"
+          },
+          "iep_price_diff": {
+            "raw": 0,
+            "formatted": "0"
+          },
+          "iep_prev_price_diff": {
+            "raw": 0,
+            "formatted": "0"
+          }
+        }
+      },
+      {
+        "stock_detail": {
+          "code": "KIJA",
+          "name": "Kawasan Industri Jababeka Tbk.",
+          "icon_url": "https://assets.stockbit.com/logos/companies/KIJA.png",
+          "has_uma": false,
+          "notations": [],
+          "corpaction": {
+            "active": false,
+            "icon_url": "https://assets.stockbit.com/images/corp_action_event_icon.svg",
+            "text": "Perusahaan Memiliki Corporate Action"
+          }
+        },
+        "price": 198,
+        "change": {
+          "value": -2,
+          "percentage": -1
+        },
+        "value": {
+          "raw": 22476474500,
+          "formatted": "22.48 B"
+        },
+        "volume": {
+          "raw": 1137604,
+          "formatted": "1.14 M"
+        },
+        "frequency": {
+          "raw": 5332,
+          "formatted": "5.33 K"
+        },
+        "net_foreign_buy": {
+          "raw": 1889509500,
+          "formatted": "1.89 B"
+        },
+        "net_foreign_sell": {
+          "raw": 0,
+          "formatted": "-"
+        },
+        "net_buy": {
+          "raw": 12503088700,
+          "formatted": ""
+        },
+        "net_sell": {
+          "raw": 9973385800,
+          "formatted": ""
+        },
+        "iepiev_detail": {
+          "iep": {
+            "raw": 0,
+            "formatted": "0"
+          },
+          "iev": {
+            "raw": 0,
+            "formatted": "-"
+          },
+          "ieval": {
+            "raw": 0,
+            "formatted": "-"
+          },
+          "iep_change": {
+            "raw": 0,
+            "formatted": "0.00%"
+          },
+          "iep_change_prev": {
+            "raw": 0,
+            "formatted": "0.00%"
+          },
+          "iep_price_diff": {
+            "raw": 0,
+            "formatted": "0"
+          },
+          "iep_prev_price_diff": {
+            "raw": 0,
+            "formatted": "0"
+          }
+        }
+      },
+      {
+        "stock_detail": {
+          "code": "EURO",
+          "name": "Estee Gold Feet Tbk.",
+          "icon_url": "https://assets.stockbit.com/logos/companies/EURO.png",
+          "has_uma": false,
+          "notations": [],
+          "corpaction": {
+            "active": false,
+            "icon_url": "https://assets.stockbit.com/images/corp_action_event_icon.svg",
+            "text": "Perusahaan Memiliki Corporate Action"
+          }
+        },
+        "price": 246,
+        "change": {
+          "value": -10,
+          "percentage": -3.90625
+        },
+        "value": {
+          "raw": 26252625400,
+          "formatted": "26.25 B"
+        },
+        "volume": {
+          "raw": 1112002,
+          "formatted": "1.11 M"
+        },
+        "frequency": {
+          "raw": 364,
+          "formatted": "364.00"
+        },
+        "net_foreign_buy": {
+          "raw": 0,
+          "formatted": "-"
+        },
+        "net_foreign_sell": {
+          "raw": 670800,
+          "formatted": "670.80 K"
+        },
+        "net_buy": {
+          "raw": 25952026400,
+          "formatted": ""
+        },
+        "net_sell": {
+          "raw": 300599000,
+          "formatted": ""
+        },
+        "iepiev_detail": {
+          "iep": {
+            "raw": 0,
+            "formatted": "0"
+          },
+          "iev": {
+            "raw": 0,
+            "formatted": "-"
+          },
+          "ieval": {
+            "raw": 0,
+            "formatted": "-"
+          },
+          "iep_change": {
+            "raw": 0,
+            "formatted": "0.00%"
+          },
+          "iep_change_prev": {
+            "raw": 0,
+            "formatted": "0.00%"
+          },
+          "iep_price_diff": {
+            "raw": 0,
+            "formatted": "0"
+          },
+          "iep_prev_price_diff": {
+            "raw": 0,
+            "formatted": "0"
+          }
+        }
+      },
+      {
+        "stock_detail": {
+          "code": "BBYB",
+          "name": "Bank Neo Commerce Tbk.",
+          "icon_url": "https://assets.stockbit.com/logos/companies/BBYB.png",
+          "has_uma": false,
+          "notations": [],
+          "corpaction": {
+            "active": false,
+            "icon_url": "https://assets.stockbit.com/images/corp_action_event_icon.svg",
+            "text": "Perusahaan Memiliki Corporate Action"
+          }
+        },
+        "price": 456,
+        "change": {
+          "value": -18,
+          "percentage": -3.79746835443038
+        },
+        "value": {
+          "raw": 49793559000,
+          "formatted": "49.79 B"
+        },
+        "volume": {
+          "raw": 1071411,
+          "formatted": "1.07 M"
+        },
+        "frequency": {
+          "raw": 14828,
+          "formatted": "14.83 K"
+        },
+        "net_foreign_buy": {
+          "raw": 0,
+          "formatted": "-"
+        },
+        "net_foreign_sell": {
+          "raw": 1421728600,
+          "formatted": "1.42 B"
+        },
+        "net_buy": {
+          "raw": 36281350800,
+          "formatted": ""
+        },
+        "net_sell": {
+          "raw": 13512208200,
+          "formatted": ""
+        },
+        "iepiev_detail": {
+          "iep": {
+            "raw": 0,
+            "formatted": "0"
+          },
+          "iev": {
+            "raw": 0,
+            "formatted": "-"
+          },
+          "ieval": {
+            "raw": 0,
+            "formatted": "-"
+          },
+          "iep_change": {
+            "raw": 0,
+            "formatted": "0.00%"
+          },
+          "iep_change_prev": {
+            "raw": 0,
+            "formatted": "0.00%"
+          },
+          "iep_price_diff": {
+            "raw": 0,
+            "formatted": "0"
+          },
+          "iep_prev_price_diff": {
+            "raw": 0,
+            "formatted": "0"
+          }
+        }
+      },
+      {
+        "stock_detail": {
+          "code": "REAL",
+          "name": "Repower Asia Indonesia Tbk",
+          "icon_url": "https://assets.stockbit.com/logos/companies/REAL.png",
+          "has_uma": false,
+          "notations": [],
+          "corpaction": {
+            "active": false,
+            "icon_url": "https://assets.stockbit.com/images/corp_action_event_icon.svg",
+            "text": "Perusahaan Memiliki Corporate Action"
+          }
+        },
+        "price": 66,
+        "change": {
+          "value": -2,
+          "percentage": -2.941176470588235
+        },
+        "value": {
+          "raw": 6952927600,
+          "formatted": "6.95 B"
+        },
+        "volume": {
+          "raw": 1040770,
+          "formatted": "1.04 M"
+        },
+        "frequency": {
+          "raw": 3805,
+          "formatted": "3.81 K"
+        },
+        "net_foreign_buy": {
+          "raw": 116212300,
+          "formatted": "116.21 M"
+        },
+        "net_foreign_sell": {
+          "raw": 0,
+          "formatted": "-"
+        },
+        "net_buy": {
+          "raw": 4861687200,
+          "formatted": ""
+        },
+        "net_sell": {
+          "raw": 2091240400,
+          "formatted": ""
+        },
+        "iepiev_detail": {
+          "iep": {
+            "raw": 0,
+            "formatted": "0"
+          },
+          "iev": {
+            "raw": 0,
+            "formatted": "-"
+          },
+          "ieval": {
+            "raw": 0,
+            "formatted": "-"
+          },
+          "iep_change": {
+            "raw": 0,
+            "formatted": "0.00%"
+          },
+          "iep_change_prev": {
+            "raw": 0,
+            "formatted": "0.00%"
+          },
+          "iep_price_diff": {
+            "raw": 0,
+            "formatted": "0"
+          },
+          "iep_prev_price_diff": {
+            "raw": 0,
+            "formatted": "0"
+          }
+        }
+      },
+      {
+        "stock_detail": {
+          "code": "SCMA",
+          "name": "Surya Citra Media Tbk.",
+          "icon_url": "https://assets.stockbit.com/logos/companies/SCMA.png",
+          "has_uma": false,
+          "notations": [],
+          "corpaction": {
+            "active": false,
+            "icon_url": "https://assets.stockbit.com/images/corp_action_event_icon.svg",
+            "text": "Perusahaan Memiliki Corporate Action"
+          }
+        },
+        "price": 332,
+        "change": {
+          "value": 2,
+          "percentage": 0.6060606060606061
+        },
+        "value": {
+          "raw": 34101052200,
+          "formatted": "34.10 B"
+        },
+        "volume": {
+          "raw": 1018102,
+          "formatted": "1.02 M"
+        },
+        "frequency": {
+          "raw": 7449,
+          "formatted": "7.45 K"
+        },
+        "net_foreign_buy": {
+          "raw": 0,
+          "formatted": "-"
+        },
+        "net_foreign_sell": {
+          "raw": 1691774000,
+          "formatted": "1.69 B"
+        },
+        "net_buy": {
+          "raw": 20634584800,
+          "formatted": ""
+        },
+        "net_sell": {
+          "raw": 13466467400,
+          "formatted": ""
+        },
+        "iepiev_detail": {
+          "iep": {
+            "raw": 0,
+            "formatted": "0"
+          },
+          "iev": {
+            "raw": 0,
+            "formatted": "-"
+          },
+          "ieval": {
+            "raw": 0,
+            "formatted": "-"
+          },
+          "iep_change": {
+            "raw": 0,
+            "formatted": "0.00%"
+          },
+          "iep_change_prev": {
+            "raw": 0,
+            "formatted": "0.00%"
+          },
+          "iep_price_diff": {
+            "raw": 0,
+            "formatted": "0"
+          },
+          "iep_prev_price_diff": {
+            "raw": 0,
+            "formatted": "0"
+          }
+        }
+      },
+      {
+        "stock_detail": {
+          "code": "AHAP",
+          "name": "Asuransi Harta Aman Pratama Tbk.",
+          "icon_url": "https://assets.stockbit.com/logos/companies/AHAP.png",
+          "has_uma": false,
+          "notations": [],
+          "corpaction": {
+            "active": false,
+            "icon_url": "https://assets.stockbit.com/images/corp_action_event_icon.svg",
+            "text": "Perusahaan Memiliki Corporate Action"
+          }
+        },
+        "price": 93,
+        "change": {
+          "value": 5,
+          "percentage": 5.681818181818182
+        },
+        "value": {
+          "raw": 9537705200,
+          "formatted": "9.54 B"
+        },
+        "volume": {
+          "raw": 1007733,
+          "formatted": "1.01 M"
+        },
+        "frequency": {
+          "raw": 4245,
+          "formatted": "4.25 K"
+        },
+        "net_foreign_buy": {
+          "raw": 0,
+          "formatted": "-"
+        },
+        "net_foreign_sell": {
+          "raw": 1531162700,
+          "formatted": "1.53 B"
+        },
+        "net_buy": {
+          "raw": 4430365500,
+          "formatted": ""
+        },
+        "net_sell": {
+          "raw": 5107339700,
+          "formatted": ""
+        },
+        "iepiev_detail": {
+          "iep": {
+            "raw": 0,
+            "formatted": "0"
+          },
+          "iev": {
+            "raw": 0,
+            "formatted": "-"
+          },
+          "ieval": {
+            "raw": 0,
+            "formatted": "-"
+          },
+          "iep_change": {
+            "raw": 0,
+            "formatted": "0.00%"
+          },
+          "iep_change_prev": {
+            "raw": 0,
+            "formatted": "0.00%"
+          },
+          "iep_price_diff": {
+            "raw": 0,
+            "formatted": "0"
+          },
+          "iep_prev_price_diff": {
+            "raw": 0,
+            "formatted": "0"
+          }
+        }
+      },
+      {
+        "stock_detail": {
+          "code": "BUVA",
+          "name": "Bukit Uluwatu Villa Tbk.",
+          "icon_url": "https://assets.stockbit.com/logos/companies/BUVA.png",
+          "has_uma": false,
+          "notations": [],
+          "corpaction": {
+            "active": false,
+            "icon_url": "https://assets.stockbit.com/images/corp_action_event_icon.svg",
+            "text": "Perusahaan Memiliki Corporate Action"
+          }
+        },
+        "price": 1230,
+        "change": {
+          "value": -90,
+          "percentage": -6.8181818181818175
+        },
+        "value": {
+          "raw": 124634302000,
+          "formatted": "124.63 B"
+        },
+        "volume": {
+          "raw": 991905,
+          "formatted": "991.90 K"
+        },
+        "frequency": {
+          "raw": 15587,
+          "formatted": "15.59 K"
+        },
+        "net_foreign_buy": {
+          "raw": 6277883000,
+          "formatted": "6.28 B"
+        },
+        "net_foreign_sell": {
+          "raw": 0,
+          "formatted": "-"
+        },
+        "net_buy": {
+          "raw": 83841794000,
+          "formatted": ""
+        },
+        "net_sell": {
+          "raw": 40792508000,
+          "formatted": ""
+        },
+        "iepiev_detail": {
+          "iep": {
+            "raw": 0,
+            "formatted": "0"
+          },
+          "iev": {
+            "raw": 0,
+            "formatted": "-"
+          },
+          "ieval": {
+            "raw": 0,
+            "formatted": "-"
+          },
+          "iep_change": {
+            "raw": 0,
+            "formatted": "0.00%"
+          },
+          "iep_change_prev": {
+            "raw": 0,
+            "formatted": "0.00%"
+          },
+          "iep_price_diff": {
+            "raw": 0,
+            "formatted": "0"
+          },
+          "iep_prev_price_diff": {
+            "raw": 0,
+            "formatted": "0"
+          }
+        }
+      },
+      {
+        "stock_detail": {
+          "code": "KPIG",
+          "name": "MNC Tourism Indonesia Tbk.",
+          "icon_url": "https://assets.stockbit.com/logos/companies/KPIG.png",
+          "has_uma": false,
+          "notations": [],
+          "corpaction": {
+            "active": false,
+            "icon_url": "https://assets.stockbit.com/images/corp_action_event_icon.svg",
+            "text": "Perusahaan Memiliki Corporate Action"
+          }
+        },
+        "price": 139,
+        "change": {
+          "value": 2,
+          "percentage": 1.4598540145985401
+        },
+        "value": {
+          "raw": 13748876200,
+          "formatted": "13.75 B"
+        },
+        "volume": {
+          "raw": 981535,
+          "formatted": "981.53 K"
+        },
+        "frequency": {
+          "raw": 5278,
+          "formatted": "5.28 K"
+        },
+        "net_foreign_buy": {
+          "raw": 0,
+          "formatted": "-"
+        },
+        "net_foreign_sell": {
+          "raw": 2881397300,
+          "formatted": "2.88 B"
+        },
+        "net_buy": {
+          "raw": 4912964100,
+          "formatted": ""
+        },
+        "net_sell": {
+          "raw": 8835912100,
+          "formatted": ""
+        },
+        "iepiev_detail": {
+          "iep": {
+            "raw": 0,
+            "formatted": "0"
+          },
+          "iev": {
+            "raw": 0,
+            "formatted": "-"
+          },
+          "ieval": {
+            "raw": 0,
+            "formatted": "-"
+          },
+          "iep_change": {
+            "raw": 0,
+            "formatted": "0.00%"
+          },
+          "iep_change_prev": {
+            "raw": 0,
+            "formatted": "0.00%"
+          },
+          "iep_price_diff": {
+            "raw": 0,
+            "formatted": "0"
+          },
+          "iep_prev_price_diff": {
+            "raw": 0,
+            "formatted": "0"
+          }
+        }
+      },
+      {
+        "stock_detail": {
+          "code": "OASA",
+          "name": "Maharaksa Biru Energi Tbk.",
+          "icon_url": "https://assets.stockbit.com/logos/companies/OASA.png",
+          "has_uma": false,
+          "notations": [],
+          "corpaction": {
+            "active": false,
+            "icon_url": "https://assets.stockbit.com/images/corp_action_event_icon.svg",
+            "text": "Perusahaan Memiliki Corporate Action"
+          }
+        },
+        "price": 242,
+        "change": {
+          "value": -4,
+          "percentage": -1.6260162601626018
+        },
+        "value": {
+          "raw": 21747678200,
+          "formatted": "21.75 B"
+        },
+        "volume": {
+          "raw": 901525,
+          "formatted": "901.52 K"
+        },
+        "frequency": {
+          "raw": 3094,
+          "formatted": "3.09 K"
+        },
+        "net_foreign_buy": {
+          "raw": 1257643800,
+          "formatted": "1.26 B"
+        },
+        "net_foreign_sell": {
+          "raw": 0,
+          "formatted": "-"
+        },
+        "net_buy": {
+          "raw": 12796856400,
+          "formatted": ""
+        },
+        "net_sell": {
+          "raw": 8950821800,
+          "formatted": ""
+        },
+        "iepiev_detail": {
+          "iep": {
+            "raw": 0,
+            "formatted": "0"
+          },
+          "iev": {
+            "raw": 0,
+            "formatted": "-"
+          },
+          "ieval": {
+            "raw": 0,
+            "formatted": "-"
+          },
+          "iep_change": {
+            "raw": 0,
+            "formatted": "0.00%"
+          },
+          "iep_change_prev": {
+            "raw": 0,
+            "formatted": "0.00%"
+          },
+          "iep_price_diff": {
+            "raw": 0,
+            "formatted": "0"
+          },
+          "iep_prev_price_diff": {
+            "raw": 0,
+            "formatted": "0"
+          }
+        }
+      },
+      {
+        "stock_detail": {
+          "code": "BRPT",
+          "name": "Barito Pacific Tbk.",
+          "icon_url": "https://assets.stockbit.com/logos/companies/BRPT.png",
+          "has_uma": false,
+          "notations": [],
+          "corpaction": {
+            "active": false,
+            "icon_url": "https://assets.stockbit.com/images/corp_action_event_icon.svg",
+            "text": "Perusahaan Memiliki Corporate Action"
+          }
+        },
+        "price": 3130,
+        "change": {
+          "value": -150,
+          "percentage": -4.573170731707317
+        },
+        "value": {
+          "raw": 282476937000,
+          "formatted": "282.48 B"
+        },
+        "volume": {
+          "raw": 883574,
+          "formatted": "883.57 K"
+        },
+        "frequency": {
+          "raw": 25920,
+          "formatted": "25.92 K"
+        },
+        "net_foreign_buy": {
+          "raw": 27634928000,
+          "formatted": "27.63 B"
+        },
+        "net_foreign_sell": {
+          "raw": 0,
+          "formatted": "-"
+        },
+        "net_buy": {
+          "raw": 198741129000,
+          "formatted": ""
+        },
+        "net_sell": {
+          "raw": 83735808000,
+          "formatted": ""
+        },
+        "iepiev_detail": {
+          "iep": {
+            "raw": 0,
+            "formatted": "0"
+          },
+          "iev": {
+            "raw": 0,
+            "formatted": "-"
+          },
+          "ieval": {
+            "raw": 0,
+            "formatted": "-"
+          },
+          "iep_change": {
+            "raw": 0,
+            "formatted": "0.00%"
+          },
+          "iep_change_prev": {
+            "raw": 0,
+            "formatted": "0.00%"
+          },
+          "iep_price_diff": {
+            "raw": 0,
+            "formatted": "0"
+          },
+          "iep_prev_price_diff": {
+            "raw": 0,
+            "formatted": "0"
+          }
+        }
+      }
+    ],
+    "mover_type": "MOVER_TYPE_TOP_VOLUME",
+    "is_show_net_foreign": true,
+    "net_foreign_updated_at": "2025-12-24",
+    "net_foreign_session_info": {
+      "raw": 2,
+      "formatted": "Updated 24 Dec 2025",
+      "date": "2025-12-24",
+      "is_last_session": true
+    }
+  }
+}
