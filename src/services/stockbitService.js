@@ -90,9 +90,9 @@ export const getCalendarEvents = async () => {
     return fetchWithAuth(url);
 };
 
-// Screener Template
-export const getScreenerData = async (templateId = '4804992') => {
-    const url = `https://exodus.stockbit.com/screener/templates/${templateId}?type=TEMPLATE_TYPE_CUSTOM`;
+// Screener Template - supports both GURU and CUSTOM types
+export const getScreenerData = async (templateId = '4804992', type = 'TEMPLATE_TYPE_CUSTOM') => {
+    const url = `https://exodus.stockbit.com/screener/templates/${templateId}?type=${type}`;
     return fetchWithAuth(url);
 };
 
@@ -325,4 +325,24 @@ export const formatPercentage = (num) => {
     if (num === null || num === undefined) return '-';
     const sign = num > 0 ? '+' : '';
     return sign + num.toFixed(2) + '%';
+};
+
+// Company Financial Data
+// report_type: 1 = Income Statement, 2 = Balance Sheet, 3 = Cash Flow
+// statement_type: 1 = Quarterly, 2 = Annual, 3 = TTM, 4 = Interim YTD, etc.
+// data_type: 1 = as reported
+export const getCompanyFinancial = async ({
+    symbol,
+    reportType = 1,
+    statementType = 2,
+    dataType = 1
+}) => {
+    const url = `https://exodus.stockbit.com/findata-view/company/financial?symbol=${symbol}&data_type=${dataType}&report_type=${reportType}&statement_type=${statementType}`;
+    return fetchWithAuth(url);
+};
+
+// Company Profile
+export const getCompanyProfile = async ({ symbol }) => {
+    const url = `https://exodus.stockbit.com/company/companies/${symbol}`;
+    return fetchWithAuth(url);
 };

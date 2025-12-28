@@ -5,7 +5,7 @@ import { getStorage } from "firebase/storage";
 import {
   AlignJustify, ChevronDown, ChevronsLeft, LogOut,
   User, Bell, Home, BookOpen, Activity, ClipboardCheck, Trophy, Settings,
-  TrendingUp, PieChart, Plus, ExternalLink, LineChart, Users, BarChart3
+  TrendingUp, PieChart, Plus, ExternalLink, LineChart, Users, BarChart3, Filter
 } from 'lucide-react';
 import React, { useEffect, useRef, useState } from 'react';
 
@@ -24,6 +24,8 @@ import FlowLineView from './components/FlowLineView';
 import BandarDetectorView from './components/BandarDetectorView';
 import ValueInvestingView from './components/ValueInvestingView';
 import PriceVolumeAnalysisView from './components/PriceVolumeAnalysisView';
+import FundAnalysisView from './components/FundAnalysisView';
+import ScreenerView from './components/ScreenerView';
 import LandingPage from './landingpage/LandingPage';
 import StockSearch from './components/StockSearch';
 import DashboardStats from './components/DashboardStats';
@@ -304,6 +306,8 @@ function TradingJournalLayout({ user, isAdmin }) {
       case 'bandarDetector': return <BandarDetectorView {...props} onNavigateToSettings={navigateToSettings} />;
       case 'valueInvesting': return <ValueInvestingView {...props} onNavigateToSettings={navigateToSettings} />;
       case 'pva': return <PriceVolumeAnalysisView {...props} onNavigateToSettings={navigateToSettings} />;
+      case 'fundAnalysis': return <FundAnalysisView {...props} onNavigateToSettings={navigateToSettings} />;
+      case 'screener': return <ScreenerView {...props} onNavigateToSettings={navigateToSettings} />;
       case 'journal': return <JournalView {...props} />;
       case 'signals': return <SignalsView {...props} />;
       case 'evaluation': return <EvaluationView {...props} />;
@@ -344,6 +348,8 @@ function Sidebar({ user, isAdmin, view, setView, isOpen, setIsOpen, isCollapsed,
     { icon: LineChart, label: 'FlowLine', viewName: 'flowline' },
     { icon: Activity, label: 'Value Investing', viewName: 'valueInvesting' },
     { icon: BarChart3, label: 'PVA', viewName: 'pva' },
+    { icon: BarChart3, label: 'Fund Analysis', viewName: 'fundAnalysis' },
+    { icon: Filter, label: 'Screener', viewName: 'screener' },
     { icon: BookOpen, label: 'Jurnal Trading', viewName: 'journal' },
     { icon: Activity, label: 'Trading Signals', viewName: 'signals' },
     { icon: ClipboardCheck, label: 'Evaluasi', viewName: 'evaluation' },

@@ -1,0 +1,1277 @@
+{
+  "data": {
+    "calcs": [
+      {
+        "company": {
+          "country": "ID",
+          "exchange": "IDX",
+          "id": "208",
+          "name": "Indofood Sukses Makmur Tbk.",
+          "symbol": "INDF",
+          "symbol_2": "INDF",
+          "symbol_3": "",
+          "type": "",
+          "badges": {
+            "is_new": false
+          },
+          "icon_url": "https://assets.stockbit.com/logos/companies/INDF.png"
+        },
+        "results": [
+          {
+            "display": "10.82 B",
+            "id": 13591,
+            "item": "1 Week Net Foreign Flow",
+            "raw": "10820217500.00"
+          },
+          {
+            "display": "54,641,975,250.00",
+            "id": 16454,
+            "item": "Value MA 20",
+            "raw": "54641975250.00"
+          },
+          {
+            "display": "984.19",
+            "id": 1475,
+            "item": "EPS (Annual)",
+            "raw": "984.19"
+          },
+          {
+            "display": "5",
+            "id": 13366,
+            "item": "Piotroski F-Score",
+            "raw": "5.00"
+          },
+          {
+            "display": "60,841,308,500.00",
+            "id": 16453,
+            "item": "Value MA 10",
+            "raw": "60841308500.00"
+          },
+          {
+            "display": "11.05%",
+            "id": 1461,
+            "item": "Return on Equity (TTM)",
+            "raw": "11.05"
+          },
+          {
+            "display": "6.36 B",
+            "id": 13539,
+            "item": "Net Foreign Buy / Sell MA10",
+            "raw": "6360346000.00"
+          }
+        ]
+      },
+      {
+        "company": {
+          "country": "ID",
+          "exchange": "IDX",
+          "id": "1000003366",
+          "name": "PAM Mineral Tbk. ",
+          "symbol": "NICL",
+          "symbol_2": "NICL",
+          "symbol_3": "NICL",
+          "type": "",
+          "badges": {
+            "is_new": false
+          },
+          "icon_url": "https://assets.stockbit.com/logos/companies/NICL.png"
+        },
+        "results": [
+          {
+            "display": "12.56 B",
+            "id": 13591,
+            "item": "1 Week Net Foreign Flow",
+            "raw": "12556080500.00"
+          },
+          {
+            "display": "37,623,043,100.00",
+            "id": 16454,
+            "item": "Value MA 20",
+            "raw": "37623043100.00"
+          },
+          {
+            "display": "29.90",
+            "id": 1475,
+            "item": "EPS (Annual)",
+            "raw": "29.90"
+          },
+          {
+            "display": "9",
+            "id": 13366,
+            "item": "Piotroski F-Score",
+            "raw": "9.00"
+          },
+          {
+            "display": "43,835,968,200.00",
+            "id": 16453,
+            "item": "Value MA 10",
+            "raw": "43835968200.00"
+          },
+          {
+            "display": "65.70%",
+            "id": 1461,
+            "item": "Return on Equity (TTM)",
+            "raw": "65.70"
+          },
+          {
+            "display": "2.03 B",
+            "id": 13539,
+            "item": "Net Foreign Buy / Sell MA10",
+            "raw": "2031159450.00"
+          }
+        ]
+      },
+      {
+        "company": {
+          "country": "ID",
+          "exchange": "IDX",
+          "id": "249",
+          "name": "Kalbe Farma Tbk.",
+          "symbol": "KLBF",
+          "symbol_2": "KLBF",
+          "symbol_3": "",
+          "type": "",
+          "badges": {
+            "is_new": false
+          },
+          "icon_url": "https://assets.stockbit.com/logos/companies/KLBF.png"
+        },
+        "results": [
+          {
+            "display": "13.37 B",
+            "id": 13591,
+            "item": "1 Week Net Foreign Flow",
+            "raw": "13372649000.00"
+          },
+          {
+            "display": "115,150,445,475.00",
+            "id": 16454,
+            "item": "Value MA 20",
+            "raw": "115150445475.00"
+          },
+          {
+            "display": "69.13",
+            "id": 1475,
+            "item": "EPS (Annual)",
+            "raw": "69.13"
+          },
+          {
+            "display": "7",
+            "id": 13366,
+            "item": "Piotroski F-Score",
+            "raw": "7.00"
+          },
+          {
+            "display": "78,952,150,700.00",
+            "id": 16453,
+            "item": "Value MA 10",
+            "raw": "78952150700.00"
+          },
+          {
+            "display": "15.21%",
+            "id": 1461,
+            "item": "Return on Equity (TTM)",
+            "raw": "15.21"
+          },
+          {
+            "display": "2.73 B",
+            "id": 13539,
+            "item": "Net Foreign Buy / Sell MA10",
+            "raw": "2729559300.00"
+          }
+        ]
+      },
+      {
+        "company": {
+          "country": "ID",
+          "exchange": "IDX",
+          "id": "1000003271",
+          "name": "Triputra Agro Persada Tbk",
+          "symbol": "TAPG",
+          "symbol_2": "TAPG",
+          "symbol_3": "TAPG",
+          "type": "",
+          "badges": {
+            "is_new": false
+          },
+          "icon_url": "https://assets.stockbit.com/logos/companies/TAPG.png"
+        },
+        "results": [
+          {
+            "display": "15.51 B",
+            "id": 13591,
+            "item": "1 Week Net Foreign Flow",
+            "raw": "15512954500.00"
+          },
+          {
+            "display": "24,152,516,225.00",
+            "id": 16454,
+            "item": "Value MA 20",
+            "raw": "24152516225.00"
+          },
+          {
+            "display": "157.17",
+            "id": 1475,
+            "item": "EPS (Annual)",
+            "raw": "157.17"
+          },
+          {
+            "display": "7",
+            "id": 13366,
+            "item": "Piotroski F-Score",
+            "raw": "7.00"
+          },
+          {
+            "display": "30,738,027,900.00",
+            "id": 16453,
+            "item": "Value MA 10",
+            "raw": "30738027900.00"
+          },
+          {
+            "display": "37.33%",
+            "id": 1461,
+            "item": "Return on Equity (TTM)",
+            "raw": "37.33"
+          },
+          {
+            "display": "5.06 B",
+            "id": 13539,
+            "item": "Net Foreign Buy / Sell MA10",
+            "raw": "5064034250.00"
+          }
+        ]
+      },
+      {
+        "company": {
+          "country": "ID",
+          "exchange": "IDX",
+          "id": "190",
+          "name": "H.M. Sampoerna Tbk.",
+          "symbol": "HMSP",
+          "symbol_2": "HMSP",
+          "symbol_3": "",
+          "type": "",
+          "badges": {
+            "is_new": false
+          },
+          "icon_url": "https://assets.stockbit.com/logos/companies/HMSP.png"
+        },
+        "results": [
+          {
+            "display": "16.26 B",
+            "id": 13591,
+            "item": "1 Week Net Foreign Flow",
+            "raw": "16262557000.00"
+          },
+          {
+            "display": "33,933,495,950.00",
+            "id": 16454,
+            "item": "Value MA 20",
+            "raw": "33933495950.00"
+          },
+          {
+            "display": "57.13",
+            "id": 1475,
+            "item": "EPS (Annual)",
+            "raw": "57.13"
+          },
+          {
+            "display": "7",
+            "id": 13366,
+            "item": "Piotroski F-Score",
+            "raw": "7.00"
+          },
+          {
+            "display": "21,584,702,400.00",
+            "id": 16453,
+            "item": "Value MA 10",
+            "raw": "21584702400.00"
+          },
+          {
+            "display": "22.56%",
+            "id": 1461,
+            "item": "Return on Equity (TTM)",
+            "raw": "22.56"
+          },
+          {
+            "display": "4.66 B",
+            "id": 13539,
+            "item": "Net Foreign Buy / Sell MA10",
+            "raw": "4661171350.00"
+          }
+        ]
+      },
+      {
+        "company": {
+          "country": "ID",
+          "exchange": "IDX",
+          "id": "123",
+          "name": "Charoen Pokphand Indonesia Tbk",
+          "symbol": "CPIN",
+          "symbol_2": "CPIN",
+          "symbol_3": "",
+          "type": "",
+          "badges": {
+            "is_new": false
+          },
+          "icon_url": "https://assets.stockbit.com/logos/companies/CPIN.png"
+        },
+        "results": [
+          {
+            "display": "22.54 B",
+            "id": 13591,
+            "item": "1 Week Net Foreign Flow",
+            "raw": "22544107000.00"
+          },
+          {
+            "display": "25,394,629,900.00",
+            "id": 16454,
+            "item": "Value MA 20",
+            "raw": "25394629900.00"
+          },
+          {
+            "display": "226.43",
+            "id": 1475,
+            "item": "EPS (Annual)",
+            "raw": "226.43"
+          },
+          {
+            "display": "8",
+            "id": 13366,
+            "item": "Piotroski F-Score",
+            "raw": "8.00"
+          },
+          {
+            "display": "24,041,378,400.00",
+            "id": 16453,
+            "item": "Value MA 10",
+            "raw": "24041378400.00"
+          },
+          {
+            "display": "14.71%",
+            "id": 1461,
+            "item": "Return on Equity (TTM)",
+            "raw": "14.71"
+          },
+          {
+            "display": "2.00 B",
+            "id": 13539,
+            "item": "Net Foreign Buy / Sell MA10",
+            "raw": "2003741800.00"
+          }
+        ]
+      },
+      {
+        "company": {
+          "country": "ID",
+          "exchange": "IDX",
+          "id": "614",
+          "name": "Hartadinata Abadi Tbk",
+          "symbol": "HRTA",
+          "symbol_2": "HRTA",
+          "symbol_3": "HRTA",
+          "type": "",
+          "badges": {
+            "is_new": false
+          },
+          "icon_url": "https://assets.stockbit.com/logos/companies/HRTA.png"
+        },
+        "results": [
+          {
+            "display": "26.74 B",
+            "id": 13591,
+            "item": "1 Week Net Foreign Flow",
+            "raw": "26737058000.00"
+          },
+          {
+            "display": "83,485,020,175.00",
+            "id": 16454,
+            "item": "Value MA 20",
+            "raw": "83485020175.00"
+          },
+          {
+            "display": "96.02",
+            "id": 1475,
+            "item": "EPS (Annual)",
+            "raw": "96.02"
+          },
+          {
+            "display": "5",
+            "id": 13366,
+            "item": "Piotroski F-Score",
+            "raw": "5.00"
+          },
+          {
+            "display": "127,601,536,550.00",
+            "id": 16453,
+            "item": "Value MA 10",
+            "raw": "127601536550.00"
+          },
+          {
+            "display": "25.40%",
+            "id": 1461,
+            "item": "Return on Equity (TTM)",
+            "raw": "25.40"
+          },
+          {
+            "display": "6.85 B",
+            "id": 13539,
+            "item": "Net Foreign Buy / Sell MA10",
+            "raw": "6846652500.00"
+          }
+        ]
+      },
+      {
+        "company": {
+          "country": "ID",
+          "exchange": "IDX",
+          "id": "195",
+          "name": "Indofood CBP Sukses Makmur Tbk.",
+          "symbol": "ICBP",
+          "symbol_2": "ICBP",
+          "symbol_3": "ICBP",
+          "type": "",
+          "badges": {
+            "is_new": false
+          },
+          "icon_url": "https://assets.stockbit.com/logos/companies/ICBP.png"
+        },
+        "results": [
+          {
+            "display": "29.83 B",
+            "id": 13591,
+            "item": "1 Week Net Foreign Flow",
+            "raw": "29826990000.00"
+          },
+          {
+            "display": "98,790,400,375.00",
+            "id": 16454,
+            "item": "Value MA 20",
+            "raw": "98790400375.00"
+          },
+          {
+            "display": "607.05",
+            "id": 1475,
+            "item": "EPS (Annual)",
+            "raw": "607.05"
+          },
+          {
+            "display": "5",
+            "id": 13366,
+            "item": "Piotroski F-Score",
+            "raw": "5.00"
+          },
+          {
+            "display": "72,134,482,500.00",
+            "id": 16453,
+            "item": "Value MA 10",
+            "raw": "72134482500.00"
+          },
+          {
+            "display": "12.25%",
+            "id": 1461,
+            "item": "Return on Equity (TTM)",
+            "raw": "12.25"
+          },
+          {
+            "display": "10.53 B",
+            "id": 13539,
+            "item": "Net Foreign Buy / Sell MA10",
+            "raw": "10531601250.00"
+          }
+        ]
+      },
+      {
+        "company": {
+          "country": "ID",
+          "exchange": "IDX",
+          "id": "1000004310",
+          "name": "Barito Renewables Energy Tbk.",
+          "symbol": "BREN",
+          "symbol_2": "BREN",
+          "symbol_3": "BREN",
+          "type": "",
+          "badges": {
+            "is_new": false
+          },
+          "icon_url": "https://assets.stockbit.com/logos/companies/BREN.png"
+        },
+        "results": [
+          {
+            "display": "34.07 B",
+            "id": 13591,
+            "item": "1 Week Net Foreign Flow",
+            "raw": "34068930000.00"
+          },
+          {
+            "display": "104,798,661,375.00",
+            "id": 16454,
+            "item": "Value MA 20",
+            "raw": "104798661375.00"
+          },
+          {
+            "display": "14.47",
+            "id": 1475,
+            "item": "EPS (Annual)",
+            "raw": "14.47"
+          },
+          {
+            "display": "6",
+            "id": 13366,
+            "item": "Piotroski F-Score",
+            "raw": "6.00"
+          },
+          {
+            "display": "91,799,714,250.00",
+            "id": 16453,
+            "item": "Value MA 10",
+            "raw": "91799714250.00"
+          },
+          {
+            "display": "22.53%",
+            "id": 1461,
+            "item": "Return on Equity (TTM)",
+            "raw": "22.53"
+          },
+          {
+            "display": "11.17 B",
+            "id": 13539,
+            "item": "Net Foreign Buy / Sell MA10",
+            "raw": "11168618000.00"
+          }
+        ]
+      },
+      {
+        "company": {
+          "country": "ID",
+          "exchange": "IDX",
+          "id": "449",
+          "name": "Unilever Indonesia Tbk.",
+          "symbol": "UNVR",
+          "symbol_2": "UNVR",
+          "symbol_3": "UNVR",
+          "type": "",
+          "badges": {
+            "is_new": false
+          },
+          "icon_url": "https://assets.stockbit.com/logos/companies/UNVR.png"
+        },
+        "results": [
+          {
+            "display": "37.28 B",
+            "id": 13591,
+            "item": "1 Week Net Foreign Flow",
+            "raw": "37278203000.00"
+          },
+          {
+            "display": "75,778,682,800.00",
+            "id": 16454,
+            "item": "Value MA 20",
+            "raw": "75778682800.00"
+          },
+          {
+            "display": "88.30",
+            "id": 1475,
+            "item": "EPS (Annual)",
+            "raw": "88.30"
+          },
+          {
+            "display": "5",
+            "id": 13366,
+            "item": "Piotroski F-Score",
+            "raw": "5.00"
+          },
+          {
+            "display": "56,634,662,800.00",
+            "id": 16453,
+            "item": "Value MA 10",
+            "raw": "56634662800.00"
+          },
+          {
+            "display": "110.13%",
+            "id": 1461,
+            "item": "Return on Equity (TTM)",
+            "raw": "110.13"
+          },
+          {
+            "display": "4.54 B",
+            "id": 13539,
+            "item": "Net Foreign Buy / Sell MA10",
+            "raw": "4538676500.00"
+          }
+        ]
+      },
+      {
+        "company": {
+          "country": "ID",
+          "exchange": "IDX",
+          "id": "1000003487",
+          "name": "RMK Energy Tbk.",
+          "symbol": "RMKE",
+          "symbol_2": "RMKE",
+          "symbol_3": "RMKE",
+          "type": "",
+          "badges": {
+            "is_new": false
+          },
+          "icon_url": "https://assets.stockbit.com/logos/companies/RMKE.png"
+        },
+        "results": [
+          {
+            "display": "44.08 B",
+            "id": 13591,
+            "item": "1 Week Net Foreign Flow",
+            "raw": "44081037500.00"
+          },
+          {
+            "display": "104,199,762,125.00",
+            "id": 16454,
+            "item": "Value MA 20",
+            "raw": "104199762125.00"
+          },
+          {
+            "display": "65.84",
+            "id": 1475,
+            "item": "EPS (Annual)",
+            "raw": "65.84"
+          },
+          {
+            "display": "5",
+            "id": 13366,
+            "item": "Piotroski F-Score",
+            "raw": "5.00"
+          },
+          {
+            "display": "132,980,203,450.00",
+            "id": 16453,
+            "item": "Value MA 10",
+            "raw": "132980203450.00"
+          },
+          {
+            "display": "12.35%",
+            "id": 1461,
+            "item": "Return on Equity (TTM)",
+            "raw": "12.35"
+          },
+          {
+            "display": "6.87 B",
+            "id": 13539,
+            "item": "Net Foreign Buy / Sell MA10",
+            "raw": "6867809650.00"
+          }
+        ]
+      },
+      {
+        "company": {
+          "country": "ID",
+          "exchange": "IDX",
+          "id": "150",
+          "name": "Elang Mahkota Teknologi Tbk.",
+          "symbol": "EMTK",
+          "symbol_2": "EMTK",
+          "symbol_3": "EMTK",
+          "type": "",
+          "badges": {
+            "is_new": false
+          },
+          "icon_url": "https://assets.stockbit.com/logos/companies/EMTK.png"
+        },
+        "results": [
+          {
+            "display": "56.07 B",
+            "id": 13591,
+            "item": "1 Week Net Foreign Flow",
+            "raw": "56071722500.00"
+          },
+          {
+            "display": "256,278,105,025.00",
+            "id": 16454,
+            "item": "Value MA 20",
+            "raw": "256278105025.00"
+          },
+          {
+            "display": "23.95",
+            "id": 1475,
+            "item": "EPS (Annual)",
+            "raw": "23.95"
+          },
+          {
+            "display": "7",
+            "id": 13366,
+            "item": "Piotroski F-Score",
+            "raw": "7.00"
+          },
+          {
+            "display": "283,231,531,350.00",
+            "id": 16453,
+            "item": "Value MA 10",
+            "raw": "283231531350.00"
+          },
+          {
+            "display": "19.07%",
+            "id": 1461,
+            "item": "Return on Equity (TTM)",
+            "raw": "19.07"
+          },
+          {
+            "display": "11.08 B",
+            "id": 13539,
+            "item": "Net Foreign Buy / Sell MA10",
+            "raw": "11081831850.00"
+          }
+        ]
+      },
+      {
+        "company": {
+          "country": "ID",
+          "exchange": "IDX",
+          "id": "1000004013",
+          "name": "Trimegah Bangun Persada Tbk.",
+          "symbol": "NCKL",
+          "symbol_2": "NCKL",
+          "symbol_3": "NCKL",
+          "type": "",
+          "badges": {
+            "is_new": false
+          },
+          "icon_url": "https://assets.stockbit.com/logos/companies/NCKL.png"
+        },
+        "results": [
+          {
+            "display": "76.78 B",
+            "id": 13591,
+            "item": "1 Week Net Foreign Flow",
+            "raw": "76781298500.00"
+          },
+          {
+            "display": "54,838,315,575.00",
+            "id": 16454,
+            "item": "Value MA 20",
+            "raw": "54838315575.00"
+          },
+          {
+            "display": "101.10",
+            "id": 1475,
+            "item": "EPS (Annual)",
+            "raw": "101.10"
+          },
+          {
+            "display": "6",
+            "id": 13366,
+            "item": "Piotroski F-Score",
+            "raw": "6.00"
+          },
+          {
+            "display": "78,842,563,850.00",
+            "id": 16453,
+            "item": "Value MA 10",
+            "raw": "78842563850.00"
+          },
+          {
+            "display": "22.36%",
+            "id": 1461,
+            "item": "Return on Equity (TTM)",
+            "raw": "22.36"
+          },
+          {
+            "display": "11.09 B",
+            "id": 13539,
+            "item": "Net Foreign Buy / Sell MA10",
+            "raw": "11087817700.00"
+          }
+        ]
+      },
+      {
+        "company": {
+          "country": "ID",
+          "exchange": "IDX",
+          "id": "327",
+          "name": "Perusahaan Gas Negara Tbk.",
+          "symbol": "PGAS",
+          "symbol_2": "PGAS",
+          "symbol_3": "PGAS",
+          "type": "",
+          "badges": {
+            "is_new": false
+          },
+          "icon_url": "https://assets.stockbit.com/logos/companies/PGAS.png"
+        },
+        "results": [
+          {
+            "display": "88.97 B",
+            "id": 13591,
+            "item": "1 Week Net Foreign Flow",
+            "raw": "88967167000.00"
+          },
+          {
+            "display": "63,538,263,175.00",
+            "id": 16454,
+            "item": "Value MA 20",
+            "raw": "63538263175.00"
+          },
+          {
+            "display": "221.93",
+            "id": 1475,
+            "item": "EPS (Annual)",
+            "raw": "221.93"
+          },
+          {
+            "display": "5",
+            "id": 13366,
+            "item": "Piotroski F-Score",
+            "raw": "5.00"
+          },
+          {
+            "display": "55,205,191,200.00",
+            "id": 16453,
+            "item": "Value MA 10",
+            "raw": "55205191200.00"
+          },
+          {
+            "display": "11.02%",
+            "id": 1461,
+            "item": "Return on Equity (TTM)",
+            "raw": "11.02"
+          },
+          {
+            "display": "14.70 B",
+            "id": 13539,
+            "item": "Net Foreign Buy / Sell MA10",
+            "raw": "14704858750.00"
+          }
+        ]
+      },
+      {
+        "company": {
+          "country": "ID",
+          "exchange": "IDX",
+          "id": "524",
+          "name": "Impack Pratama Industri Tbk.",
+          "symbol": "IMPC",
+          "symbol_2": "IMPC",
+          "symbol_3": "IMPC",
+          "type": "",
+          "badges": {
+            "is_new": false
+          },
+          "icon_url": "https://assets.stockbit.com/logos/companies/IMPC.png?version=1742443117317841833"
+        },
+        "results": [
+          {
+            "display": "128.36 B",
+            "id": 13591,
+            "item": "1 Week Net Foreign Flow",
+            "raw": "128358285000.00"
+          },
+          {
+            "display": "192,578,474,250.00",
+            "id": 16454,
+            "item": "Value MA 20",
+            "raw": "192578474250.00"
+          },
+          {
+            "display": "9.94",
+            "id": 1475,
+            "item": "EPS (Annual)",
+            "raw": "9.94"
+          },
+          {
+            "display": "9",
+            "id": 13366,
+            "item": "Piotroski F-Score",
+            "raw": "9.00"
+          },
+          {
+            "display": "148,644,928,700.00",
+            "id": 16453,
+            "item": "Value MA 10",
+            "raw": "148644928700.00"
+          },
+          {
+            "display": "21.17%",
+            "id": 1461,
+            "item": "Return on Equity (TTM)",
+            "raw": "21.17"
+          },
+          {
+            "display": "26.90 B",
+            "id": 13539,
+            "item": "Net Foreign Buy / Sell MA10",
+            "raw": "26904301600.00"
+          }
+        ]
+      },
+      {
+        "company": {
+          "country": "ID",
+          "exchange": "IDX",
+          "id": "40",
+          "name": "Astra International Tbk.",
+          "symbol": "ASII",
+          "symbol_2": "ASII",
+          "symbol_3": "ASII",
+          "type": "",
+          "badges": {
+            "is_new": false
+          },
+          "icon_url": "https://assets.stockbit.com/logos/companies/ASII.png"
+        },
+        "results": [
+          {
+            "display": "160.25 B",
+            "id": 13591,
+            "item": "1 Week Net Foreign Flow",
+            "raw": "160250865000.00"
+          },
+          {
+            "display": "236,911,488,875.00",
+            "id": 16454,
+            "item": "Value MA 20",
+            "raw": "236911488875.00"
+          },
+          {
+            "display": "841.11",
+            "id": 1475,
+            "item": "EPS (Annual)",
+            "raw": "841.11"
+          },
+          {
+            "display": "5",
+            "id": 13366,
+            "item": "Piotroski F-Score",
+            "raw": "5.00"
+          },
+          {
+            "display": "211,011,492,250.00",
+            "id": 16453,
+            "item": "Value MA 10",
+            "raw": "211011492250.00"
+          },
+          {
+            "display": "14.39%",
+            "id": 1461,
+            "item": "Return on Equity (TTM)",
+            "raw": "14.39"
+          },
+          {
+            "display": "42.86 B",
+            "id": 13539,
+            "item": "Net Foreign Buy / Sell MA10",
+            "raw": "42859059000.00"
+          }
+        ]
+      },
+      {
+        "company": {
+          "country": "ID",
+          "exchange": "IDX",
+          "id": "447",
+          "name": "United Tractors Tbk.",
+          "symbol": "UNTR",
+          "symbol_2": "UNTR",
+          "symbol_3": "UNTR",
+          "type": "",
+          "badges": {
+            "is_new": false
+          },
+          "icon_url": "https://assets.stockbit.com/logos/companies/UNTR.png"
+        },
+        "results": [
+          {
+            "display": "286.09 B",
+            "id": 13591,
+            "item": "1 Week Net Foreign Flow",
+            "raw": "286092427500.00"
+          },
+          {
+            "display": "142,872,652,750.00",
+            "id": 16454,
+            "item": "Value MA 20",
+            "raw": "142872652750.00"
+          },
+          {
+            "display": "5,236.06",
+            "id": 1475,
+            "item": "EPS (Annual)",
+            "raw": "5236.06"
+          },
+          {
+            "display": "5",
+            "id": 13366,
+            "item": "Piotroski F-Score",
+            "raw": "5.00"
+          },
+          {
+            "display": "140,821,747,750.00",
+            "id": 16453,
+            "item": "Value MA 10",
+            "raw": "140821747750.00"
+          },
+          {
+            "display": "15.88%",
+            "id": 1461,
+            "item": "Return on Equity (TTM)",
+            "raw": "15.88"
+          },
+          {
+            "display": "47.25 B",
+            "id": 13539,
+            "item": "Net Foreign Buy / Sell MA10",
+            "raw": "47253590000.00"
+          }
+        ]
+      },
+      {
+        "company": {
+          "country": "ID",
+          "exchange": "IDX",
+          "id": "79",
+          "name": "Bank Mandiri (Persero) Tbk.",
+          "symbol": "BMRI",
+          "symbol_2": "BMRI",
+          "symbol_3": "BMRI",
+          "type": "",
+          "badges": {
+            "is_new": false
+          },
+          "icon_url": "https://assets.stockbit.com/logos/companies/BMRI.png"
+        },
+        "results": [
+          {
+            "display": "487.78 B",
+            "id": 13591,
+            "item": "1 Week Net Foreign Flow",
+            "raw": "487777877500.00"
+          },
+          {
+            "display": "515,613,250,975.00",
+            "id": 16454,
+            "item": "Value MA 20",
+            "raw": "515613250975.00"
+          },
+          {
+            "display": "597.67",
+            "id": 1475,
+            "item": "EPS (Annual)",
+            "raw": "597.67"
+          },
+          {
+            "display": "5",
+            "id": 13366,
+            "item": "Piotroski F-Score",
+            "raw": "5.00"
+          },
+          {
+            "display": "556,461,636,200.00",
+            "id": 16453,
+            "item": "Value MA 10",
+            "raw": "556461636200.00"
+          },
+          {
+            "display": "18.28%",
+            "id": 1461,
+            "item": "Return on Equity (TTM)",
+            "raw": "18.28"
+          },
+          {
+            "display": "66.06 B",
+            "id": 13539,
+            "item": "Net Foreign Buy / Sell MA10",
+            "raw": "66062171250.00"
+          }
+        ]
+      },
+      {
+        "company": {
+          "country": "ID",
+          "exchange": "IDX",
+          "id": "26",
+          "name": "Aneka Tambang Tbk.",
+          "symbol": "ANTM",
+          "symbol_2": "ANTM",
+          "symbol_3": "ANTM",
+          "type": "",
+          "badges": {
+            "is_new": false
+          },
+          "icon_url": "https://assets.stockbit.com/logos/companies/ANTM.png"
+        },
+        "results": [
+          {
+            "display": "902.33 B",
+            "id": 13591,
+            "item": "1 Week Net Foreign Flow",
+            "raw": "902334415000.00"
+          },
+          {
+            "display": "387,513,318,800.00",
+            "id": 16454,
+            "item": "Value MA 20",
+            "raw": "387513318800.00"
+          },
+          {
+            "display": "151.77",
+            "id": 1475,
+            "item": "EPS (Annual)",
+            "raw": "151.77"
+          },
+          {
+            "display": "9",
+            "id": 13366,
+            "item": "Piotroski F-Score",
+            "raw": "9.00"
+          },
+          {
+            "display": "585,944,644,800.00",
+            "id": 16453,
+            "item": "Value MA 10",
+            "raw": "585944644800.00"
+          },
+          {
+            "display": "21.94%",
+            "id": 1461,
+            "item": "Return on Equity (TTM)",
+            "raw": "21.94"
+          },
+          {
+            "display": "109.35 B",
+            "id": 13539,
+            "item": "Net Foreign Buy / Sell MA10",
+            "raw": "109346826300.00"
+          }
+        ]
+      }
+    ],
+    "rules": [
+      {
+        "item1": 13591,
+        "item1_name": "1 Week Net Foreign Flow",
+        "item2": "10000000000",
+        "item2_name": "",
+        "multiplier": "0",
+        "operator": ">",
+        "type": "basic"
+      },
+      {
+        "item1": 16454,
+        "item1_name": "Value MA 20",
+        "item2": "20000000000",
+        "item2_name": "",
+        "multiplier": "0",
+        "operator": ">",
+        "type": "basic"
+      },
+      {
+        "item1": 1475,
+        "item1_name": "EPS (Annual)",
+        "item2": "0",
+        "item2_name": "",
+        "multiplier": "0",
+        "operator": ">",
+        "type": "basic"
+      },
+      {
+        "item1": 13366,
+        "item1_name": "Piotroski F-Score",
+        "item2": "3",
+        "item2_name": "",
+        "multiplier": "0",
+        "operator": ">",
+        "type": "basic"
+      },
+      {
+        "item1": 16453,
+        "item1_name": "Value MA 10",
+        "item2": "10000000000",
+        "item2_name": "",
+        "multiplier": "0",
+        "operator": ">",
+        "type": "basic"
+      },
+      {
+        "item1": 1461,
+        "item1_name": "Return on Equity (TTM)",
+        "item2": "10",
+        "item2_name": "",
+        "multiplier": "0",
+        "operator": ">",
+        "type": "basic"
+      },
+      {
+        "item1": 13539,
+        "item1_name": "Net Foreign Buy / Sell MA10",
+        "item2": "1000000000",
+        "item2_name": "",
+        "multiplier": "0",
+        "operator": ">",
+        "type": "basic"
+      }
+    ],
+    "columns": [
+      {
+        "coloring": "0",
+        "id": 13591,
+        "name": "1 Week Net Foreign Flow",
+        "removable": "0"
+      },
+      {
+        "coloring": "0",
+        "id": 16454,
+        "name": "Value MA 20",
+        "removable": "0"
+      },
+      {
+        "coloring": "0",
+        "id": 1475,
+        "name": "EPS (Annual)",
+        "removable": "0"
+      },
+      {
+        "coloring": "0",
+        "id": 13366,
+        "name": "Piotroski F-Score",
+        "removable": "0"
+      },
+      {
+        "coloring": "0",
+        "id": 16453,
+        "name": "Value MA 10",
+        "removable": "0"
+      },
+      {
+        "coloring": "0",
+        "id": 1461,
+        "name": "Return on Equity (TTM)",
+        "removable": "0"
+      },
+      {
+        "coloring": "0",
+        "id": 13539,
+        "name": "Net Foreign Buy / Sell MA10",
+        "removable": "0"
+      }
+    ],
+    "curpage": 1,
+    "favorite": false,
+    "isguru": false,
+    "order": 2,
+    "perpage": 25,
+    "screen_desc": "",
+    "screen_name": "FOREIGN MOLOGY",
+    "screenerid": 4948261,
+    "sequence": [
+      "13591",
+      "16454",
+      "1475",
+      "13366",
+      "16453",
+      "1461",
+      "13539"
+    ],
+    "sort": "ASC",
+    "totalrows": 19,
+    "universe": "{\"scope\":\"IHSG\",\"scopeID\":\"0\",\"name\":\"IHSG\"}",
+    "type": "TEMPLATE_TYPE_CUSTOM"
+  },
+  "message": "Successfully load screener template"
+}

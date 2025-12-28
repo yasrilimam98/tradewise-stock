@@ -162,9 +162,49 @@ Kesimpulan awal: ${conclusion}`;
     return { context, prompt };
 };
 
+// Fundamental Analysis Prompt Generator
+export const generateFundAnalysisPrompt = (data) => {
+    const { symbol, sector, analysis, keyStats } = data;
+
+    const context = `Kamu adalah analis fundamental saham Indonesia profesional yang mengikuti prinsip value investing.
+Kamu akan menganalisis saham ${symbol} dari sektor ${sector?.name || 'Umum'}.
+
+📊 RINGKASAN SKOR:
+- Kualitas Bisnis: ${analysis?.businessQuality?.score || 0}/100
+- Kesehatan Keuangan: ${analysis?.financialHealth?.score || 0}/100
+- Valuasi: ${analysis?.valuation?.score || 0}/100
+- Verdikt Sistem: ${analysis?.verdict?.status || 'N/A'}
+
+📈 KEY STATS:
+${Object.entries(keyStats || {}).slice(0, 20).map(([k, v]) => `- ${k}: ${v}`).join('\n')}
+
+📝 INSIGHT KUALITAS BISNIS:
+${analysis?.businessQuality?.items?.map(i => `- ${i.text}`).join('\n') || 'N/A'}
+
+📝 INSIGHT KESEHATAN KEUANGAN:
+${analysis?.financialHealth?.items?.map(i => `- ${i.text}`).join('\n') || 'N/A'}
+
+📝 INSIGHT VALUASI:
+${analysis?.valuation?.items?.map(i => `- ${i.text}`).join('\n') || 'N/A'}`;
+
+    const prompt = `Berdasarkan data fundamental di atas untuk saham ${symbol} (Sektor: ${sector?.name || 'Umum'}), berikan analisis profesional mencakup:
+1. Ringkasan kondisi fundamental perusahaan secara keseluruhan
+2. Kekuatan kompetitif (competitive advantage/economic moat) yang dimiliki
+3. Risiko fundamental utama yang perlu investor perhatikan
+4. Apakah valuasi saat ini menarik untuk investasi jangka panjang?
+5. Level harga wajar atau target yang disarankan
+6. Rekomendasi: BELI, HOLD, atau HINDARI dengan alasan jelas
+
+Catatan: Analisis harus kontekstual dengan karakteristik sektor ${sector?.name || 'Umum'}.`;
+
+    return { context, prompt };
+};
+
 export default {
     analyzeWithAI,
     generatePVAPrompt,
     generateValueInvestingPrompt,
-    generateBandarPrompt
+    generateBandarPrompt,
+    generateFundAnalysisPrompt
 };
+

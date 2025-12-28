@@ -1,12 +1,12 @@
 import React from 'react';
-import { Home, BookOpen, Activity, ClipboardCheck, Trophy, Settings, TrendingUp, Users, LineChart, Calculator, BarChart3 } from 'lucide-react';
+import { Home, BookOpen, Activity, ClipboardCheck, Trophy, Settings, TrendingUp, Users, LineChart, Calculator, BarChart3, Filter } from 'lucide-react';
 
 const MobileNavbar = ({ view, setView, isAdmin }) => {
   const navItems = [
     { icon: Home, label: 'Home', viewName: 'dashboard' },
     { icon: Users, label: 'Bandar', viewName: 'bandarDetector' },
-    { icon: BarChart3, label: 'PVA', viewName: 'pva' },
-    { icon: Calculator, label: 'Value', viewName: 'valueInvesting' },
+    { icon: BarChart3, label: 'Fund', viewName: 'fundAnalysis' },
+    { icon: Filter, label: 'Screener', viewName: 'screener' },
     { icon: Settings, label: 'Setting', viewName: 'settings' },
   ];
   
